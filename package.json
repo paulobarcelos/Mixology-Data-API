@@ -1,5 +1,5 @@
 {
-	"name": "Mixology Data API",
+	"name": "MixologyDataAPI",
 	"version": "0.0.1",
 	"author": "Paulo Barcelos - paulobarcelos.com",
 	"description": "API for interacting with Mixology data during the experiments.",
