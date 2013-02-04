@@ -108,40 +108,33 @@ app.post('/api/items', function (req, res) {
 
 	item.save(function (err) {
 		if (!err) {
-			return console.log("item created");
+			return res.send(item);
 		} else {
-			return console.log(err);
-		}
-	});
-	return ItemModel.find().sort({color:1}).exec(function (err, items) {
-		if (!err) {
-			return res.send(items);
-		} else {
-			return console.log(err);
+			return res.send({success: false});
 		}
 	});
 });
 
 // List items
 app.get('/api/items', function (req, res) {
-	return ItemModel
+	ItemModel
 		.find()
 		.sort({color:1}).
 		exec(function (err, items) {
 		if (!err) {
 			return res.send(items);
 		} else {
-			return console.log(err);
+			return res.send({success: false});
 		}
 	});
 });
 
 app.get('/api/items/:id', function (req, res) {
-	return ItemModel.findById(req.params.id, function (err, item) {
+	ItemModel.findById(req.params.id, function (err, item) {
 		if (!err) {
 			return res.send(item);
 		} else {
-			return res.send({message:"item not found"});
+			return res.send({success: false});
 		}
 	});
 });
@@ -153,10 +146,9 @@ app.put('/api/items/:id', function (req, res) {
 		item.color = req.body.color;
 		item.save(function (err) {
 			if (!err) {
-				console.log("updated");
-				return res.send('');
+				return res.send(item);
 			} else {
-				console.log(err);
+				return res.send({success: false});
 			}
 		});
 	});
@@ -167,10 +159,9 @@ app.delete('/api/items/:id', function (req, res) {
 	ItemModel.findById(req.params.id, function (err, item) {
 		item.remove(function (err) {
 			if (!err) {
-				console.log("deleted");
-				return res.send('');
+				return res.send(item);
 			} else {
-				console.log(err);
+				return res.send({success: false});
 			}
 		});
 	});
