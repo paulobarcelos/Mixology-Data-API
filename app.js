@@ -66,7 +66,7 @@ var User = new Schema({
 });
 var UserModel = mongoose.model('User', User);
  
-var FoodItem = new Schema({
+var Flavor = new Schema({
 	name: { 
 		type: String,
 		required: true,
@@ -77,10 +77,10 @@ var FoodItem = new Schema({
 	},
 	created: { type: Date, default: Date.now },
 });
-var FoodItemModel = mongoose.model('FoodItem', FoodItem);
+var FlavorModel = mongoose.model('Flavor', Flavor);
  
 var Combination = new Schema({
-	foodItemIds: [Schema.Types.ObjectId],
+	flavorIds: [Schema.Types.ObjectId],
 	rating: { 
 			type: Number, 
 			enum: [1, 2, 3, 4, 5],
@@ -104,64 +104,64 @@ app.get('/api', function (req, res) {
 });
  
 /**
- * FoodItems ---------------------------------------------------------
+ * Flavors ---------------------------------------------------------
  */ 
-app.get('/api/foodItems', function (req, res) {
-	FoodItemModel
+app.get('/api/flavors', function (req, res) {
+	FlavorModel
 		.find()
 		.sort({color:1}).
-		exec(function (err, foodItems) {
+		exec(function (err, flavors) {
 		if (!err) {
-			return res.send(foodItems);
+			return res.send(flavors);
 		} else {
 			return res.send({success: false});
 		}
 	});
 });
-app.post('/api/foodItems', function (req, res) {
-	var foodItem;
+app.post('/api/flavors', function (req, res) {
+	var flavor;
 	
-	foodItem = new FoodItemModel({
+	flavor = new FlavorModel({
 		name: req.body.name,
 		color: req.body.color
 	});
 
-	foodItem.save(function (err) {
+	flavor.save(function (err) {
 		if (!err) {
-			return res.send(foodItem);
+			return res.send(flavor);
 		} else {
 			return res.send({success: false});
 		}
 	});
 });
-app.get('/api/foodItems/:id', function (req, res) {
-	FoodItemModel.findById(req.params.id, function (err, foodItem) {
+app.get('/api/flavors/:id', function (req, res) {
+	FlavorModel.findById(req.params.id, function (err, flavor) {
 		if (!err) {
-			return res.send(foodItem);
+			return res.send(flavor);
 		} else {
 			return res.send({success: false});
 		}
 	});
 });
-app.put('/api/foodItems/:id', function (req, res) {
-	FoodItemModel.findById(req.params.id, function (err, foodItem) {
+app.put('/api/flavors/:id', function (req, res) {
+	FlavorModel.findById(req.params.id, function (err, flavor) {
 		console.log(req.body)
-		foodItem.name = req.body.name;
-		foodItem.color = req.body.color;
-		foodItem.save(function (err) {
+		flavor.name = req.body.name;
+		flavor.color = req.body.color;
+		flavor.save(function (err) {
 			if (!err) {
-				return res.send(foodItem);
+				return res.send(flavor);
 			} else {
 				return res.send({success: false});
 			}
 		});
 	});
 });
-app.delete('/api/foodItems/:id', function (req, res) {
-	FoodItemModel.findById(req.params.id, function (err, foodItem) {
-		foodItem.remove(function (err) {
+app.delete('/api/flavors/:id', function (req, res) {
+	FlavorModel.findById(req.params.id, function (err, flavor) {
+		flavor.remove(function (err) {
 			if (!err) {
-				return res.send(foodItem);
+				return res.send(flavor);
 			} else {
 				return res.send({success: false});
 			}
