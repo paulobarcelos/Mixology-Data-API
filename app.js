@@ -42,6 +42,7 @@ else{
 	"db":"mixology"
 	}
 }
+console.log(mongo);
 var generate_mongo_url = function(obj){
 	obj.hostname = (obj.hostname || 'localhost');
 	obj.port = (obj.port || 27017);
@@ -58,34 +59,39 @@ mongoose.connect(mongourl);
 
 
 // Schemas
-var Schema = mongoose.Schema; 
+var Schema = mongoose.Schema;
+
+var Client = new Schema({
+	created: { type: Date, default: Date.now }
+});
+var ClientModel = mongoose.model('Client', Client);
  
 var Item = new Schema({
-		name: { 
-			type: String,
-			required: true,
-			unique: true
-		},
-		color: {
-			type: String
-		}
+	name: { 
+		type: String,
+		required: true,
+		unique: true
+	},
+	color: {
+		type: String
+	},
+	created: { type: Date, default: Date.now },
 });
 var ItemModel = mongoose.model('Item', Item);
  
 var Combination = new Schema({
-		items: [Item],
-		rating: { 
-				type: Number, 
-				enum: [1, 2, 3, 4, 5],
-				required: false
-		},
-		comment: { type: String },
-		created: { type: Date, default: Date.now },
-		clientId: { type: String }
+	items: [Item],
+	rating: { 
+			type: Number, 
+			enum: [1, 2, 3, 4, 5],
+			required: false
+	},
+	comment: { type: String },
+	created: { type: Date, default: Date.now },
+	client: { type: Client }
 });
 var CombinationModel = mongoose.model('Combination', Combination);
 
-// REST api
  
 var apiVersion = '1.0.0';
 app.get('/api', function (req, res) {
@@ -97,7 +103,21 @@ app.get('/api', function (req, res) {
 	res.send(hello);
 });
  
-// POST to CREATE
+/**
+ * Items ---------------------------------------------------------
+ */ 
+app.get('/api/items', function (req, res) {
+	ItemModel
+		.find()
+		.sort({color:1}).
+		exec(function (err, items) {
+		if (!err) {
+			return res.send(items);
+		} else {
+			return res.send({success: false});
+		}
+	});
+});
 app.post('/api/items', function (req, res) {
 	var item;
 	
@@ -114,21 +134,6 @@ app.post('/api/items', function (req, res) {
 		}
 	});
 });
-
-// List items
-app.get('/api/items', function (req, res) {
-	ItemModel
-		.find()
-		.sort({color:1}).
-		exec(function (err, items) {
-		if (!err) {
-			return res.send(items);
-		} else {
-			return res.send({success: false});
-		}
-	});
-});
-
 app.get('/api/items/:id', function (req, res) {
 	ItemModel.findById(req.params.id, function (err, item) {
 		if (!err) {
@@ -138,7 +143,6 @@ app.get('/api/items/:id', function (req, res) {
 		}
 	});
 });
-
 app.put('/api/items/:id', function (req, res) {
 	ItemModel.findById(req.params.id, function (err, item) {
 		console.log(req.body)
@@ -153,8 +157,6 @@ app.put('/api/items/:id', function (req, res) {
 		});
 	});
 });
-
-
 app.delete('/api/items/:id', function (req, res) {
 	ItemModel.findById(req.params.id, function (err, item) {
 		item.remove(function (err) {
@@ -167,6 +169,63 @@ app.delete('/api/items/:id', function (req, res) {
 	});
 });
 
+/**
+ * Clients ---------------------------------------------------------
+ */ 
+app.get('/api/clients', function (req, res) {
+	ClientModel
+		.find()
+		.sort({created:1}).
+		exec(function (err, result) {
+		if (!err) {
+			return res.send(result);
+		} else {
+			return res.send({success: false});
+		}
+	});
+});
+app.post('/api/clients', function (req, res) {
+	var client = new ClientModel();
+	client.save(function (err) {
+		if (!err) {
+			return res.send(client);
+		} else {
+			return res.send({success: false});
+		}
+	});
+});
+app.get('/api/clients/:id', function (req, res) {
+	ClientModel.findById(req.params.id, function (err, client) {
+		if (!err) {
+			return res.send(client);
+		} else {
+			return res.send({success: false});
+		}
+	});
+});
+app.put('/api/clients/:id', function (req, res) {
+	ClientModel.findById(req.params.id, function (err, client) {
+		client.created = req.body.created;
+		client.save(function (err) {
+			if (!err) {
+				return res.send(client);
+			} else {
+				return res.send({success: false});
+			}
+		});
+	});
+});
+app.delete('/api/clients/:id', function (req, res) {
+	ClientModel.findById(req.params.id, function (err, client) {
+		client.remove(function (err) {
+			if (!err) {
+				return res.send(client);
+			} else {
+				return res.send({success: false});
+			}
+		});
+	});
+});
 
 // Launch server
 app.listen(process.env.VCAP_APP_PORT || 8000);
