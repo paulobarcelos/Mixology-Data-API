@@ -61,12 +61,12 @@ mongoose.connect(mongourl);
 // Schemas
 var Schema = mongoose.Schema;
 
-var Client = new Schema({
+var User = new Schema({
 	created: { type: Date, default: Date.now }
 });
-var ClientModel = mongoose.model('Client', Client);
+var UserModel = mongoose.model('User', User);
  
-var Item = new Schema({
+var FoodItem = new Schema({
 	name: { 
 		type: String,
 		required: true,
@@ -77,10 +77,10 @@ var Item = new Schema({
 	},
 	created: { type: Date, default: Date.now },
 });
-var ItemModel = mongoose.model('Item', Item);
+var FoodItemModel = mongoose.model('FoodItem', FoodItem);
  
 var Combination = new Schema({
-	items: [Item],
+	foodItemIds: [Schema.Types.ObjectId],
 	rating: { 
 			type: Number, 
 			enum: [1, 2, 3, 4, 5],
@@ -88,7 +88,7 @@ var Combination = new Schema({
 	},
 	comment: { type: String },
 	created: { type: Date, default: Date.now },
-	client: { type: Client }
+	userId: { type: Schema.Types.ObjectId }
 });
 var CombinationModel = mongoose.model('Combination', Combination);
 
@@ -104,64 +104,64 @@ app.get('/api', function (req, res) {
 });
  
 /**
- * Items ---------------------------------------------------------
+ * FoodItems ---------------------------------------------------------
  */ 
-app.get('/api/items', function (req, res) {
-	ItemModel
+app.get('/api/foodItems', function (req, res) {
+	FoodItemModel
 		.find()
 		.sort({color:1}).
-		exec(function (err, items) {
+		exec(function (err, foodItems) {
 		if (!err) {
-			return res.send(items);
+			return res.send(foodItems);
 		} else {
 			return res.send({success: false});
 		}
 	});
 });
-app.post('/api/items', function (req, res) {
-	var item;
+app.post('/api/foodItems', function (req, res) {
+	var foodItem;
 	
-	item = new ItemModel({
+	foodItem = new FoodItemModel({
 		name: req.body.name,
 		color: req.body.color
 	});
 
-	item.save(function (err) {
+	foodItem.save(function (err) {
 		if (!err) {
-			return res.send(item);
+			return res.send(foodItem);
 		} else {
 			return res.send({success: false});
 		}
 	});
 });
-app.get('/api/items/:id', function (req, res) {
-	ItemModel.findById(req.params.id, function (err, item) {
+app.get('/api/foodItems/:id', function (req, res) {
+	FoodItemModel.findById(req.params.id, function (err, foodItem) {
 		if (!err) {
-			return res.send(item);
+			return res.send(foodItem);
 		} else {
 			return res.send({success: false});
 		}
 	});
 });
-app.put('/api/items/:id', function (req, res) {
-	ItemModel.findById(req.params.id, function (err, item) {
+app.put('/api/foodItems/:id', function (req, res) {
+	FoodItemModel.findById(req.params.id, function (err, foodItem) {
 		console.log(req.body)
-		item.name = req.body.name;
-		item.color = req.body.color;
-		item.save(function (err) {
+		foodItem.name = req.body.name;
+		foodItem.color = req.body.color;
+		foodItem.save(function (err) {
 			if (!err) {
-				return res.send(item);
+				return res.send(foodItem);
 			} else {
 				return res.send({success: false});
 			}
 		});
 	});
 });
-app.delete('/api/items/:id', function (req, res) {
-	ItemModel.findById(req.params.id, function (err, item) {
-		item.remove(function (err) {
+app.delete('/api/foodItems/:id', function (req, res) {
+	FoodItemModel.findById(req.params.id, function (err, foodItem) {
+		foodItem.remove(function (err) {
 			if (!err) {
-				return res.send(item);
+				return res.send(foodItem);
 			} else {
 				return res.send({success: false});
 			}
@@ -170,10 +170,10 @@ app.delete('/api/items/:id', function (req, res) {
 });
 
 /**
- * Clients ---------------------------------------------------------
+ * Users ---------------------------------------------------------
  */ 
-app.get('/api/clients', function (req, res) {
-	ClientModel
+app.get('/api/users', function (req, res) {
+	UserModel
 		.find()
 		.sort({created:1}).
 		exec(function (err, result) {
@@ -184,42 +184,42 @@ app.get('/api/clients', function (req, res) {
 		}
 	});
 });
-app.post('/api/clients', function (req, res) {
-	var client = new ClientModel();
-	client.save(function (err) {
+app.post('/api/users', function (req, res) {
+	var user = new UserModel();
+	user.save(function (err) {
 		if (!err) {
-			return res.send(client);
+			return res.send(user);
 		} else {
 			return res.send({success: false});
 		}
 	});
 });
-app.get('/api/clients/:id', function (req, res) {
-	ClientModel.findById(req.params.id, function (err, client) {
+app.get('/api/users/:id', function (req, res) {
+	UserModel.findById(req.params.id, function (err, user) {
 		if (!err) {
-			return res.send(client);
+			return res.send(user);
 		} else {
 			return res.send({success: false});
 		}
 	});
 });
-app.put('/api/clients/:id', function (req, res) {
-	ClientModel.findById(req.params.id, function (err, client) {
-		client.created = req.body.created;
-		client.save(function (err) {
+app.put('/api/users/:id', function (req, res) {
+	UserModel.findById(req.params.id, function (err, user) {
+		user.created = req.body.created;
+		user.save(function (err) {
 			if (!err) {
-				return res.send(client);
+				return res.send(user);
 			} else {
 				return res.send({success: false});
 			}
 		});
 	});
 });
-app.delete('/api/clients/:id', function (req, res) {
-	ClientModel.findById(req.params.id, function (err, client) {
-		client.remove(function (err) {
+app.delete('/api/users/:id', function (req, res) {
+	UserModel.findById(req.params.id, function (err, user) {
+		user.remove(function (err) {
 			if (!err) {
-				return res.send(client);
+				return res.send(user);
 			} else {
 				return res.send({success: false});
 			}
