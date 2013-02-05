@@ -62,7 +62,13 @@ mongoose.connect(mongourl);
 var Schema = mongoose.Schema;
 
 var User = new Schema({
-	created: { type: Date, default: Date.now }
+	browser : {
+		type: String
+	},
+	created: { 
+		type: Date,
+		default: Date.now
+	}
 });
 var UserModel = mongoose.model('User', User);
  
@@ -86,7 +92,7 @@ var Combination = new Schema({
 			enum: [1, 2, 3, 4, 5],
 			required: false
 	},
-	comment: { type: String },
+	comment: { type: String, required: false },
 	created: { type: Date, default: Date.now },
 	userId: { type: Schema.Types.ObjectId }
 });
@@ -186,6 +192,8 @@ app.get('/api/users', function (req, res) {
 });
 app.post('/api/users', function (req, res) {
 	var user = new UserModel();
+	user.browser = req.body.browser;
+	
 	user.save(function (err) {
 		if (!err) {
 			return res.send(user);
@@ -205,7 +213,9 @@ app.get('/api/users/:id', function (req, res) {
 });
 app.put('/api/users/:id', function (req, res) {
 	UserModel.findById(req.params.id, function (err, user) {
+		user.browser = req.body.browser;
 		user.created = req.body.created;
+
 		user.save(function (err) {
 			if (!err) {
 				return res.send(user);
@@ -220,6 +230,73 @@ app.delete('/api/users/:id', function (req, res) {
 		user.remove(function (err) {
 			if (!err) {
 				return res.send(user);
+			} else {
+				return res.send({success: false});
+			}
+		});
+	});
+});
+
+/**
+ * Combinations ---------------------------------------------------------
+ */ 
+app.get('/api/combinations', function (req, res) {
+	CombinationModel
+		.find()
+		.sort({created:1}).
+		exec(function (err, result) {
+		if (!err) {
+			return res.send(result);
+		} else {
+			return res.send({success: false});
+		}
+	});
+});
+app.post('/api/combinations', function (req, res) {
+	var combination = new CombinationModel();
+	combination.flavorIds = req.body.flavorIds;
+	combination.rating = req.body.rating;
+	combination.comment = req.body.comment;
+	combination.userId = req.body.userId;
+	
+	combination.save(function (err) {
+		if (!err) {
+			return res.send(combination);
+		} else {
+			return res.send({success: false});
+		}
+	});
+});
+app.get('/api/combinations/:id', function (req, res) {
+	CombinationModel.findById(req.params.id, function (err, combination) {
+		if (!err) {
+			return res.send(combination);
+		} else {
+			return res.send({success: false});
+		}
+	});
+});
+app.put('/api/combinations/:id', function (req, res) {
+	CombinationModel.findById(req.params.id, function (err, combination) {
+		combination.flavorIds = req.body.flavorIds;
+		combination.rating = req.body.rating;
+		combination.comment = req.body.comment;
+		combination.userId = req.body.userId;
+
+		combination.save(function (err) {
+			if (!err) {
+				return res.send(combination);
+			} else {
+				return res.send({success: false});
+			}
+		});
+	});
+});
+app.delete('/api/combinations/:id', function (req, res) {
+	CombinationModel.findById(req.params.id, function (err, combination) {
+		combination.remove(function (err) {
+			if (!err) {
+				return res.send(combination);
 			} else {
 				return res.send({success: false});
 			}
