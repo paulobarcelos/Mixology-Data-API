@@ -1,3 +1,5 @@
+// inspired by http://www.pixelhandler.com/blog/2012/02/09/develop-a-restful-api-using-node-js-with-express-and-mongoose/
+
 var 
 express = require("express"),
 path = require("path"),
@@ -86,15 +88,15 @@ var Flavor = new Schema({
 var FlavorModel = mongoose.model('Flavor', Flavor);
  
 var Combination = new Schema({
-	flavorIds: [Schema.Types.ObjectId],
+	flavorIds: [String],
 	rating: { 
 			type: Number, 
 			enum: [1, 2, 3, 4, 5],
 			required: false
 	},
-	comment: { type: String, required: false },
+	comment: { type: String },
 	created: { type: Date, default: Date.now },
-	userId: { type: Schema.Types.ObjectId }
+	userId: { type: String }
 });
 var CombinationModel = mongoose.model('Combination', Combination);
 
@@ -254,16 +256,20 @@ app.get('/api/combinations', function (req, res) {
 });
 app.post('/api/combinations', function (req, res) {
 	var combination = new CombinationModel();
-	combination.flavorIds = req.body.flavorIds;
+	
 	combination.rating = req.body.rating;
 	combination.comment = req.body.comment;
 	combination.userId = req.body.userId;
-	
+
+	var flavorIds = req.body.flavorIds.split(',');
+	combination.flavorIds = flavorIds;
+
 	combination.save(function (err) {
 		if (!err) {
 			return res.send(combination);
 		} else {
-			return res.send({success: false});
+			//console.log(err);
+			return res.send({erro:err, o:flavorIds});
 		}
 	});
 });
@@ -278,10 +284,12 @@ app.get('/api/combinations/:id', function (req, res) {
 });
 app.put('/api/combinations/:id', function (req, res) {
 	CombinationModel.findById(req.params.id, function (err, combination) {
-		combination.flavorIds = req.body.flavorIds;
 		combination.rating = req.body.rating;
 		combination.comment = req.body.comment;
 		combination.userId = req.body.userId;
+
+		var flavorIds = req.body.flavorIds.split(',');
+		combination.flavorIds = flavorIds;
 
 		combination.save(function (err) {
 			if (!err) {
