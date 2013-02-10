@@ -83,20 +83,33 @@ var Flavor = new Schema({
 	color: {
 		type: String
 	},
-	created: { type: Date, default: Date.now },
+	groups: [String],
+	created: { 
+		type: Date, 
+		default: Date.now 
+	},
+
 });
 var FlavorModel = mongoose.model('Flavor', Flavor);
  
 var Combination = new Schema({
 	flavorIds: [String],
 	rating: { 
-			type: Number, 
-			enum: [1, 2, 3, 4, 5],
-			required: false
+		type: Number, 
+		enum: [0, 1, 2, 3, 4, 5],
+		required: false,
+		default: 0
 	},
-	comment: { type: String },
-	created: { type: Date, default: Date.now },
-	userId: { type: String }
+	comment: { 
+		type: String
+	},
+	created: { 
+		type: Date, 
+		default: Date.now
+	},
+	userId: { 
+		type: String
+	}
 });
 var CombinationModel = mongoose.model('Combination', Combination);
 
@@ -127,11 +140,12 @@ app.get('/api/flavors', function (req, res) {
 	});
 });
 app.post('/api/flavors', function (req, res) {
-	var flavor;
+	var groups = req.body.groups.split(',');
 	
 	flavor = new FlavorModel({
 		name: req.body.name,
-		color: req.body.color
+		color: req.body.color,
+		groups: req.body.groups.split(',')
 	});
 
 	flavor.save(function (err) {
@@ -153,9 +167,9 @@ app.get('/api/flavors/:id', function (req, res) {
 });
 app.put('/api/flavors/:id', function (req, res) {
 	FlavorModel.findById(req.params.id, function (err, flavor) {
-		console.log(req.body)
 		flavor.name = req.body.name;
 		flavor.color = req.body.color;
+		flavor.groups =  req.body.groups.split(',');
 		flavor.save(function (err) {
 			if (!err) {
 				return res.send(flavor);
