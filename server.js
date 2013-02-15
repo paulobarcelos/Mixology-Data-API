@@ -330,4 +330,4 @@ app.delete('/api/combinations/:id', function (req, res) {
 });
 
 // Launch server
-app.listen(process.env.VCAP_APP_PORT || 8000);
+app.listen(process.env.VCAP_APP_PORT || process.env.PORT || 8080);
