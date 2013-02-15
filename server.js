@@ -42,11 +42,7 @@ var generate_mongo_url = function(obj){
 	}
 }
 var mongoURL;
-for(key in process.env){
-	console.log(key)
-	console.log(process.env[key])
-	console.log('---')
-}
+console.log(process.env)
 if(process.env.MONGOLAB_URI){
 	mongoURL = process.env.MONGOLAB_URI;
 }
