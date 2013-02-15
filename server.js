@@ -14,7 +14,7 @@ var allowCrossDomain = function(req, res, next) {
 
     // intercept OPTIONS method
     if ('OPTIONS' == req.method) {
-      res.send(200);
+      res.send();
     }
     else {
       next();
@@ -24,9 +24,9 @@ app.configure(function () {
 	app.use(allowCrossDomain);
 	app.use(express.bodyParser());
 	app.use(express.methodOverride());
-	app.use(app.router);
-	app.use(express.static(path.join(__dirname, "public")));
+	//app.use(express.static(path.join(__dirname, "public")));
 	app.use(express.errorHandler({ dumpExceptions: true, showStack: true }));
+	app.use(app.router);
 });
 
 // Database
@@ -130,8 +130,8 @@ app.get('/api', function (req, res) {
 app.get('/api/flavors', function (req, res) {
 	FlavorModel
 		.find()
-		.sort({color:1}).
-		exec(function (err, flavors) {
+		.sort({created:1})
+		.exec(function (err, flavors) {
 		if (!err) {
 			return res.send(flavors);
 		} else {
@@ -197,8 +197,8 @@ app.delete('/api/flavors/:id', function (req, res) {
 app.get('/api/users', function (req, res) {
 	UserModel
 		.find()
-		.sort({created:1}).
-		exec(function (err, result) {
+		.sort({created:1})
+		.exec(function (err, result) {
 		if (!err) {
 			return res.send(result);
 		} else {
@@ -208,7 +208,9 @@ app.get('/api/users', function (req, res) {
 });
 app.post('/api/users', function (req, res) {
 	var user = new UserModel();
+	console.log(req)
 	user.browser = req.body.browser;
+
 	
 	user.save(function (err) {
 		if (!err) {
@@ -259,8 +261,8 @@ app.delete('/api/users/:id', function (req, res) {
 app.get('/api/combinations', function (req, res) {
 	CombinationModel
 		.find()
-		.sort({created:1}).
-		exec(function (err, result) {
+		.sort({created:1})
+		.exec(function (err, result) {
 		if (!err) {
 			return res.send(result);
 		} else {
@@ -274,16 +276,13 @@ app.post('/api/combinations', function (req, res) {
 	combination.rating = req.body.rating;
 	combination.comment = req.body.comment;
 	combination.userId = req.body.userId;
-
-	var flavorIds = req.body.flavorIds.split(',');
-	combination.flavorIds = flavorIds;
+	combination.flavorIds = req.body.flavorIds;
 
 	combination.save(function (err) {
 		if (!err) {
 			return res.send(combination);
 		} else {
-			//console.log(err);
-			return res.send({erro:err, o:flavorIds});
+			return res.send({success: false});
 		}
 	});
 });
@@ -301,9 +300,7 @@ app.put('/api/combinations/:id', function (req, res) {
 		combination.rating = req.body.rating;
 		combination.comment = req.body.comment;
 		combination.userId = req.body.userId;
-
-		var flavorIds = req.body.flavorIds.split(',');
-		combination.flavorIds = flavorIds;
+		combination.flavorIds = req.body.flavorIds;
 
 		combination.save(function (err) {
 			if (!err) {
