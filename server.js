@@ -61,7 +61,7 @@ else{
 	}
 	mongoURL = generate_mongo_url(mongo);
 }
-console.log(mongo);
+console.log(mongoURL);
 
 mongoose.connect(mongoURL);
 
