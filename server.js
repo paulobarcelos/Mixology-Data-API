@@ -30,21 +30,6 @@ app.configure(function () {
 });
 
 // Database
-if(process.env.VCAP_SERVICES){
-	var env = JSON.parse(process.env.VCAP_SERVICES);
-	var mongo = env['mongodb-1.8'][0]['credentials'];
-}
-else{
-	var mongo = {
-	"hostname":"localhost",
-	"port":27017,
-	"username":"",
-	"password":"",
-	"name":"",
-	"db":"mixology"
-	}
-}
-console.log(mongo);
 var generate_mongo_url = function(obj){
 	obj.hostname = (obj.hostname || 'localhost');
 	obj.port = (obj.port || 27017);
@@ -56,8 +41,29 @@ var generate_mongo_url = function(obj){
 		return "mongodb://" + obj.hostname + ":" + obj.port + "/" + obj.db;
 	}
 }
-var mongourl = generate_mongo_url(mongo);
-mongoose.connect(mongourl);
+var mongoURL;
+if(process.env.MONGOLAB_URI){
+	mongoURL = process.env.MONGOLAB_URI;
+}
+if(process.env.VCAP_SERVICES){
+	var env = JSON.parse(process.env.VCAP_SERVICES);
+	var mongo = env['mongodb-1.8'][0]['credentials'];
+	mongoURL = generate_mongo_url(mongo);
+}
+else{
+	var mongo = {
+		"hostname":"localhost",
+		"port":27017,
+		"username":"",
+		"password":"",
+		"name":"",
+		"db":"mixology"
+	}
+	mongoURL = generate_mongo_url(mongo);
+}
+console.log(mongo);
+
+mongoose.connect(mongoURL);
 
 
 // Schemas
