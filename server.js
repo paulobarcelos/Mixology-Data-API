@@ -42,11 +42,11 @@ var generate_mongo_url = function(obj){
 	}
 }
 var mongoURL;
-console.log(process.env)
+
 if(process.env.MONGOLAB_URI){
 	mongoURL = process.env.MONGOLAB_URI;
 }
-if(process.env.VCAP_SERVICES){
+else if(process.env.VCAP_SERVICES){
 	var env = JSON.parse(process.env.VCAP_SERVICES);
 	var mongo = env['mongodb-1.8'][0]['credentials'];
 	mongoURL = generate_mongo_url(mongo);
