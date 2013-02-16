@@ -67,10 +67,103 @@ console.log(mongoURL);
 mongoose.connect(mongoURL);
 
 
-// Schemas
-var Schema = mongoose.Schema;
+/**
+ * Generic Data query
+ */
 
-var User = new Schema({
+function registerAction (label, Model) {
+	app.get('/api/' + label, function (request, response) {
+		getBulk(request, response, Model);
+	});
+	app.post('/api/' + label, function (request, response) {
+		createSingle(request, response, Model);
+	});
+	app.get('/api/' + label + '/:id', function (request, response) {
+		getSingle(request, response, Model);
+	});
+	app.put('/api/' + label + '/:id', function (request, response) {
+		updateSingle(request, response, Model);
+	});
+	app.delete('/api/' + label + '/:id', function (request, response) {
+		deleteSingle(request, response, Model);
+	});
+}
+
+function getBulk (request, response, Model) {
+	var search;
+	var sort;
+
+	if(typeof request.query.search !== 'undefined'){
+		try{
+			search = JSON.parse(request.query.search);
+		}
+		catch(e) {
+			console.log(e);
+		}
+	}
+
+	if(typeof request.query.sort !== 'undefined'){
+		try{
+			sort = JSON.parse(request.query.sort);
+		}
+		catch(e) {
+			console.log(e);
+		}
+	}
+	
+	Model
+		.find(search)
+		.sort(sort)
+		.exec(function (error, results) {
+			apiResponse(response, error, results);
+	});
+}
+function getSingle (request, response, Model) {
+	Model
+		.findById(request.params.id)
+		.exec(function (error, results) {
+			apiResponse(response, error, results)
+	});
+}
+function createSingle (request, response, Model) {
+	var model = new Model(request.body);
+
+	model.save(function (error, results) {
+		console.log(error)
+		apiResponse(response, error, results)
+	});
+}
+function updateSingle (request, response, Model) {
+	Model.findByIdAndUpdate(
+		request.params.id, 
+		request.body,
+		function (error, results) {
+			apiResponse(response, error, results)
+	});
+}
+function deleteSingle (request, response, Model) {
+	Model
+		.findByIdAndRemove(request.params.id)
+		.exec(function (error, results) {
+			apiResponse(response, error, results)
+	});
+}
+function apiResponse (response, error, results) {
+	if (!error) response.send(results);
+	else response.send({success: false});
+}
+
+var apiVersion = '1.0.0';
+app.get('/api', function (req, res) {
+	var hello = { 
+		hi: 'Welcome to Mixology Data API ' + apiVersion,
+		name: 'Mixology Data API',
+		version: apiVersion,
+	};
+	res.send(hello);
+});
+
+var User = new mongoose.Schema({
 	browser : {
 		type: String
 	},
@@ -79,9 +172,9 @@ var User = new Schema({
 		default: Date.now
 	}
 });
-var UserModel = mongoose.model('User', User);
+registerAction('users', mongoose.model('User', User));
  
-var Flavor = new Schema({
+var Flavor = new mongoose.Schema({
 	name: { 
 		type: String,
 		required: true,
@@ -95,11 +188,10 @@ var Flavor = new Schema({
 		type: Date, 
 		default: Date.now 
 	},
-
 });
-var FlavorModel = mongoose.model('Flavor', Flavor);
+registerAction('flavors', mongoose.model('Flavor', Flavor));
  
-var Combination = new Schema({
+var Combination = new mongoose.Schema({
 	flavorIds: [String],
 	rating: { 
 		type: Number, 
@@ -118,7 +210,7 @@ var Combination = new Schema({
 		type: String
 	}
 });
-var CombinationModel = mongoose.model('Combination', Combination);
+registerAction('combinations', mongoose.model('Combination', Combination));
 
  
 var apiVersion = '1.0.0';
@@ -130,195 +222,5 @@ app.get('/api', function (req, res) {
 	};
 	res.send(hello);
 });
-
-/**
- * General Data querie
- */
- 
-var getBulk = function (res, model, sort) {
-	model
-		.find()
-		.sort(sort)
-		.exec(function (err, flavors) {
-		if (!err) {
-			return res.send(flavors);
-		} else {
-			return res.send({success: false});
-		}
-	});
-};
-
-/**
- * Flavors ---------------------------------------------------------
- */ 
-app.get('/api/flavors', function (req, res) {
-	return getBulk(res, FlavorModel, {created:1});
-});
-app.post('/api/flavors', function (req, res) {
-	var groups = req.body.groups.split(',');
-	
-	flavor = new FlavorModel({
-		name: req.body.name,
-		color: req.body.color,
-		groups: req.body.groups.split(',')
-	});
-
-	flavor.save(function (err) {
-		if (!err) {
-			return res.send(flavor);
-		} else {
-			return res.send({success: false});
-		}
-	});
-});
-app.get('/api/flavors/:id', function (req, res) {
-	FlavorModel.findById(req.params.id, function (err, flavor) {
-		if (!err) {
-			return res.send(flavor);
-		} else {
-			return res.send({success: false});
-		}
-	});
-});
-app.put('/api/flavors/:id', function (req, res) {
-	FlavorModel.findById(req.params.id, function (err, flavor) {
-		flavor.name = req.body.name;
-		flavor.color = req.body.color;
-		flavor.groups =  req.body.groups.split(',');
-		flavor.save(function (err) {
-			if (!err) {
-				return res.send(flavor);
-			} else {
-				return res.send({success: false});
-			}
-		});
-	});
-});
-app.delete('/api/flavors/:id', function (req, res) {
-	FlavorModel.findById(req.params.id, function (err, flavor) {
-		flavor.remove(function (err) {
-			if (!err) {
-				return res.send(flavor);
-			} else {
-				return res.send({success: false});
-			}
-		});
-	});
-});
-
-/**
- * Users ---------------------------------------------------------
- */ 
-app.get('/api/users', function (req, res) {
-	return getBulk(res, UserModel, {created:1});
-});
-app.post('/api/users', function (req, res) {
-	var user = new UserModel();
-	console.log(req)
-	user.browser = req.body.browser;
-
-	
-	user.save(function (err) {
-		if (!err) {
-			return res.send(user);
-		} else {
-			return res.send({success: false});
-		}
-	});
-});
-app.get('/api/users/:id', function (req, res) {
-	UserModel.findById(req.params.id, function (err, user) {
-		if (!err) {
-			return res.send(user);
-		} else {
-			return res.send({success: false});
-		}
-	});
-});
-app.put('/api/users/:id', function (req, res) {
-	UserModel.findById(req.params.id, function (err, user) {
-		user.browser = req.body.browser;
-		user.created = req.body.created;
-
-		user.save(function (err) {
-			if (!err) {
-				return res.send(user);
-			} else {
-				return res.send({success: false});
-			}
-		});
-	});
-});
-app.delete('/api/users/:id', function (req, res) {
-	UserModel.findById(req.params.id, function (err, user) {
-		user.remove(function (err) {
-			if (!err) {
-				return res.send(user);
-			} else {
-				return res.send({success: false});
-			}
-		});
-	});
-});
-
-/**
- * Combinations ---------------------------------------------------------
- */ 
-app.get('/api/combinations', function (req, res) {
-	return CombinationModel(res, UserModel, {created:1});
-});
-app.post('/api/combinations', function (req, res) {
-	var combination = new CombinationModel();
-	
-	combination.rating = req.body.rating;
-	combination.comment = req.body.comment;
-	combination.userId = req.body.userId;
-	combination.flavorIds = req.body.flavorIds;
-
-	combination.save(function (err) {
-		if (!err) {
-			return res.send(combination);
-		} else {
-			return res.send({success: false});
-		}
-	});
-});
-app.get('/api/combinations/:id', function (req, res) {
-	CombinationModel.findById(req.params.id, function (err, combination) {
-		if (!err) {
-			return res.send(combination);
-		} else {
-			return res.send({success: false});
-		}
-	});
-});
-app.put('/api/combinations/:id', function (req, res) {
-	CombinationModel.findById(req.params.id, function (err, combination) {
-		combination.rating = req.body.rating;
-		combination.comment = req.body.comment;
-		combination.userId = req.body.userId;
-		combination.flavorIds = req.body.flavorIds;
-
-		combination.save(function (err) {
-			if (!err) {
-				return res.send(combination);
-			} else {
-				return res.send({success: false});
-			}
-		});
-	});
-});
-app.delete('/api/combinations/:id', function (req, res) {
-	CombinationModel.findById(req.params.id, function (err, combination) {
-		combination.remove(function (err) {
-			if (!err) {
-				return res.send(combination);
-			} else {
-				return res.send({success: false});
-			}
-		});
-	});
-});
-
 // Launch server
-app.listen(process.env.VCAP_APP_PORT || process.env.PORT || 8080);
+app.listen(process.env.VCAP_APP_PORT || process.env.PORT || 8000);
