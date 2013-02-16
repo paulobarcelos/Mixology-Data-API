@@ -135,7 +135,7 @@ app.get('/api', function (req, res) {
  * General Data querie
  */
  
-var getBulk = function (req, model, sort) {
+var getBulk = function (res, model, sort) {
 	model
 		.find()
 		.sort(sort)
@@ -152,7 +152,7 @@ var getBulk = function (req, model, sort) {
  * Flavors ---------------------------------------------------------
  */ 
 app.get('/api/flavors', function (req, res) {
-	return getBulk(req, FlavorModel, {created:1});
+	return getBulk(res, FlavorModel, {created:1});
 });
 app.post('/api/flavors', function (req, res) {
 	var groups = req.body.groups.split(',');
@@ -210,7 +210,7 @@ app.delete('/api/flavors/:id', function (req, res) {
  * Users ---------------------------------------------------------
  */ 
 app.get('/api/users', function (req, res) {
-	return getBulk(req, UserModel, {created:1});
+	return getBulk(res, UserModel, {created:1});
 });
 app.post('/api/users', function (req, res) {
 	var user = new UserModel();
@@ -265,7 +265,7 @@ app.delete('/api/users/:id', function (req, res) {
  * Combinations ---------------------------------------------------------
  */ 
 app.get('/api/combinations', function (req, res) {
-	return CombinationModel(req, UserModel, {created:1});
+	return CombinationModel(res, UserModel, {created:1});
 });
 app.post('/api/combinations', function (req, res) {
 	var combination = new CombinationModel();
