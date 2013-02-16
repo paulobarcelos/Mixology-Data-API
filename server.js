@@ -130,14 +130,15 @@ app.get('/api', function (req, res) {
 	};
 	res.send(hello);
 });
- 
+
 /**
- * Flavors ---------------------------------------------------------
- */ 
-app.get('/api/flavors', function (req, res) {
-	FlavorModel
+ * General Data querie
+ */
+ 
+var getBulk = function (req, model, sort) {
+	model
 		.find()
-		.sort({created:1})
+		.sort(sort)
 		.exec(function (err, flavors) {
 		if (!err) {
 			return res.send(flavors);
@@ -145,6 +146,13 @@ app.get('/api/flavors', function (req, res) {
 			return res.send({success: false});
 		}
 	});
+};
+
+/**
+ * Flavors ---------------------------------------------------------
+ */ 
+app.get('/api/flavors', function (req, res) {
+	return getBulk(req, FlavorModel, {created:1});
 });
 app.post('/api/flavors', function (req, res) {
 	var groups = req.body.groups.split(',');
@@ -202,16 +210,7 @@ app.delete('/api/flavors/:id', function (req, res) {
  * Users ---------------------------------------------------------
  */ 
 app.get('/api/users', function (req, res) {
-	UserModel
-		.find()
-		.sort({created:1})
-		.exec(function (err, result) {
-		if (!err) {
-			return res.send(result);
-		} else {
-			return res.send({success: false});
-		}
-	});
+	return getBulk(req, UserModel, {created:1});
 });
 app.post('/api/users', function (req, res) {
 	var user = new UserModel();
@@ -266,16 +265,7 @@ app.delete('/api/users/:id', function (req, res) {
  * Combinations ---------------------------------------------------------
  */ 
 app.get('/api/combinations', function (req, res) {
-	CombinationModel
-		.find()
-		.sort({created:1})
-		.exec(function (err, result) {
-		if (!err) {
-			return res.send(result);
-		} else {
-			return res.send({success: false});
-		}
-	});
+	return CombinationModel(req, UserModel, {created:1});
 });
 app.post('/api/combinations', function (req, res) {
 	var combination = new CombinationModel();
