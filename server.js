@@ -146,7 +146,7 @@ function updateSingle (request, response, Model) {
 function deleteBulk (request, response, Model) {
 	Model
 		.remove(function (error, results) {
-			apiResponse(response, error)
+			apiResponse(response, error, results)
 	});
 }
 function deleteSingle (request, response, Model) {
@@ -157,7 +157,10 @@ function deleteSingle (request, response, Model) {
 	});
 }
 function apiResponse (response, error, results) {
-	if (!error) response.send(results);
+	if (!error) {
+		if(typeof results == 'object') response.send(results);
+		else response.send();
+	}
 	else {
 		console.log(error)
 		response.send({success: false});
