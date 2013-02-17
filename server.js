@@ -74,20 +74,23 @@ function registerAction (label, Model) {
 	app.get('/api/' + label, function (request, response) {
 		getBulk(request, response, Model);
 	});
-	app.post('/api/' + label, function (request, response) {
-		createSingle(request, response, Model);
-	});
 	app.get('/api/' + label + '/:id', function (request, response) {
 		getSingle(request, response, Model);
 	});
-	app.put('/api/' + label + '/:id', function (request, response) {
-		updateSingle(request, response, Model);
+	app.post('/api/' + label, function (request, response) {
+		createSingle(request, response, Model);
+	});
+	app.delete('/api/' + label , function (request, response) {
+		deleteBulk(request, response, Model);
 	});
 	app.delete('/api/' + label + '/:id', function (request, response) {
 		deleteSingle(request, response, Model);
 	});
+	app.put('/api/' + label + '/:id', function (request, response) {
+		updateSingle(request, response, Model);
+	});
+	
 }
-
 function getBulk (request, response, Model) {
 	var search;
 	var sort;
@@ -128,7 +131,6 @@ function createSingle (request, response, Model) {
 	var model = new Model(request.body);
 
 	model.save(function (error, results) {
-		console.log(error)
 		apiResponse(response, error, results)
 	});
 }
@@ -137,6 +139,13 @@ function updateSingle (request, response, Model) {
 		request.params.id, 
 		request.body,
 		function (error, results) {
+			apiResponse(response, error, results)
+	});
+}
+function deleteBulk (request, response, Model) {
+	Model
+		.remove()
+		.exec(function (error, results) {
 			apiResponse(response, error, results)
 	});
 }
@@ -149,7 +158,10 @@ function deleteSingle (request, response, Model) {
 }
 function apiResponse (response, error, results) {
 	if (!error) response.send(results);
-	else response.send({success: false});
+	else {
+		console.log(error)
+		response.send({success: false});
+	}
 }
 
 var apiVersion = '1.0.0';
