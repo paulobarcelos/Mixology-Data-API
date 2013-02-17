@@ -144,8 +144,7 @@ function updateSingle (request, response, Model) {
 }
 function deleteBulk (request, response, Model) {
 	Model
-		.remove()
-		.exec(function (error, results) {
+		.remove(function (error, results) {
 			apiResponse(response, error, results)
 	});
 }
