@@ -113,6 +113,8 @@ function getBulk (request, response, Model) {
 			console.log(e);
 		}
 	}
+
+	sort = sort || {created:1};
 	
 	Model
 		.find(search)
