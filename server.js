@@ -119,21 +119,21 @@ function getBulk (request, response, Model) {
 		.find(search)
 		.sort(sort)
 		.exec(function (error, results) {
-			apiResponse(response, error, results);
+			apiResponse(request, response, error, results);
 	});
 }
 function getSingle (request, response, Model) {
 	Model
 		.findById(request.params.id)
 		.exec(function (error, results) {
-			apiResponse(response, error, results)
+			apiResponse(request, response, error, results)
 	});
 }
 function createSingle (request, response, Model) {
 	var model = new Model(request.body);
 
 	model.save(function (error, results) {
-		apiResponse(response, error, results)
+		apiResponse(request, response, error, results)
 	});
 }
 function updateSingle (request, response, Model) {
@@ -141,30 +141,35 @@ function updateSingle (request, response, Model) {
 		request.params.id, 
 		request.body,
 		function (error, results) {
-			apiResponse(response, error, results)
+			apiResponse(request, response, error, results)
 	});
 }
 function deleteBulk (request, response, Model) {
 	Model
 		.remove(function (error, results) {
-			apiResponse(response, error, results)
+			apiResponse(request, response, error, results)
 	});
 }
 function deleteSingle (request, response, Model) {
 	Model
 		.findByIdAndRemove(request.params.id)
 		.exec(function (error, results) {
-			apiResponse(response, error, results)
+			apiResponse(request, response, error, results)
 	});
 }
-function apiResponse (response, error, results) {
+function apiResponse (request, response, error, results) {
 	if (!error) {
 		if(typeof results == 'object') response.send(results);
 		else response.send();
 	}
 	else {
-		console.log(error)
+		console.log('API RESPONSE ERROR ----------------------------')
+		console.log('originalUrl', request.originalUrl);
+		console.log('query', request.query);
+		console.log('body', request.body);
+		console.log(error);
 		response.send({success: false});
+		console.log('---------------------------- API RESPONSE ERROR')
 	}
 }
 

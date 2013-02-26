@@ -1,0 +1,847 @@
+[
+  {
+    "__v": 0,
+    "_id": "511eb5fc5940442a3b000002",
+    "color": "rgb(4,25,42)",
+    "name": "blue mussel",
+    "created": "2013-02-15T22:26:03.329Z",
+    "groups": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ]
+  },
+  {
+    "name": "crispy coconut flake",
+    "color": "#FFF6F1",
+    "_id": "511eb5fcba34b2fa7e000001",
+    "__v": 0,
+    "created": "2013-02-15T22:26:04.329Z",
+    "groups": [
+      "c"
+    ]
+  },
+  {
+    "name": "apple vinegar",
+    "color": "#E77D20",
+    "_id": "511eb5fc5940442a3b000003",
+    "__v": 0,
+    "created": "2013-02-15T22:26:04.407Z",
+    "groups": [
+      "c"
+    ]
+  },
+  {
+    "name": "crispy shallot",
+    "color": "#D85620",
+    "_id": "511eb5fcba34b2fa7e000002",
+    "__v": 0,
+    "created": "2013-02-15T22:26:04.477Z",
+    "groups": [
+      "c"
+    ]
+  },
+  {
+    "name": "soya sauce",
+    "color": "#471500",
+    "_id": "511eb5fc30c8ce2433000004",
+    "__v": 0,
+    "created": "2013-02-15T22:26:04.538Z",
+    "groups": [
+      "c"
+    ]
+  },
+  {
+    "name": "pickled chipotle",
+    "color": "#972F1B",
+    "_id": "511eb5fcd39ea9446a000004",
+    "__v": 0,
+    "created": "2013-02-15T22:26:04.613Z",
+    "groups": [
+      "c"
+    ]
+  },
+  {
+    "name": "dried tomato",
+    "color": "#B82234",
+    "_id": "511eb5fcc928d81348000001",
+    "__v": 0,
+    "created": "2013-02-15T22:26:04.686Z",
+    "groups": [
+      "c"
+    ]
+  },
+  {
+    "name": "candied violet",
+    "color": "#462A88",
+    "_id": "511eb5fcc928d81348000002",
+    "__v": 0,
+    "created": "2013-02-15T22:26:04.775Z",
+    "groups": [
+      "d"
+    ]
+  },
+  {
+    "name": "beet root",
+    "color": "#5D0039",
+    "_id": "511eb5fcd39ea9446a000005",
+    "__v": 0,
+    "created": "2013-02-15T22:26:04.842Z",
+    "groups": [
+      "b"
+    ]
+  },
+  {
+    "name": "beet sprout",
+    "color": "#A6228E",
+    "_id": "511eb5fc3eef831644000003",
+    "__v": 0,
+    "created": "2013-02-15T22:26:04.903Z",
+    "groups": [
+      "a",
+      "d"
+    ]
+  },
+  {
+    "name": "lingon berry",
+    "color": "#9E0A34",
+    "_id": "511eb5fc074c4dfe1e000007",
+    "__v": 0,
+    "created": "2013-02-15T22:26:04.970Z",
+    "groups": [
+      "a",
+      "d"
+    ]
+  },
+  {
+    "name": "red chilli",
+    "color": "#E82C2E",
+    "_id": "511eb5fd262d43f511000004",
+    "__v": 0,
+    "created": "2013-02-15T22:26:05.031Z",
+    "groups": [
+      "c"
+    ]
+  },
+  {
+    "name": "seaweed",
+    "color": "#DC1254",
+    "_id": "511eb5fd30c8ce2433000005",
+    "__v": 0,
+    "created": "2013-02-15T22:26:05.096Z",
+    "groups": [
+      "a"
+    ]
+  },
+  {
+    "name": "veal tongue",
+    "color": "#F59FB9",
+    "_id": "511eb5fd5940442a3b000004",
+    "__v": 0,
+    "created": "2013-02-15T22:26:05.161Z",
+    "groups": [
+      "b"
+    ]
+  },
+  {
+    "__v": 0,
+    "_id": "511eb5fd30c8ce2433000006",
+    "color": "#AC4399",
+    "name": "ræddike",
+    "created": "2013-02-15T22:26:05.225Z",
+    "groups": [
+      "b",
+      "d"
+    ]
+  },
+  {
+    "name": "rose pepper",
+    "color": "#E40375",
+    "_id": "511eb5fd3eef831644000004",
+    "__v": 0,
+    "created": "2013-02-15T22:26:05.288Z",
+    "groups": [
+      "c"
+    ]
+  },
+  {
+    "name": "pickled shallot",
+    "color": "#E270AB",
+    "_id": "511eb5fd5940442a3b000005",
+    "__v": 0,
+    "created": "2013-02-15T22:26:05.353Z",
+    "groups": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "name": "crispy salmon",
+    "color": "#F47D46",
+    "_id": "511eb5fd3eef831644000005",
+    "__v": 0,
+    "created": "2013-02-15T22:26:05.414Z",
+    "groups": [
+      "a"
+    ]
+  },
+  {
+    "name": "salmon roe",
+    "color": "#EF4438",
+    "_id": "511eb5fd5940442a3b000006",
+    "__v": 0,
+    "created": "2013-02-15T22:26:05.513Z",
+    "groups": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "name": "orange zest",
+    "color": "#F15F22",
+    "_id": "511eb5fdba34b2fa7e000003",
+    "__v": 0,
+    "created": "2013-02-15T22:26:05.579Z",
+    "groups": [
+      "c"
+    ]
+  },
+  {
+    "name": "pumpkin",
+    "color": "#F36E21",
+    "_id": "511eb5fd074c4dfe1e000008",
+    "__v": 0,
+    "created": "2013-02-15T22:26:05.642Z",
+    "groups": [
+      "a",
+      "d"
+    ]
+  },
+  {
+    "name": "carrot",
+    "color": "#F47B20",
+    "_id": "511eb5fd074c4dfe1e000009",
+    "__v": 0,
+    "created": "2013-02-15T22:26:05.708Z",
+    "groups": [
+      "a",
+      "d"
+    ]
+  },
+  {
+    "name": "sea buckthorn",
+    "color": "#F99B1C",
+    "_id": "511eb5fd5940442a3b000007",
+    "__v": 0,
+    "created": "2013-02-15T22:26:05.770Z",
+    "groups": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "name": "sea buckthorn crunch",
+    "color": "#FBAE3B",
+    "_id": "511eb5fe074c4dfe1e00000a",
+    "__v": 0,
+    "created": "2013-02-15T22:26:06.021Z",
+    "groups": [
+      "d"
+    ]
+  },
+  {
+    "name": "lemon",
+    "color": "#FFF200",
+    "_id": "511eb5fed39ea9446a000006",
+    "__v": 0,
+    "created": "2013-02-15T22:26:06.129Z",
+    "groups": [
+      "c"
+    ]
+  },
+  {
+    "name": "mustard",
+    "color": "#EDD500",
+    "_id": "511eb5feba34b2fa7e000004",
+    "__v": 0,
+    "created": "2013-02-15T22:26:06.191Z",
+    "groups": [
+      "c"
+    ]
+  },
+  {
+    "name": "quail egg",
+    "color": "#FFF32A",
+    "_id": "511eb5fe5940442a3b000008",
+    "__v": 0,
+    "created": "2013-02-15T22:26:06.278Z",
+    "groups": [
+      "b"
+    ]
+  },
+  {
+    "__v": 0,
+    "_id": "511eb5fec928d81348000003",
+    "color": "#FFEF00",
+    "name": "vesterhavsost",
+    "created": "2013-02-15T22:26:06.340Z",
+    "groups": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "name": "egg emulsion",
+    "color": "#FFDD00",
+    "_id": "511eb5feffdbd7f73f000006",
+    "__v": 0,
+    "created": "2013-02-15T22:26:06.402Z",
+    "groups": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "name": "pickled quince",
+    "color": "#FFEB95",
+    "_id": "511eb5fe30c8ce2433000007",
+    "__v": 0,
+    "created": "2013-02-15T22:26:06.466Z",
+    "groups": [
+      "b",
+      "d"
+    ]
+  },
+  {
+    "name": "potato",
+    "color": "#F8E868",
+    "_id": "511eb5fed39ea9446a000007",
+    "__v": 0,
+    "created": "2013-02-15T22:26:06.547Z",
+    "groups": [
+      "a"
+    ]
+  },
+  {
+    "name": "ginger",
+    "color": "#F5DF8E",
+    "_id": "511eb5fe8593183f6a000005",
+    "__v": 0,
+    "created": "2013-02-15T22:26:06.624Z",
+    "groups": [
+      "c"
+    ]
+  },
+  {
+    "name": "poprocks",
+    "color": "#FFCE34",
+    "_id": "511eb5fe3eef831644000006",
+    "__v": 0,
+    "created": "2013-02-15T22:26:06.683Z",
+    "groups": [
+      "d"
+    ]
+  },
+  {
+    "__v": 0,
+    "_id": "511eb5fe3eef831644000007",
+    "color": "#E6DAAF",
+    "name": "raw jerusalem artichoke",
+    "created": "2013-02-15T22:26:06.746Z",
+    "groups": [
+      "a"
+    ]
+  },
+  {
+    "name": "potato chip",
+    "color": "#FFEA55",
+    "_id": "511eb5fe074c4dfe1e00000b",
+    "__v": 0,
+    "created": "2013-02-15T22:26:06.813Z",
+    "groups": [
+      "b",
+      "d"
+    ]
+  },
+  {
+    "name": "crispy pork rind",
+    "color": "#FFD990",
+    "_id": "511eb5fe5940442a3b000009",
+    "__v": 0,
+    "created": "2013-02-15T22:26:06.876Z",
+    "groups": [
+      "b"
+    ]
+  },
+  {
+    "name": "crouton with vinegar",
+    "color": "#FEC34E",
+    "_id": "511eb5fe262d43f511000005",
+    "__v": 0,
+    "created": "2013-02-15T22:26:06.958Z",
+    "groups": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "name": "sausage",
+    "color": "#DBAB69",
+    "_id": "511eb5ffffdbd7f73f000007",
+    "__v": 0,
+    "created": "2013-02-15T22:26:07.023Z",
+    "groups": [
+      "b"
+    ]
+  },
+  {
+    "name": "roasted buckwheat",
+    "color": "#CF8B2D",
+    "_id": "511eb5ffd39ea9446a000008",
+    "__v": 0,
+    "created": "2013-02-15T22:26:07.088Z",
+    "groups": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "name": "rye bread crumble",
+    "color": "#9F7012",
+    "_id": "511eb5ff30c8ce2433000008",
+    "__v": 0,
+    "created": "2013-02-15T22:26:07.157Z",
+    "groups": [
+      "b",
+      "d"
+    ]
+  },
+  {
+    "name": "baked chestnut",
+    "color": "#DD941A",
+    "_id": "511eb5ff30c8ce2433000009",
+    "__v": 0,
+    "created": "2013-02-15T22:26:07.221Z",
+    "groups": [
+      "d"
+    ]
+  },
+  {
+    "name": "cocoa nibs",
+    "color": "#633B00",
+    "_id": "511eb5ff30c8ce243300000a",
+    "__v": 0,
+    "created": "2013-02-15T22:26:07.295Z",
+    "groups": [
+      "d"
+    ]
+  },
+  {
+    "name": "salted caramel",
+    "color": "#DF6D27",
+    "_id": "511eb5ffc928d81348000004",
+    "__v": 0,
+    "created": "2013-02-15T22:26:07.364Z",
+    "groups": [
+      "d"
+    ]
+  },
+  {
+    "name": "hazelnut cream ",
+    "color": "#E28F41",
+    "_id": "511eb5ff30c8ce243300000b",
+    "__v": 0,
+    "created": "2013-02-15T22:26:07.446Z",
+    "groups": [
+      "d"
+    ]
+  },
+  {
+    "name": "pickled sago grains",
+    "color": "#E3A261",
+    "_id": "511eb5ffba34b2fa7e000005",
+    "__v": 0,
+    "created": "2013-02-15T22:26:07.513Z",
+    "groups": [
+      "a",
+      "c",
+      "d"
+    ]
+  },
+  {
+    "name": "pickle gel",
+    "color": "#F9A870",
+    "_id": "511eb5ff8593183f6a000006",
+    "__v": 0,
+    "created": "2013-02-15T22:26:07.579Z",
+    "groups": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "name": "celeriac",
+    "color": "#F6E8D1",
+    "_id": "511eb5ff262d43f511000006",
+    "__v": 0,
+    "created": "2013-02-15T22:26:07.641Z",
+    "groups": [
+      "a",
+      "b",
+      "d"
+    ]
+  },
+  {
+    "name": "roasted garlic",
+    "color": "#FFF5E4",
+    "_id": "511eb5ff8593183f6a000007",
+    "__v": 0,
+    "created": "2013-02-15T22:26:07.714Z",
+    "groups": [
+      "b"
+    ]
+  },
+  {
+    "name": "jerusalem artichoke puree",
+    "color": "#F6ECDC",
+    "_id": "511eb5ff074c4dfe1e00000c",
+    "__v": 0,
+    "created": "2013-02-15T22:26:07.777Z",
+    "groups": [
+      "a",
+      "d"
+    ]
+  },
+  {
+    "name": "horseradish",
+    "color": "#E8DEC8",
+    "_id": "511eb5ffd39ea9446a000009",
+    "__v": 0,
+    "created": "2013-02-15T22:26:07.868Z",
+    "groups": [
+      "b"
+    ]
+  },
+  {
+    "name": "smoked creamcheese",
+    "color": "#FFEFCF",
+    "_id": "511eb5ff8593183f6a000008",
+    "__v": 0,
+    "created": "2013-02-15T22:26:07.945Z",
+    "groups": [
+      "b",
+      "d"
+    ]
+  },
+  {
+    "name": "white chocolate",
+    "color": "#F7F4E1",
+    "_id": "511eb6003eef831644000008",
+    "__v": 0,
+    "created": "2013-02-15T22:26:08.007Z",
+    "groups": [
+      "d"
+    ]
+  },
+  {
+    "__v": 0,
+    "_id": "511eb600262d43f511000007",
+    "color": "#F7F4E1",
+    "name": "garlic slice",
+    "created": "2013-02-15T22:26:08.071Z",
+    "groups": [
+      "c"
+    ]
+  },
+  {
+    "name": "crispy yogurt",
+    "color": "#F7F4E1",
+    "_id": "511eb600c928d81348000005",
+    "__v": 0,
+    "created": "2013-02-15T22:26:08.236Z",
+    "groups": [
+      "d"
+    ]
+  },
+  {
+    "name": "crème fraîche",
+    "color": "#FFFFFF",
+    "_id": "511eb600074c4dfe1e00000d",
+    "__v": 0,
+    "created": "2013-02-15T22:26:08.313Z",
+    "groups": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "name": "cottage cheese",
+    "color": "#FFFFFF",
+    "_id": "511eb60030c8ce243300000c",
+    "__v": 0,
+    "created": "2013-02-15T22:26:08.373Z",
+    "groups": [
+      "a",
+      "d"
+    ]
+  },
+  {
+    "name": "coconut cream mousse",
+    "color": "#FFFFFF",
+    "_id": "511eb600ffdbd7f73f000008",
+    "__v": 0,
+    "created": "2013-02-15T22:26:08.433Z",
+    "groups": [
+      "c"
+    ]
+  },
+  {
+    "name": "sea salt",
+    "color": "#FFFFFF",
+    "_id": "511eb600074c4dfe1e00000e",
+    "__v": 0,
+    "created": "2013-02-15T22:26:08.505Z",
+    "groups": [
+      "c"
+    ]
+  },
+  {
+    "name": "raw onion ring",
+    "color": "#FFFFFF",
+    "_id": "511eb600c928d81348000006",
+    "__v": 0,
+    "created": "2013-02-15T22:26:08.566Z",
+    "groups": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "name": "smoked marrow dust",
+    "color": "#FFFFFF",
+    "_id": "511eb600ffdbd7f73f000009",
+    "__v": 0,
+    "created": "2013-02-15T22:26:08.626Z",
+    "groups": [
+      "b"
+    ]
+  },
+  {
+    "name": "endive",
+    "color": "#FDFFEE",
+    "_id": "511eb600ffdbd7f73f00000a",
+    "__v": 0,
+    "created": "2013-02-15T22:26:08.686Z",
+    "groups": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "name": "pear",
+    "color": "#F6F8DE",
+    "_id": "511eb600d39ea9446a00000a",
+    "__v": 0,
+    "created": "2013-02-15T22:26:08.753Z",
+    "groups": [
+      "b",
+      "d"
+    ]
+  },
+  {
+    "name": "leek",
+    "color": "#F2F5D5",
+    "_id": "511eb6005940442a3b00000a",
+    "__v": 0,
+    "created": "2013-02-15T22:26:08.815Z",
+    "groups": [
+      "b"
+    ]
+  },
+  {
+    "name": "sorrel emulsion",
+    "color": "#D9E8AE",
+    "_id": "511eb601ffdbd7f73f00000b",
+    "__v": 0,
+    "created": "2013-02-15T22:26:09.082Z",
+    "groups": [
+      "a"
+    ]
+  },
+  {
+    "name": "fennel",
+    "color": "#E6F0CB",
+    "_id": "511eb6015940442a3b00000b",
+    "__v": 0,
+    "created": "2013-02-15T22:26:09.147Z",
+    "groups": [
+      "a",
+      "d"
+    ]
+  },
+  {
+    "name": "celery gel",
+    "color": "#D9E8AE",
+    "_id": "511eb601074c4dfe1e00000f",
+    "__v": 0,
+    "created": "2013-02-15T22:26:09.208Z",
+    "groups": [
+      "a",
+      "d"
+    ]
+  },
+  {
+    "name": "fennel seed",
+    "color": "#CEC42B",
+    "_id": "511eb6013eef831644000009",
+    "__v": 0,
+    "created": "2013-02-15T22:26:09.363Z",
+    "groups": [
+      "c"
+    ]
+  },
+  {
+    "name": "wasabi",
+    "color": "#BEDB85",
+    "_id": "511eb6013eef83164400000a",
+    "__v": 0,
+    "created": "2013-02-15T22:26:09.434Z",
+    "groups": [
+      "c"
+    ]
+  },
+  {
+    "name": "brussel sprout",
+    "color": "#87CC5E",
+    "_id": "511eb6018593183f6a000009",
+    "__v": 0,
+    "created": "2013-02-15T22:26:09.502Z",
+    "groups": [
+      "b"
+    ]
+  },
+  {
+    "name": "parsley oil",
+    "color": "#66B35A",
+    "_id": "511eb6013eef83164400000b",
+    "__v": 0,
+    "created": "2013-02-15T22:26:09.562Z",
+    "groups": [
+      "a"
+    ]
+  },
+  {
+    "name": "green apple",
+    "color": "#91C848",
+    "_id": "511eb601074c4dfe1e000010",
+    "__v": 0,
+    "created": "2013-02-15T22:26:09.630Z",
+    "groups": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "name": "lime",
+    "color": "#79C153",
+    "_id": "511eb601c928d81348000007",
+    "__v": 0,
+    "created": "2013-02-15T22:26:09.692Z",
+    "groups": [
+      "c"
+    ]
+  },
+  {
+    "name": "coriander",
+    "color": "#4BAA0E",
+    "_id": "511eb601ffdbd7f73f00000c",
+    "__v": 0,
+    "created": "2013-02-15T22:26:09.758Z",
+    "groups": [
+      "c"
+    ]
+  },
+  {
+    "name": "dill",
+    "color": "#07A03D",
+    "_id": "511eb6015940442a3b00000c",
+    "__v": 0,
+    "created": "2013-02-15T22:26:09.844Z",
+    "groups": [
+      "a"
+    ]
+  },
+  {
+    "name": "thyme",
+    "color": "#5C9624",
+    "_id": "511eb601074c4dfe1e000011",
+    "__v": 0,
+    "created": "2013-02-15T22:26:09.911Z",
+    "groups": [
+      "c"
+    ]
+  },
+  {
+    "name": "mint",
+    "color": "#17BC17",
+    "_id": "511eb60130c8ce243300000d",
+    "__v": 0,
+    "created": "2013-02-15T22:26:09.977Z",
+    "groups": [
+      "b",
+      "d"
+    ]
+  },
+  {
+    "name": "glasswort",
+    "color": "#75C044",
+    "_id": "511eb6025940442a3b00000d",
+    "__v": 0,
+    "created": "2013-02-15T22:26:10.041Z",
+    "groups": [
+      "b"
+    ]
+  },
+  {
+    "name": "cress",
+    "color": "#00A94F",
+    "_id": "511eb602262d43f511000008",
+    "__v": 0,
+    "created": "2013-02-15T22:26:10.114Z",
+    "groups": [
+      "b",
+      "d"
+    ]
+  },
+  {
+    "name": "basil",
+    "color": "#008255",
+    "_id": "511eb60230c8ce243300000e",
+    "__v": 0,
+    "created": "2013-02-15T22:26:10.180Z",
+    "groups": [
+      "c"
+    ]
+  },
+  {
+    "name": "kaffir lime leaf",
+    "color": "#006958",
+    "_id": "511eb602d39ea9446a00000b",
+    "__v": 0,
+    "created": "2013-02-15T22:26:10.258Z",
+    "groups": [
+      "c"
+    ]
+  },
+  {
+    "name": "blue cheese",
+    "color": "#004F52",
+    "_id": "511eb60230c8ce243300000f",
+    "__v": 0,
+    "created": "2013-02-15T22:26:10.430Z",
+    "groups": [
+      "d"
+    ]
+  }
+]

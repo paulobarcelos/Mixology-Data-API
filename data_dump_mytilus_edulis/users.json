@@ -1,0 +1,884 @@
+[
+  {
+    "browser": "Safari_6_unknown OS",
+    "_id": "511e8b6430c8ce2433000003",
+    "__v": 0,
+    "created": "2013-02-15T19:24:20.986Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "511e8caf3eef831644000001",
+    "__v": 0,
+    "created": "2013-02-15T19:29:51.682Z"
+  },
+  {
+    "browser": "Safari_6_unknown OS",
+    "_id": "511e8ccb3eef831644000002",
+    "__v": 0,
+    "created": "2013-02-15T19:30:19.465Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "511e9d3dd39ea9446a000003",
+    "__v": 0,
+    "created": "2013-02-15T20:40:29.228Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "511eb672ba34b2fa7e000006",
+    "__v": 0,
+    "created": "2013-02-15T22:28:02.078Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "511eb7aa8593183f6a00000a",
+    "__v": 0,
+    "created": "2013-02-15T22:33:14.304Z"
+  },
+  {
+    "browser": "Chrome_1_iPhone/iPod",
+    "_id": "511eba2b3eef83164400000c",
+    "__v": 0,
+    "created": "2013-02-15T22:43:55.925Z"
+  },
+  {
+    "browser": "Safari_4_Linux",
+    "_id": "511eba635940442a3b00000e",
+    "__v": 0,
+    "created": "2013-02-15T22:44:51.721Z"
+  },
+  {
+    "browser": "Mozilla_unknown version_Linux",
+    "_id": "511ebb56074c4dfe1e000012",
+    "__v": 0,
+    "created": "2013-02-15T22:48:54.938Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "511ec4a2ffdbd7f73f00000e",
+    "__v": 0,
+    "created": "2013-02-15T23:28:34.299Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "511ec4b630c8ce2433000010",
+    "__v": 0,
+    "created": "2013-02-15T23:28:54.733Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "511ec532074c4dfe1e000013",
+    "__v": 0,
+    "created": "2013-02-15T23:30:58.827Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "511ec6025940442a3b00000f",
+    "__v": 0,
+    "created": "2013-02-15T23:34:26.721Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "511ec606ffdbd7f73f00000f",
+    "__v": 0,
+    "created": "2013-02-15T23:34:30.093Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "511ec6673eef83164400000d",
+    "__v": 0,
+    "created": "2013-02-15T23:36:07.717Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "511ec67c074c4dfe1e000014",
+    "__v": 0,
+    "created": "2013-02-15T23:36:28.171Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "511ec690ffdbd7f73f000010",
+    "__v": 0,
+    "created": "2013-02-15T23:36:48.164Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "511ec6a2c928d81348000008",
+    "__v": 0,
+    "created": "2013-02-15T23:37:06.622Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "511ec7168593183f6a00000c",
+    "__v": 0,
+    "created": "2013-02-15T23:39:02.045Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "511ec8418593183f6a00000d",
+    "__v": 0,
+    "created": "2013-02-15T23:44:01.138Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "511ec893c928d81348000009",
+    "__v": 0,
+    "created": "2013-02-15T23:45:23.984Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "511ec89d262d43f51100000a",
+    "__v": 0,
+    "created": "2013-02-15T23:45:33.062Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "511ec8d2ffdbd7f73f000011",
+    "__v": 0,
+    "created": "2013-02-15T23:46:26.738Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "511ec9a7262d43f51100000b",
+    "__v": 0,
+    "created": "2013-02-15T23:49:59.744Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "511ec9c5c928d8134800000a",
+    "__v": 0,
+    "created": "2013-02-15T23:50:29.834Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "511ec9d63eef83164400000e",
+    "__v": 0,
+    "created": "2013-02-15T23:50:46.351Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "511ec9fc074c4dfe1e000015",
+    "__v": 0,
+    "created": "2013-02-15T23:51:24.227Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "511eca2affdbd7f73f000012",
+    "__v": 0,
+    "created": "2013-02-15T23:52:10.746Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "511eca3eba34b2fa7e000007",
+    "__v": 0,
+    "created": "2013-02-15T23:52:30.089Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "511eca66c928d8134800000b",
+    "__v": 0,
+    "created": "2013-02-15T23:53:10.805Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "511ecab3074c4dfe1e000016",
+    "__v": 0,
+    "created": "2013-02-15T23:54:27.927Z"
+  },
+  {
+    "browser": "Mozilla_unknown version_Linux",
+    "_id": "511ecc6dc928d8134800000c",
+    "__v": 0,
+    "created": "2013-02-16T00:01:49.449Z"
+  },
+  {
+    "browser": "Safari_5.1_iPhone/iPod",
+    "_id": "511ed9233eef83164400000f",
+    "__v": 0,
+    "created": "2013-02-16T00:56:03.421Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "511eec4bbe45e27769000001",
+    "__v": 0,
+    "created": "2013-02-16T02:17:47.655Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "511faec3661b94f37c000002",
+    "__v": 0,
+    "created": "2013-02-16T16:07:31.116Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "511faee3d0086ae27c000001",
+    "__v": 0,
+    "created": "2013-02-16T16:08:03.486Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "511fbe675a15f2ad2a000001",
+    "__v": 0,
+    "created": "2013-02-16T17:14:15.877Z"
+  },
+  {
+    "browser": "Safari_5.1_iPhone/iPod",
+    "_id": "5120375408cec0ee67000006",
+    "__v": 0,
+    "created": "2013-02-17T01:50:12.138Z"
+  },
+  {
+    "browser": "Safari_5.1_Mac",
+    "_id": "51209900d0086ae27c000009",
+    "__v": 0,
+    "created": "2013-02-17T08:46:56.223Z"
+  },
+  {
+    "browser": "Safari_6_Mac",
+    "_id": "5120a7427838d5e912000009",
+    "__v": 0,
+    "created": "2013-02-17T09:47:46.387Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "5120c2a6f4d1f47105000005",
+    "__v": 0,
+    "created": "2013-02-17T11:44:38.387Z"
+  },
+  {
+    "browser": "Chrome_24_Windows",
+    "_id": "5121e59268972f2e58000009",
+    "__v": 0,
+    "created": "2013-02-18T08:25:54.202Z"
+  },
+  {
+    "browser": "Chrome_24_Windows",
+    "_id": "5121fc382223c3bd22000068",
+    "__v": 0,
+    "created": "2013-02-18T10:02:32.421Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "512204c587db94b67e000080",
+    "__v": 0,
+    "created": "2013-02-18T10:39:01.625Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51222d0368972f2e5800007a",
+    "__v": 0,
+    "created": "2013-02-18T13:30:43.659Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "51223f18bf67fa4c6d000079",
+    "__v": 0,
+    "created": "2013-02-18T14:47:52.591Z"
+  },
+  {
+    "browser": "Safari_5_iPhone/iPod",
+    "_id": "512262883a89dd7b21000082",
+    "__v": 0,
+    "created": "2013-02-18T17:19:04.844Z"
+  },
+  {
+    "browser": "Mozilla_unknown version_Linux",
+    "_id": "51226354c0a231dd30000001",
+    "__v": 0,
+    "created": "2013-02-18T17:22:28.749Z"
+  },
+  {
+    "browser": "Mozilla_unknown version_Linux",
+    "_id": "5122639d4e58c55d2d00005e",
+    "__v": 0,
+    "created": "2013-02-18T17:23:41.484Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "5122ad7cda75543b710002a4",
+    "__v": 0,
+    "created": "2013-02-18T22:38:52.756Z"
+  },
+  {
+    "browser": "Safari_6_Mac",
+    "_id": "5123589ebf67fa4c6d0008d8",
+    "__v": 0,
+    "created": "2013-02-19T10:49:02.331Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "512617a02223c3bd22000d24",
+    "__v": 0,
+    "created": "2013-02-21T12:48:32.413Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "512672914e58c55d2d000d45",
+    "__v": 0,
+    "created": "2013-02-21T19:16:33.725Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "512689822223c3bd22000d25",
+    "__v": 0,
+    "created": "2013-02-21T20:54:26.535Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51269bae68972f2e58000d34",
+    "__v": 0,
+    "created": "2013-02-21T22:11:58.597Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "51273af968972f2e58000d35",
+    "__v": 0,
+    "created": "2013-02-22T09:31:37.401Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51274d67b6107f42140001c7",
+    "__v": 0,
+    "created": "2013-02-22T10:50:15.607Z"
+  },
+  {
+    "browser": "Safari_5.1_unknown OS",
+    "_id": "5127a00e2223c3bd22000d28",
+    "__v": 0,
+    "created": "2013-02-22T16:42:54.653Z"
+  },
+  {
+    "browser": "Safari_6_unknown OS",
+    "_id": "5127b31568972f2e58000d38",
+    "__v": 0,
+    "created": "2013-02-22T18:04:05.113Z"
+  },
+  {
+    "browser": "Chrome_25_Mac",
+    "_id": "5127ea7268972f2e58000dca",
+    "__v": 0,
+    "created": "2013-02-22T22:00:18.385Z"
+  },
+  {
+    "browser": "Safari_unknown version_unknown OS",
+    "_id": "5128aef3af17b40a20000078",
+    "__v": 0,
+    "created": "2013-02-23T11:58:43.701Z"
+  },
+  {
+    "browser": "Safari_unknown version_unknown OS",
+    "_id": "5128af5db75960ea1400007b",
+    "__v": 0,
+    "created": "2013-02-23T12:00:29.088Z"
+  },
+  {
+    "browser": "Chrome_25_Mac",
+    "_id": "5128cc34b75960ea1400007c",
+    "__v": 0,
+    "created": "2013-02-23T14:03:32.605Z"
+  },
+  {
+    "browser": "Chrome_25_Mac",
+    "_id": "5128d4a4fdc1988b660001aa",
+    "__v": 0,
+    "created": "2013-02-23T14:39:32.900Z"
+  },
+  {
+    "browser": "Chrome_25_Mac",
+    "_id": "5128d5927ec0ffc32600008d",
+    "__v": 0,
+    "created": "2013-02-23T14:43:30.895Z"
+  },
+  {
+    "browser": "Chrome_25_Mac",
+    "_id": "5128e0ca68972f2e58000dcc",
+    "__v": 0,
+    "created": "2013-02-23T15:31:22.059Z"
+  },
+  {
+    "browser": "BOT",
+    "_id": "5128fbf7b6107f4214000258",
+    "__v": 0,
+    "created": "2013-02-23T17:27:19.842Z"
+  },
+  {
+    "browser": "Safari_5.1_iPhone/iPod",
+    "_id": "5129056a51ead1117e0000a3",
+    "__v": 0,
+    "created": "2013-02-23T18:07:38.372Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "512906867ec0ffc3260000ab",
+    "__v": 0,
+    "created": "2013-02-23T18:12:22.215Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290c6e68972f2e58000de3",
+    "__v": 0,
+    "created": "2013-02-23T18:37:34.306Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290c6f3a89dd7b21000d7e",
+    "__v": 0,
+    "created": "2013-02-23T18:37:35.747Z"
+  },
+  {
+    "browser": "Safari_5.1_iPhone/iPod",
+    "_id": "51290c707ec0ffc3260000ac",
+    "__v": 0,
+    "created": "2013-02-23T18:37:36.230Z"
+  },
+  {
+    "browser": "Safari_5_iPhone/iPod",
+    "_id": "51290c72af17b40a20000099",
+    "__v": 0,
+    "created": "2013-02-23T18:37:38.683Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290c73b6107f421400026f",
+    "__v": 0,
+    "created": "2013-02-23T18:37:39.584Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290c744e58c55d2d000ddb",
+    "__v": 0,
+    "created": "2013-02-23T18:37:40.405Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290c763a89dd7b21000d7f",
+    "__v": 0,
+    "created": "2013-02-23T18:37:42.872Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290c7768972f2e58000de4",
+    "__v": 0,
+    "created": "2013-02-23T18:37:43.613Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290c7a2223c3bd22000dd6",
+    "__v": 0,
+    "created": "2013-02-23T18:37:46.141Z"
+  },
+  {
+    "browser": "Mozilla_unknown version_Linux",
+    "_id": "51290c7b4e58c55d2d000ddc",
+    "__v": 0,
+    "created": "2013-02-23T18:37:47.804Z"
+  },
+  {
+    "browser": "Safari_5.1_unknown OS",
+    "_id": "51290c7c4e58c55d2d000ddd",
+    "__v": 0,
+    "created": "2013-02-23T18:37:48.457Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290c7c51ead1117e0000a4",
+    "__v": 0,
+    "created": "2013-02-23T18:37:48.587Z"
+  },
+  {
+    "browser": "Mozilla_unknown version_Linux",
+    "_id": "51290c7c68972f2e58000de5",
+    "__v": 0,
+    "created": "2013-02-23T18:37:48.978Z"
+  },
+  {
+    "browser": "Mozilla_unknown version_Linux",
+    "_id": "51290c7eb6107f4214000270",
+    "__v": 0,
+    "created": "2013-02-23T18:37:50.321Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290c7f3a89dd7b21000d80",
+    "__v": 0,
+    "created": "2013-02-23T18:37:51.159Z"
+  },
+  {
+    "browser": "Mozilla_unknown version_Linux",
+    "_id": "51290c7faf17b40a2000009a",
+    "__v": 0,
+    "created": "2013-02-23T18:37:51.404Z"
+  },
+  {
+    "browser": "Safari_5_iPhone/iPod",
+    "_id": "51290c802223c3bd22000dd7",
+    "__v": 0,
+    "created": "2013-02-23T18:37:52.663Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290c8168972f2e58000de6",
+    "__v": 0,
+    "created": "2013-02-23T18:37:53.027Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290c83b75960ea14000093",
+    "__v": 0,
+    "created": "2013-02-23T18:37:55.182Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290c833a89dd7b21000d81",
+    "__v": 0,
+    "created": "2013-02-23T18:37:55.497Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290c8368972f2e58000de7",
+    "__v": 0,
+    "created": "2013-02-23T18:37:55.705Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290c854e58c55d2d000dde",
+    "__v": 0,
+    "created": "2013-02-23T18:37:57.519Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290c854e58c55d2d000ddf",
+    "__v": 0,
+    "created": "2013-02-23T18:37:57.536Z"
+  },
+  {
+    "browser": "Mozilla_unknown version_Linux",
+    "_id": "51290c862223c3bd22000dd8",
+    "__v": 0,
+    "created": "2013-02-23T18:37:58.601Z"
+  },
+  {
+    "browser": "Chrome_18_Linux",
+    "_id": "51290c884e58c55d2d000de0",
+    "__v": 0,
+    "created": "2013-02-23T18:38:00.641Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290c88af17b40a2000009b",
+    "__v": 0,
+    "created": "2013-02-23T18:38:00.881Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290c8d7ec0ffc3260000ad",
+    "__v": 0,
+    "created": "2013-02-23T18:38:05.542Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290c8e68972f2e58000de8",
+    "__v": 0,
+    "created": "2013-02-23T18:38:06.047Z"
+  },
+  {
+    "browser": "Safari_6_unknown OS",
+    "_id": "51290c8ffdc1988b660001c3",
+    "__v": 0,
+    "created": "2013-02-23T18:38:07.044Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290c93b6107f4214000271",
+    "__v": 0,
+    "created": "2013-02-23T18:38:11.988Z"
+  },
+  {
+    "browser": "Safari_5.1_iPhone/iPod",
+    "_id": "51290c973a89dd7b21000d82",
+    "__v": 0,
+    "created": "2013-02-23T18:38:15.053Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290c9afdc1988b660001c4",
+    "__v": 0,
+    "created": "2013-02-23T18:38:18.682Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290c9a3a89dd7b21000d83",
+    "__v": 0,
+    "created": "2013-02-23T18:38:18.917Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290c9b68972f2e58000de9",
+    "__v": 0,
+    "created": "2013-02-23T18:38:19.554Z"
+  },
+  {
+    "browser": "Safari_5.1_iPhone/iPod",
+    "_id": "51290c9f2223c3bd22000dd9",
+    "__v": 0,
+    "created": "2013-02-23T18:38:23.863Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290ca14e58c55d2d000de1",
+    "__v": 0,
+    "created": "2013-02-23T18:38:25.458Z"
+  },
+  {
+    "browser": "Safari_5.1_iPhone/iPod",
+    "_id": "51290ca33a89dd7b21000d84",
+    "__v": 0,
+    "created": "2013-02-23T18:38:27.498Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290cab4e58c55d2d000de2",
+    "__v": 0,
+    "created": "2013-02-23T18:38:35.053Z"
+  },
+  {
+    "browser": "Safari_5_iPhone/iPod",
+    "_id": "51290cb32223c3bd22000dda",
+    "__v": 0,
+    "created": "2013-02-23T18:38:43.749Z"
+  },
+  {
+    "browser": "Mozilla_unknown version_Linux",
+    "_id": "51290cb9b75960ea14000094",
+    "__v": 0,
+    "created": "2013-02-23T18:38:49.391Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290cbffdc1988b660001c5",
+    "__v": 0,
+    "created": "2013-02-23T18:38:55.792Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290cbf51ead1117e0000a5",
+    "__v": 0,
+    "created": "2013-02-23T18:38:55.839Z"
+  },
+  {
+    "browser": "Mozilla_unknown version_Linux",
+    "_id": "51290cc2af17b40a2000009c",
+    "__v": 0,
+    "created": "2013-02-23T18:38:58.602Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290cc23a89dd7b21000d85",
+    "__v": 0,
+    "created": "2013-02-23T18:38:58.702Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290cd2b6107f4214000272",
+    "__v": 0,
+    "created": "2013-02-23T18:39:14.175Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290cda68972f2e58000dea",
+    "__v": 0,
+    "created": "2013-02-23T18:39:22.409Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290ce1fdc1988b660001c6",
+    "__v": 0,
+    "created": "2013-02-23T18:39:29.869Z"
+  },
+  {
+    "browser": "Mozilla_unknown version_Linux",
+    "_id": "51290ceab6107f4214000273",
+    "__v": 0,
+    "created": "2013-02-23T18:39:38.801Z"
+  },
+  {
+    "browser": "Mozilla_unknown version_Linux",
+    "_id": "51290ceeb6107f4214000274",
+    "__v": 0,
+    "created": "2013-02-23T18:39:42.439Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290cef3a89dd7b21000d86",
+    "__v": 0,
+    "created": "2013-02-23T18:39:43.236Z"
+  },
+  {
+    "browser": "Safari_6_unknown OS",
+    "_id": "51290cfc68972f2e58000deb",
+    "__v": 0,
+    "created": "2013-02-23T18:39:56.726Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290d02b6107f4214000275",
+    "__v": 0,
+    "created": "2013-02-23T18:40:02.228Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290d1b3a89dd7b21000d87",
+    "__v": 0,
+    "created": "2013-02-23T18:40:27.906Z"
+  },
+  {
+    "browser": "Mozilla_unknown version_Linux",
+    "_id": "51290d1db6107f4214000276",
+    "__v": 0,
+    "created": "2013-02-23T18:40:29.788Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290d5568972f2e58000dec",
+    "__v": 0,
+    "created": "2013-02-23T18:41:25.898Z"
+  },
+  {
+    "browser": "Mozilla_unknown version_Linux",
+    "_id": "51290d58af17b40a2000009d",
+    "__v": 0,
+    "created": "2013-02-23T18:41:28.391Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290d86b75960ea14000095",
+    "__v": 0,
+    "created": "2013-02-23T18:42:14.276Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290d91fdc1988b660001c8",
+    "__v": 0,
+    "created": "2013-02-23T18:42:25.301Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290d9851ead1117e0000a6",
+    "__v": 0,
+    "created": "2013-02-23T18:42:32.711Z"
+  },
+  {
+    "browser": "Mozilla_unknown version_Linux",
+    "_id": "51290dbfb6107f4214000277",
+    "__v": 0,
+    "created": "2013-02-23T18:43:11.394Z"
+  },
+  {
+    "browser": "Safari_6_unknown OS",
+    "_id": "51290de351ead1117e0000a7",
+    "__v": 0,
+    "created": "2013-02-23T18:43:47.486Z"
+  },
+  {
+    "browser": "Safari_6_unknown OS",
+    "_id": "51290e3b7ec0ffc3260000ae",
+    "__v": 0,
+    "created": "2013-02-23T18:45:15.807Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290e93b6107f4214000278",
+    "__v": 0,
+    "created": "2013-02-23T18:46:43.776Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51290e9a7ec0ffc3260000af",
+    "__v": 0,
+    "created": "2013-02-23T18:46:50.698Z"
+  },
+  {
+    "browser": "Safari_4_Linux",
+    "_id": "51290ef1fdc1988b660001ca",
+    "__v": 0,
+    "created": "2013-02-23T18:48:17.785Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "51291086af17b40a200000a3",
+    "__v": 0,
+    "created": "2013-02-23T18:55:02.022Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "512913a168972f2e58000dff",
+    "__v": 0,
+    "created": "2013-02-23T19:08:17.701Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "512913b2b75960ea140000a2",
+    "__v": 0,
+    "created": "2013-02-23T19:08:34.600Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "512913bf4e58c55d2d000df9",
+    "__v": 0,
+    "created": "2013-02-23T19:08:47.479Z"
+  },
+  {
+    "browser": "Safari_6_iPhone/iPod",
+    "_id": "512913f068972f2e58000e02",
+    "__v": 0,
+    "created": "2013-02-23T19:09:36.723Z"
+  },
+  {
+    "browser": "Mozilla_unknown version_Linux",
+    "_id": "51292a317ec0ffc3260000f3",
+    "__v": 0,
+    "created": "2013-02-23T20:44:33.042Z"
+  },
+  {
+    "browser": "Safari_unknown version_iPhone/iPod",
+    "_id": "512930174e58c55d2d000e17",
+    "__v": 0,
+    "created": "2013-02-23T21:09:43.638Z"
+  },
+  {
+    "browser": "Mozilla_unknown version_Linux",
+    "_id": "5129366968972f2e58000e21",
+    "__v": 0,
+    "created": "2013-02-23T21:36:41.188Z"
+  },
+  {
+    "browser": "Safari_5.1_iPhone/iPod",
+    "_id": "5129aff5b6107f421400029c",
+    "__v": 0,
+    "created": "2013-02-24T06:15:17.774Z"
+  },
+  {
+    "browser": "Mozilla_unknown version_Linux",
+    "_id": "5129d8463a89dd7b21000daa",
+    "__v": 0,
+    "created": "2013-02-24T09:07:18.131Z"
+  },
+  {
+    "browser": "Safari_unknown version_iPhone/iPod",
+    "_id": "512a023551ead1117e0000d3",
+    "__v": 0,
+    "created": "2013-02-24T12:06:13.910Z"
+  },
+  {
+    "browser": "Chrome_24_Mac",
+    "_id": "512b1b79fdc1988b660001fc",
+    "__v": 0,
+    "created": "2013-02-25T08:06:17.963Z"
+  },
+  {
+    "browser": "Chrome_25_Windows",
+    "_id": "512b9cd9b6107f421400029e",
+    "__v": 0,
+    "created": "2013-02-25T17:18:17.210Z"
+  }
+]
