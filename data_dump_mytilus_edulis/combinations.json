@@ -1,0 +1,5891 @@
+[
+  {
+    "userId": "51290c707ec0ffc3260000ac",
+    "comment": "soft and sour",
+    "_id": "51290ee0fdc1988b660001c9",
+    "__v": 0,
+    "created": "2013-02-23T18:48:00.675Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe5940442a3b000008",
+      "511eb5fd5940442a3b000005"
+    ]
+  },
+  {
+    "userId": "51290c763a89dd7b21000d7f",
+    "comment": "english picnic ",
+    "_id": "51290f0651ead1117e0000a8",
+    "__v": 0,
+    "created": "2013-02-23T18:48:38.361Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe5940442a3b000008",
+      "511eb5fd5940442a3b000005"
+    ]
+  },
+  {
+    "userId": "51290c6e68972f2e58000de3",
+    "comment": "Sauer Bauer",
+    "_id": "51290f0f2223c3bd22000ddb",
+    "__v": 0,
+    "created": "2013-02-23T18:48:47.050Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffba34b2fa7e000005",
+      "511eb5ff074c4dfe1e00000c"
+    ]
+  },
+  {
+    "userId": "51290c884e58c55d2d000de0",
+    "comment": "good with pear",
+    "_id": "51290f464e58c55d2d000de3",
+    "__v": 0,
+    "created": "2013-02-23T18:49:42.356Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600ffdbd7f73f000009",
+      "511eb600d39ea9446a00000a"
+    ]
+  },
+  {
+    "userId": "51290c707ec0ffc3260000ac",
+    "comment": "salty",
+    "_id": "51290f4e68972f2e58000dee",
+    "__v": 0,
+    "created": "2013-02-23T18:49:50.366Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb602262d43f511000008",
+      "511eb5fd5940442a3b000004"
+    ]
+  },
+  {
+    "userId": "51290c8d7ec0ffc3260000ad",
+    "comment": "kedelig",
+    "_id": "51290f557ec0ffc3260000b1",
+    "__v": 0,
+    "created": "2013-02-23T18:49:57.329Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600d39ea9446a00000a",
+      "511eb5fcd39ea9446a000005"
+    ]
+  },
+  {
+    "userId": "51290d1db6107f4214000276",
+    "comment": "ok",
+    "_id": "51290f617ec0ffc3260000b2",
+    "__v": 0,
+    "created": "2013-02-23T18:50:09.877Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb60230c8ce243300000f",
+      "511eb602262d43f511000008"
+    ]
+  },
+  {
+    "userId": "51290ca33a89dd7b21000d84",
+    "comment": "limejoy mussel",
+    "_id": "51290f6aaf17b40a2000009e",
+    "__v": 0,
+    "created": "2013-02-23T18:50:18.004Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000006",
+      "511eb601c928d81348000007"
+    ]
+  },
+  {
+    "userId": "51290c83b75960ea14000093",
+    "comment": "a cheese",
+    "_id": "51290f6ab75960ea14000096",
+    "__v": 0,
+    "created": "2013-02-23T18:50:18.033Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe262d43f511000005",
+      "511eb5fe30c8ce2433000007"
+    ]
+  },
+  {
+    "userId": "51290cab4e58c55d2d000de2",
+    "comment": "hangover",
+    "_id": "51290f75af17b40a2000009f",
+    "__v": 0,
+    "created": "2013-02-23T18:50:29.233Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fc5940442a3b000003",
+      "511eb5fcba34b2fa7e000002"
+    ]
+  },
+  {
+    "userId": "51290c6e68972f2e58000de3",
+    "comment": "crispy whispy",
+    "_id": "51290f7ab6107f4214000279",
+    "__v": 0,
+    "created": "2013-02-23T18:50:34.017Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6015940442a3b00000b",
+      "511eb601074c4dfe1e00000f"
+    ]
+  },
+  {
+    "userId": "51290c83b75960ea14000093",
+    "comment": "a pig",
+    "_id": "51290f8268972f2e58000def",
+    "__v": 0,
+    "created": "2013-02-23T18:50:42.413Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffffdbd7f73f000007",
+      "511eb5fe5940442a3b000009"
+    ]
+  },
+  {
+    "userId": "51290c7eb6107f4214000270",
+    "comment": "coconut dream",
+    "_id": "51290f864e58c55d2d000de4",
+    "__v": 0,
+    "created": "2013-02-23T18:50:46.290Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600ffdbd7f73f000008",
+      "511eb600262d43f511000007"
+    ]
+  },
+  {
+    "userId": "51290d02b6107f4214000275",
+    "comment": "too purple",
+    "_id": "51290f8668972f2e58000df0",
+    "__v": 0,
+    "created": "2013-02-23T18:50:46.625Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fc3eef831644000003",
+      "511eb5fc074c4dfe1e000007"
+    ]
+  },
+  {
+    "userId": "51290c763a89dd7b21000d7f",
+    "comment": "SQM",
+    "_id": "51290f897ec0ffc3260000b3",
+    "__v": 0,
+    "created": "2013-02-23T18:50:49.360Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe30c8ce2433000007",
+      "511eb5ffffdbd7f73f000007"
+    ]
+  },
+  {
+    "userId": "51290c7a2223c3bd22000dd6",
+    "comment": "nordic spring ",
+    "_id": "51290f8d2223c3bd22000ddc",
+    "__v": 0,
+    "created": "2013-02-23T18:50:53.482Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601ffdbd7f73f00000b",
+      "511eb600ffdbd7f73f00000a"
+    ]
+  },
+  {
+    "userId": "51290c707ec0ffc3260000ac",
+    "comment": "porky",
+    "_id": "51290f9151ead1117e0000a9",
+    "__v": 0,
+    "created": "2013-02-23T18:50:57.565Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe30c8ce2433000007",
+      "511eb5fe5940442a3b000009"
+    ]
+  },
+  {
+    "userId": "51290c862223c3bd22000dd8",
+    "comment": " ",
+    "_id": "51290f967ec0ffc3260000b4",
+    "__v": 0,
+    "created": "2013-02-23T18:51:02.950Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffba34b2fa7e000005",
+      "511eb5ff074c4dfe1e00000c"
+    ]
+  },
+  {
+    "userId": "51290c7c68972f2e58000de5",
+    "comment": "onion supreme",
+    "_id": "51290faaaf17b40a200000a0",
+    "__v": 0,
+    "created": "2013-02-23T18:51:22.360Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600c928d81348000006",
+      "511eb60030c8ce243300000c"
+    ]
+  },
+  {
+    "userId": "51290ce1fdc1988b660001c6",
+    "comment": "fennikel ",
+    "_id": "51290fadfdc1988b660001cb",
+    "__v": 0,
+    "created": "2013-02-23T18:51:25.576Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601074c4dfe1e00000f",
+      "511eb6015940442a3b00000b"
+    ]
+  },
+  {
+    "userId": "51290cfc68972f2e58000deb",
+    "comment": "awrite",
+    "_id": "51290fb0fdc1988b660001cc",
+    "__v": 0,
+    "created": "2013-02-23T18:51:28.953Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fc074c4dfe1e000007",
+      "511eb6003eef831644000008"
+    ]
+  },
+  {
+    "userId": "51290cab4e58c55d2d000de2",
+    "comment": "hot",
+    "_id": "51290fbc3a89dd7b21000d88",
+    "__v": 0,
+    "created": "2013-02-23T18:51:40.030Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd262d43f511000004",
+      "511eb60230c8ce243300000e"
+    ]
+  },
+  {
+    "userId": "51290ca33a89dd7b21000d84",
+    "comment": "gingerface",
+    "_id": "51290fc0b6107f421400027a",
+    "__v": 0,
+    "created": "2013-02-23T18:51:44.120Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe8593183f6a000005",
+      "511eb5feffdbd7f73f000006"
+    ]
+  },
+  {
+    "userId": "51290d1db6107f4214000276",
+    "comment": "delish",
+    "_id": "51290fc868972f2e58000df1",
+    "__v": 0,
+    "created": "2013-02-23T18:51:52.594Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe074c4dfe1e00000a",
+      "511eb5fe30c8ce2433000007"
+    ]
+  },
+  {
+    "userId": "51290c8168972f2e58000de6",
+    "comment": "bluemus",
+    "_id": "51290fce3a89dd7b21000d89",
+    "__v": 0,
+    "created": "2013-02-23T18:51:58.012Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb602262d43f511000008",
+      "511eb60230c8ce243300000f"
+    ]
+  },
+  {
+    "userId": "51290cfc68972f2e58000deb",
+    "comment": "cheesycarrot",
+    "_id": "51290fdd4e58c55d2d000de5",
+    "__v": 0,
+    "created": "2013-02-23T18:52:13.024Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff8593183f6a000008",
+      "511eb5fd074c4dfe1e000009"
+    ]
+  },
+  {
+    "userId": "51290c6e68972f2e58000de3",
+    "comment": "Beef'n cheek",
+    "_id": "51290fe3fdc1988b660001cd",
+    "__v": 0,
+    "created": "2013-02-23T18:52:19.333Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000004",
+      "511eb602262d43f511000008"
+    ]
+  },
+  {
+    "userId": "51290cab4e58c55d2d000de2",
+    "comment": "too salty",
+    "_id": "51290fed2223c3bd22000ddd",
+    "__v": 0,
+    "created": "2013-02-23T18:52:29.417Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6013eef831644000009",
+      "511eb600074c4dfe1e00000e"
+    ]
+  },
+  {
+    "userId": "51290c7faf17b40a2000009a",
+    "comment": "leek mussel",
+    "_id": "51290ff42223c3bd22000dde",
+    "__v": 0,
+    "created": "2013-02-23T18:52:36.909Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6005940442a3b00000a",
+      "511eb600ffdbd7f73f000009"
+    ]
+  },
+  {
+    "userId": "51290c707ec0ffc3260000ac",
+    "comment": "rich",
+    "_id": "51291004fdc1988b660001ce",
+    "__v": 0,
+    "created": "2013-02-23T18:52:52.660Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffffdbd7f73f000007",
+      "511eb5fec928d81348000003"
+    ]
+  },
+  {
+    "userId": "51290cab4e58c55d2d000de2",
+    "comment": "pizza",
+    "_id": "512910213a89dd7b21000d8a",
+    "__v": 0,
+    "created": "2013-02-23T18:53:21.083Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb60230c8ce243300000f",
+      "511eb602262d43f511000008"
+    ]
+  },
+  {
+    "userId": "51290c83b75960ea14000093",
+    "comment": "strong",
+    "_id": "512910233a89dd7b21000d8b",
+    "__v": 0,
+    "created": "2013-02-23T18:53:23.349Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff8593183f6a000008",
+      "511eb600c928d81348000006"
+    ]
+  },
+  {
+    "userId": "51290dbfb6107f4214000277",
+    "comment": "to flavourd",
+    "_id": "51291027af17b40a200000a1",
+    "__v": 0,
+    "created": "2013-02-23T18:53:27.217Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcc928d81348000001",
+      "511eb5fdba34b2fa7e000003"
+    ]
+  },
+  {
+    "userId": "51290c884e58c55d2d000de0",
+    "comment": "karsen god til kalvetunge",
+    "_id": "512910274e58c55d2d000de6",
+    "__v": 0,
+    "created": "2013-02-23T18:53:27.981Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000004",
+      "511eb602262d43f511000008"
+    ]
+  },
+  {
+    "userId": "51290c8e68972f2e58000de8",
+    "comment": "fresh",
+    "_id": "5129103afdc1988b660001cf",
+    "__v": 0,
+    "created": "2013-02-23T18:53:46.653Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe3eef831644000007",
+      "511eb5fe262d43f511000005"
+    ]
+  },
+  {
+    "userId": "51290c854e58c55d2d000ddf",
+    "comment": "green",
+    "_id": "5129103a4e58c55d2d000de7",
+    "__v": 0,
+    "created": "2013-02-23T18:53:46.720Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6013eef83164400000b",
+      "511eb600ffdbd7f73f00000a"
+    ]
+  },
+  {
+    "userId": "51290c884e58c55d2d000de0",
+    "comment": "sweet and yokey",
+    "_id": "5129104afdc1988b660001d0",
+    "__v": 0,
+    "created": "2013-02-23T18:54:02.336Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe5940442a3b000008",
+      "511eb5fd5940442a3b000007"
+    ]
+  },
+  {
+    "userId": "51290c763a89dd7b21000d7f",
+    "comment": "bone cheese",
+    "_id": "51291051af17b40a200000a2",
+    "__v": 0,
+    "created": "2013-02-23T18:54:09.408Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600ffdbd7f73f000009",
+      "511eb5fec928d81348000003"
+    ]
+  },
+  {
+    "userId": "51290c862223c3bd22000dd8",
+    "comment": "nutty",
+    "_id": "5129105c4e58c55d2d000de8",
+    "__v": 0,
+    "created": "2013-02-23T18:54:20.494Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff30c8ce2433000009",
+      "511eb5ff30c8ce243300000b"
+    ]
+  },
+  {
+    "userId": "51290c7768972f2e58000de4",
+    "comment": "ginger",
+    "_id": "5129105f68972f2e58000df2",
+    "__v": 0,
+    "created": "2013-02-23T18:54:23.146Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6013eef831644000009",
+      "511eb600074c4dfe1e00000e"
+    ]
+  },
+  {
+    "userId": "51290cab4e58c55d2d000de2",
+    "comment": "spring",
+    "_id": "512910624e58c55d2d000de9",
+    "__v": 0,
+    "created": "2013-02-23T18:54:26.747Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fc074c4dfe1e000007",
+      "511eb5fd30c8ce2433000006"
+    ]
+  },
+  {
+    "userId": "51290cc2af17b40a2000009c",
+    "comment": "rigtig god kombi",
+    "_id": "512910642223c3bd22000ddf",
+    "__v": 0,
+    "created": "2013-02-23T18:54:28.571Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb60230c8ce243300000f",
+      "511eb601074c4dfe1e00000f"
+    ]
+  },
+  {
+    "userId": "51290ca33a89dd7b21000d84",
+    "comment": "syltemoule",
+    "_id": "51291067fdc1988b660001d1",
+    "__v": 0,
+    "created": "2013-02-23T18:54:31.158Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff8593183f6a000006",
+      "511eb5feffdbd7f73f000006"
+    ]
+  },
+  {
+    "userId": "51290d02b6107f4214000275",
+    "comment": "odd not",
+    "_id": "5129106a2223c3bd22000de0",
+    "__v": 0,
+    "created": "2013-02-23T18:54:34.283Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601074c4dfe1e00000f",
+      "511eb5fc3eef831644000003"
+    ]
+  },
+  {
+    "userId": "51290c8d7ec0ffc3260000ad",
+    "comment": "godt sammen ",
+    "_id": "5129106ab6107f421400027b",
+    "__v": 0,
+    "created": "2013-02-23T18:54:34.380Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe074c4dfe1e00000b",
+      "511eb5ff30c8ce2433000008"
+    ]
+  },
+  {
+    "userId": "51290c7eb6107f4214000270",
+    "comment": "salty dog",
+    "_id": "51291074fdc1988b660001d2",
+    "__v": 0,
+    "created": "2013-02-23T18:54:44.679Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600074c4dfe1e00000e",
+      "511eb600262d43f511000007"
+    ]
+  },
+  {
+    "userId": "51290cfc68972f2e58000deb",
+    "comment": "beetup",
+    "_id": "5129108e4e58c55d2d000dea",
+    "__v": 0,
+    "created": "2013-02-23T18:55:10.732Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fc3eef831644000003",
+      "511eb60030c8ce243300000c"
+    ]
+  },
+  {
+    "userId": "51290d1b3a89dd7b21000d87",
+    "comment": "green spring",
+    "_id": "51291096fdc1988b660001d3",
+    "__v": 0,
+    "created": "2013-02-23T18:55:18.574Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601074c4dfe1e000010",
+      "511eb60230c8ce243300000e"
+    ]
+  },
+  {
+    "userId": "51290d1db6107f4214000276",
+    "comment": "nutty delight",
+    "_id": "512910977ec0ffc3260000b5",
+    "__v": 0,
+    "created": "2013-02-23T18:55:19.618Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcba34b2fa7e000002",
+      "511eb5fcd39ea9446a000004"
+    ]
+  },
+  {
+    "userId": "51290c83b75960ea14000093",
+    "comment": "like a cow",
+    "_id": "51291098fdc1988b660001d4",
+    "__v": 0,
+    "created": "2013-02-23T18:55:20.591Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb602262d43f511000008",
+      "511eb6018593183f6a000009"
+    ]
+  },
+  {
+    "userId": "51290c72af17b40a20000099",
+    "comment": "CoOkie",
+    "_id": "5129109b4e58c55d2d000deb",
+    "__v": 0,
+    "created": "2013-02-23T18:55:23.326Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcba34b2fa7e000001",
+      "511eb5fc5940442a3b000003"
+    ]
+  },
+  {
+    "userId": "51290e9a7ec0ffc3260000af",
+    "comment": "notning ón the beach",
+    "_id": "5129109d3a89dd7b21000d8c",
+    "__v": 0,
+    "created": "2013-02-23T18:55:25.335Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000005",
+      "511eb5fd30c8ce2433000005"
+    ]
+  },
+  {
+    "userId": "51290c9f2223c3bd22000dd9",
+    "comment": "three tastes mixed!?",
+    "_id": "512910a27ec0ffc3260000b6",
+    "__v": 0,
+    "created": "2013-02-23T18:55:30.251Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6013eef83164400000b",
+      "511eb5fd30c8ce2433000005"
+    ]
+  },
+  {
+    "userId": "51290c8ffdc1988b660001c3",
+    "comment": "bitter",
+    "_id": "512910a72223c3bd22000de1",
+    "__v": 0,
+    "created": "2013-02-23T18:55:35.469Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6018593183f6a000009",
+      "511eb60130c8ce243300000d"
+    ]
+  },
+  {
+    "userId": "51290cfc68972f2e58000deb",
+    "comment": "hipcheese",
+    "_id": "512910ac3a89dd7b21000d8d",
+    "__v": 0,
+    "created": "2013-02-23T18:55:40.936Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb60230c8ce243300000f",
+      "511eb5fe074c4dfe1e00000b"
+    ]
+  },
+  {
+    "userId": "51290ceeb6107f4214000274",
+    "comment": "white",
+    "_id": "512910b52223c3bd22000de2",
+    "__v": 0,
+    "created": "2013-02-23T18:55:49.976Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff8593183f6a000008",
+      "511eb6015940442a3b00000b"
+    ]
+  },
+  {
+    "userId": "51290ce1fdc1988b660001c6",
+    "comment": "playfull",
+    "_id": "512910bffdc1988b660001d5",
+    "__v": 0,
+    "created": "2013-02-23T18:55:59.079Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6003eef831644000008",
+      "511eb5ff8593183f6a000008"
+    ]
+  },
+  {
+    "userId": "51290c707ec0ffc3260000ac",
+    "comment": "sharp",
+    "_id": "512910cd7ec0ffc3260000b7",
+    "__v": 0,
+    "created": "2013-02-23T18:56:13.524Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600ffdbd7f73f000009",
+      "511eb600c928d81348000006"
+    ]
+  },
+  {
+    "userId": "51290c7768972f2e58000de4",
+    "comment": "sær",
+    "_id": "512910cf2223c3bd22000de3",
+    "__v": 0,
+    "created": "2013-02-23T18:56:15.919Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcc928d81348000002",
+      "511eb60230c8ce243300000f"
+    ]
+  },
+  {
+    "userId": "51290cab4e58c55d2d000de2",
+    "comment": "fall",
+    "_id": "512910d568972f2e58000df3",
+    "__v": 0,
+    "created": "2013-02-23T18:56:21.304Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffc928d81348000004",
+      "511eb5ff30c8ce2433000009"
+    ]
+  },
+  {
+    "userId": "51290d02b6107f4214000275",
+    "comment": "fresh feeling",
+    "_id": "512910d551ead1117e0000aa",
+    "__v": 0,
+    "created": "2013-02-23T18:56:21.426Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6015940442a3b00000c",
+      "511eb601074c4dfe1e000010"
+    ]
+  },
+  {
+    "userId": "51290c707ec0ffc3260000ac",
+    "comment": "rich",
+    "_id": "512910d9af17b40a200000a4",
+    "__v": 0,
+    "created": "2013-02-23T18:56:25.698Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff8593183f6a000007",
+      "511eb5ff8593183f6a000008"
+    ]
+  },
+  {
+    "userId": "51290c8168972f2e58000de6",
+    "comment": "smak",
+    "_id": "512910dffdc1988b660001d6",
+    "__v": 0,
+    "created": "2013-02-23T18:56:31.358Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600c928d81348000005",
+      "511eb5ff8593183f6a000008"
+    ]
+  },
+  {
+    "userId": "51290c884e58c55d2d000de0",
+    "comment": "too rich",
+    "_id": "512910e0af17b40a200000a5",
+    "__v": 0,
+    "created": "2013-02-23T18:56:32.555Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe5940442a3b000009",
+      "511eb5ffffdbd7f73f000007"
+    ]
+  },
+  {
+    "userId": "51290dbfb6107f4214000277",
+    "comment": "for fad",
+    "_id": "512910e0b75960ea14000097",
+    "__v": 0,
+    "created": "2013-02-23T18:56:32.689Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5feba34b2fa7e000004",
+      "511eb5feffdbd7f73f000006"
+    ]
+  },
+  {
+    "userId": "51290c6e68972f2e58000de3",
+    "comment": "smokey ryes ",
+    "_id": "512910e3b6107f421400027c",
+    "__v": 0,
+    "created": "2013-02-23T18:56:35.589Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff30c8ce2433000008",
+      "511eb5ff8593183f6a000008"
+    ]
+  },
+  {
+    "userId": "5128af5db75960ea1400007b",
+    "comment": "bitter sweet",
+    "_id": "512910ee68972f2e58000df4",
+    "__v": 0,
+    "created": "2013-02-23T18:56:46.939Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe3eef831644000007",
+      "511eb5fe262d43f511000005"
+    ]
+  },
+  {
+    "userId": "51269bae68972f2e58000d34",
+    "comment": "boring",
+    "_id": "512910f2af17b40a200000a6",
+    "__v": 0,
+    "created": "2013-02-23T18:56:50.330Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6013eef83164400000b",
+      "511eb5fe3eef831644000007"
+    ]
+  },
+  {
+    "userId": "51290c884e58c55d2d000de0",
+    "comment": "dry",
+    "_id": "512910f67ec0ffc3260000b8",
+    "__v": 0,
+    "created": "2013-02-23T18:56:54.667Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe074c4dfe1e00000b",
+      "511eb5ff30c8ce2433000008"
+    ]
+  },
+  {
+    "userId": "51290ceab6107f4214000273",
+    "comment": "Italien",
+    "_id": "512910f84e58c55d2d000dec",
+    "__v": 0,
+    "created": "2013-02-23T18:56:56.504Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd262d43f511000004",
+      "511eb5fcc928d81348000001"
+    ]
+  },
+  {
+    "userId": "51290d1b3a89dd7b21000d87",
+    "comment": "thaitation",
+    "_id": "512910ff2223c3bd22000de4",
+    "__v": 0,
+    "created": "2013-02-23T18:57:03.577Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb602d39ea9446a00000b",
+      "511eb601c928d81348000007"
+    ]
+  },
+  {
+    "userId": "51290c9a3a89dd7b21000d83",
+    "comment": "lovely comfort food",
+    "_id": "512911083a89dd7b21000d8e",
+    "__v": 0,
+    "created": "2013-02-23T18:57:12.418Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5feffdbd7f73f000006",
+      "511eb5fcba34b2fa7e000002"
+    ]
+  },
+  {
+    "userId": "51290e93b6107f4214000278",
+    "comment": "great",
+    "_id": "5129111251ead1117e0000ab",
+    "__v": 0,
+    "created": "2013-02-23T18:57:22.192Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe074c4dfe1e00000b",
+      "511eb5fe30c8ce2433000007"
+    ]
+  },
+  {
+    "userId": "51290c862223c3bd22000dd8",
+    "comment": " ",
+    "_id": "5129111aaf17b40a200000a7",
+    "__v": 0,
+    "created": "2013-02-23T18:57:30.167Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6015940442a3b00000b",
+      "511eb600c928d81348000005"
+    ]
+  },
+  {
+    "userId": "51290c7faf17b40a2000009a",
+    "comment": "porky rye mussel",
+    "_id": "5129112368972f2e58000df5",
+    "__v": 0,
+    "created": "2013-02-23T18:57:39.788Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff30c8ce2433000008",
+      "511eb5ffffdbd7f73f000007"
+    ]
+  },
+  {
+    "userId": "51290ca33a89dd7b21000d84",
+    "comment": "Spicy green sucker",
+    "_id": "51291124fdc1988b660001d7",
+    "__v": 0,
+    "created": "2013-02-23T18:57:40.221Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffba34b2fa7e000005",
+      "511eb6013eef83164400000a"
+    ]
+  },
+  {
+    "userId": "51290ce1fdc1988b660001c6",
+    "comment": "vammelt",
+    "_id": "512911357ec0ffc3260000b9",
+    "__v": 0,
+    "created": "2013-02-23T18:57:57.932Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffc928d81348000004",
+      "511eb5ff30c8ce2433000009"
+    ]
+  },
+  {
+    "userId": "51290e9a7ec0ffc3260000af",
+    "comment": "behind the circus",
+    "_id": "512911392223c3bd22000de5",
+    "__v": 0,
+    "created": "2013-02-23T18:58:01.730Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fc074c4dfe1e000007",
+      "511eb5fc3eef831644000003"
+    ]
+  },
+  {
+    "userId": "51269bae68972f2e58000d34",
+    "comment": "delicioso.com",
+    "_id": "5129113a3a89dd7b21000d8f",
+    "__v": 0,
+    "created": "2013-02-23T18:58:02.741Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe262d43f511000005",
+      "511eb5feffdbd7f73f000006"
+    ]
+  },
+  {
+    "userId": "51290cfc68972f2e58000deb",
+    "comment": "awesome",
+    "_id": "5129114651ead1117e0000ac",
+    "__v": 0,
+    "created": "2013-02-23T18:58:14.962Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fed39ea9446a000006",
+      "511eb600262d43f511000007"
+    ]
+  },
+  {
+    "userId": "51290c6e68972f2e58000de3",
+    "comment": "sausage story",
+    "_id": "51291154fdc1988b660001d8",
+    "__v": 0,
+    "created": "2013-02-23T18:58:28.268Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffffdbd7f73f000007",
+      "511eb5ff8593183f6a000006"
+    ]
+  },
+  {
+    "userId": "51290c707ec0ffc3260000ac",
+    "comment": "weird",
+    "_id": "512911553a89dd7b21000d90",
+    "__v": 0,
+    "created": "2013-02-23T18:58:29.913Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6003eef831644000008",
+      "511eb60030c8ce243300000c"
+    ]
+  },
+  {
+    "userId": "51290ceab6107f4214000273",
+    "comment": "for meget løg smag",
+    "_id": "5129115aaf17b40a200000a8",
+    "__v": 0,
+    "created": "2013-02-23T18:58:34.598Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcba34b2fa7e000002",
+      "511eb5fc5940442a3b000003"
+    ]
+  },
+  {
+    "userId": "51290cab4e58c55d2d000de2",
+    "comment": "hmmm",
+    "_id": "5129115daf17b40a200000a9",
+    "__v": 0,
+    "created": "2013-02-23T18:58:37.188Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffffdbd7f73f000007",
+      "511eb5ffd39ea9446a000008"
+    ]
+  },
+  {
+    "userId": "51290c8d7ec0ffc3260000ad",
+    "comment": "kedelig",
+    "_id": "512911712223c3bd22000de6",
+    "__v": 0,
+    "created": "2013-02-23T18:58:57.692Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600d39ea9446a00000a",
+      "511eb60030c8ce243300000c"
+    ]
+  },
+  {
+    "userId": "51291086af17b40a200000a3",
+    "comment": "?",
+    "_id": "5129117951ead1117e0000ad",
+    "__v": 0,
+    "created": "2013-02-23T18:59:05.552Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000006",
+      "511eb5fd3eef831644000005"
+    ]
+  },
+  {
+    "userId": "51290cfc68972f2e58000deb",
+    "comment": "notoobad",
+    "_id": "5129117a3a89dd7b21000d91",
+    "__v": 0,
+    "created": "2013-02-23T18:59:06.650Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcba34b2fa7e000002",
+      "511eb5feba34b2fa7e000004"
+    ]
+  },
+  {
+    "userId": "51290c8ffdc1988b660001c3",
+    "comment": "smoke gets in your eye",
+    "_id": "5129117bb75960ea14000098",
+    "__v": 0,
+    "created": "2013-02-23T18:59:07.652Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600ffdbd7f73f000009",
+      "511eb5ff262d43f511000006"
+    ]
+  },
+  {
+    "userId": "51290c884e58c55d2d000de0",
+    "comment": "fennel overpowering",
+    "_id": "5129117c2223c3bd22000de7",
+    "__v": 0,
+    "created": "2013-02-23T18:59:08.889Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601074c4dfe1e00000f",
+      "511eb6015940442a3b00000b"
+    ]
+  },
+  {
+    "userId": "51290ceeb6107f4214000274",
+    "comment": "purpel",
+    "_id": "51291186af17b40a200000aa",
+    "__v": 0,
+    "created": "2013-02-23T18:59:18.277Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcd39ea9446a000005",
+      "511eb602262d43f511000008"
+    ]
+  },
+  {
+    "userId": "51290c7b4e58c55d2d000ddc",
+    "comment": "mixed",
+    "_id": "512911897ec0ffc3260000ba",
+    "__v": 0,
+    "created": "2013-02-23T18:59:21.041Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcd39ea9446a000004",
+      "511eb5fcba34b2fa7e000001"
+    ]
+  },
+  {
+    "userId": "51290d02b6107f4214000275",
+    "comment": "ymmie!",
+    "_id": "5129118e4e58c55d2d000ded",
+    "__v": 0,
+    "created": "2013-02-23T18:59:26.006Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb60030c8ce243300000c",
+      "511eb600ffdbd7f73f00000a"
+    ]
+  },
+  {
+    "userId": "51290c7768972f2e58000de4",
+    "comment": "seedet explosion",
+    "_id": "5129118ffdc1988b660001d9",
+    "__v": 0,
+    "created": "2013-02-23T18:59:27.331Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff262d43f511000006",
+      "511eb5ff074c4dfe1e00000c"
+    ]
+  },
+  {
+    "userId": "51290ca14e58c55d2d000de1",
+    "comment": "fresh",
+    "_id": "512911922223c3bd22000de8",
+    "__v": 0,
+    "created": "2013-02-23T18:59:30.417Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6005940442a3b00000a",
+      "511eb6018593183f6a000009"
+    ]
+  },
+  {
+    "userId": "51290c763a89dd7b21000d7f",
+    "comment": "Earth sugar",
+    "_id": "51291195b6107f421400027d",
+    "__v": 0,
+    "created": "2013-02-23T18:59:33.038Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600c928d81348000005",
+      "511eb5ffba34b2fa7e000005"
+    ]
+  },
+  {
+    "userId": "51290dbfb6107f4214000277",
+    "comment": "sweet hot",
+    "_id": "5129119851ead1117e0000ae",
+    "__v": 0,
+    "created": "2013-02-23T18:59:36.253Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd262d43f511000004",
+      "511eb5fd5940442a3b000006"
+    ]
+  },
+  {
+    "userId": "51290c8368972f2e58000de7",
+    "comment": "normal",
+    "_id": "51291198af17b40a200000ab",
+    "__v": 0,
+    "created": "2013-02-23T18:59:36.908Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601ffdbd7f73f00000b",
+      "511eb5fd074c4dfe1e000008"
+    ]
+  },
+  {
+    "userId": "51290c973a89dd7b21000d82",
+    "comment": "strange",
+    "_id": "5129119d4e58c55d2d000dee",
+    "__v": 0,
+    "created": "2013-02-23T18:59:41.681Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd3eef831644000005",
+      "511eb5fd5940442a3b000006"
+    ]
+  },
+  {
+    "userId": "51290c862223c3bd22000dd8",
+    "comment": " ",
+    "_id": "512911a151ead1117e0000af",
+    "__v": 0,
+    "created": "2013-02-23T18:59:45.042Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6025940442a3b00000d",
+      "511eb600d39ea9446a00000a"
+    ]
+  },
+  {
+    "userId": "51290e9a7ec0ffc3260000af",
+    "comment": "strange message",
+    "_id": "512911aa4e58c55d2d000def",
+    "__v": 0,
+    "created": "2013-02-23T18:59:54.687Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601ffdbd7f73f00000b",
+      "511eb5fd3eef831644000005"
+    ]
+  },
+  {
+    "userId": "51290c6e68972f2e58000de3",
+    "comment": "crisp ",
+    "_id": "512911bb68972f2e58000df6",
+    "__v": 0,
+    "created": "2013-02-23T19:00:11.037Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe262d43f511000005",
+      "511eb5feffdbd7f73f000006"
+    ]
+  },
+  {
+    "userId": "51290ca14e58c55d2d000de1",
+    "comment": "just great",
+    "_id": "512911be51ead1117e0000b0",
+    "__v": 0,
+    "created": "2013-02-23T19:00:14.355Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb602262d43f511000008",
+      "511eb5fcd39ea9446a000005"
+    ]
+  },
+  {
+    "userId": "51290ca33a89dd7b21000d84",
+    "comment": "sød/salt mussel",
+    "_id": "512911be68972f2e58000df7",
+    "__v": 0,
+    "created": "2013-02-23T19:00:14.739Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600ffdbd7f73f000008",
+      "511eb600074c4dfe1e00000e"
+    ]
+  },
+  {
+    "userId": "51290c707ec0ffc3260000ac",
+    "comment": "sour",
+    "_id": "512911c33a89dd7b21000d92",
+    "__v": 0,
+    "created": "2013-02-23T19:00:19.118Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffba34b2fa7e000005",
+      "511eb5ff8593183f6a000008"
+    ]
+  },
+  {
+    "userId": "51269bae68972f2e58000d34",
+    "comment": "ups",
+    "_id": "512911c94e58c55d2d000df0",
+    "__v": 0,
+    "created": "2013-02-23T19:00:25.399Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe5940442a3b000008",
+      "511eb5fd5940442a3b000005"
+    ]
+  },
+  {
+    "userId": "51290c7b4e58c55d2d000ddc",
+    "comment": "ok",
+    "_id": "512911d27ec0ffc3260000bb",
+    "__v": 0,
+    "created": "2013-02-23T19:00:34.769Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fc5940442a3b000003",
+      "511eb5fcba34b2fa7e000002"
+    ]
+  },
+  {
+    "userId": "51290c8368972f2e58000de7",
+    "comment": "syrlig dejlig",
+    "_id": "512911d3b75960ea14000099",
+    "__v": 0,
+    "created": "2013-02-23T19:00:35.922Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000007",
+      "511eb5fec928d81348000003"
+    ]
+  },
+  {
+    "userId": "51290ce1fdc1988b660001c6",
+    "comment": "lovely",
+    "_id": "512911d44e58c55d2d000df1",
+    "__v": 0,
+    "created": "2013-02-23T19:00:36.134Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff30c8ce2433000009",
+      "511eb5ff30c8ce243300000a"
+    ]
+  },
+  {
+    "userId": "51290cab4e58c55d2d000de2",
+    "comment": "fresh",
+    "_id": "512911d5fdc1988b660001da",
+    "__v": 0,
+    "created": "2013-02-23T19:00:37.986Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff8593183f6a000006",
+      "511eb5ff262d43f511000006"
+    ]
+  },
+  {
+    "userId": "51290c72af17b40a20000099",
+    "comment": "CoOkie",
+    "_id": "512911db68972f2e58000df8",
+    "__v": 0,
+    "created": "2013-02-23T19:00:43.460Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcba34b2fa7e000001",
+      "511eb5fc5940442a3b000003"
+    ]
+  },
+  {
+    "userId": "51290d1b3a89dd7b21000d87",
+    "comment": "deep blue",
+    "_id": "512911dfb75960ea1400009a",
+    "__v": 0,
+    "created": "2013-02-23T19:00:47.360Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb60230c8ce243300000f",
+      "511eb601074c4dfe1e00000f"
+    ]
+  },
+  {
+    "userId": "51290ceab6107f4214000273",
+    "comment": "God",
+    "_id": "512911ea2223c3bd22000de9",
+    "__v": 0,
+    "created": "2013-02-23T19:00:58.227Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcd39ea9446a000004",
+      "511eb5fcba34b2fa7e000001"
+    ]
+  },
+  {
+    "userId": "51290c9f2223c3bd22000dd9",
+    "comment": "delicat pale",
+    "_id": "512911ff4e58c55d2d000df2",
+    "__v": 0,
+    "created": "2013-02-23T19:01:19.586Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600ffdbd7f73f00000a",
+      "511eb60030c8ce243300000c"
+    ]
+  },
+  {
+    "userId": "51290c93b6107f4214000271",
+    "comment": "bits you In the ass",
+    "_id": "5129120a7ec0ffc3260000bc",
+    "__v": 0,
+    "created": "2013-02-23T19:01:30.213Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6013eef83164400000a",
+      "511eb601074c4dfe1e000010"
+    ]
+  },
+  {
+    "userId": "51290cab4e58c55d2d000de2",
+    "comment": "tivoli",
+    "_id": "5129120db6107f421400027e",
+    "__v": 0,
+    "created": "2013-02-23T19:01:33.830Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff8593183f6a000008",
+      "511eb600c928d81348000006"
+    ]
+  },
+  {
+    "userId": "51290c8d7ec0ffc3260000ad",
+    "comment": "for sur",
+    "_id": "5129120e4e58c55d2d000df3",
+    "__v": 0,
+    "created": "2013-02-23T19:01:34.738Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fc074c4dfe1e000007",
+      "511eb5fd074c4dfe1e000009"
+    ]
+  },
+  {
+    "userId": "51290d02b6107f4214000275",
+    "comment": "no go",
+    "_id": "512912147ec0ffc3260000bd",
+    "__v": 0,
+    "created": "2013-02-23T19:01:40.180Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe3eef831644000007",
+      "511eb5fed39ea9446a000007"
+    ]
+  },
+  {
+    "userId": "51290c9a3a89dd7b21000d83",
+    "comment": "A bit too sweet",
+    "_id": "5129121668972f2e58000df9",
+    "__v": 0,
+    "created": "2013-02-23T19:01:42.774Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600ffdbd7f73f000008",
+      "511eb5fd5940442a3b000006"
+    ]
+  },
+  {
+    "userId": "51290c8168972f2e58000de6",
+    "comment": "pop of",
+    "_id": "5129121968972f2e58000dfa",
+    "__v": 0,
+    "created": "2013-02-23T19:01:45.084Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe3eef831644000006",
+      "511eb5fe30c8ce2433000007"
+    ]
+  },
+  {
+    "userId": "51290cb9b75960ea14000094",
+    "comment": "FOR SØD",
+    "_id": "5129121f7ec0ffc3260000be",
+    "__v": 0,
+    "created": "2013-02-23T19:01:51.280Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe074c4dfe1e00000a",
+      "511eb5fd074c4dfe1e000009"
+    ]
+  },
+  {
+    "userId": "51290c9f2223c3bd22000dd9",
+    "comment": "delicious",
+    "_id": "51291221af17b40a200000ac",
+    "__v": 0,
+    "created": "2013-02-23T19:01:53.047Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601ffdbd7f73f00000b",
+      "511eb600ffdbd7f73f00000a"
+    ]
+  },
+  {
+    "userId": "51290c7a2223c3bd22000dd6",
+    "comment": "mild spring",
+    "_id": "512912247ec0ffc3260000bf",
+    "__v": 0,
+    "created": "2013-02-23T19:01:56.003Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fed39ea9446a000007",
+      "511eb5feffdbd7f73f000006"
+    ]
+  },
+  {
+    "userId": "51290c6e68972f2e58000de3",
+    "comment": "salmonella ",
+    "_id": "512912252223c3bd22000dea",
+    "__v": 0,
+    "created": "2013-02-23T19:01:57.541Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd3eef831644000005",
+      "511eb5fd5940442a3b000006"
+    ]
+  },
+  {
+    "userId": "51290d1db6107f4214000276",
+    "comment": "surprisingly good",
+    "_id": "51291225b75960ea1400009b",
+    "__v": 0,
+    "created": "2013-02-23T19:01:57.962Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffc928d81348000004",
+      "511eb5ff8593183f6a000008"
+    ]
+  },
+  {
+    "userId": "51290ca14e58c55d2d000de1",
+    "comment": "skarpt",
+    "_id": "5129122eb75960ea1400009c",
+    "__v": 0,
+    "created": "2013-02-23T19:02:06.023Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6018593183f6a000009",
+      "511eb600c928d81348000006"
+    ]
+  },
+  {
+    "userId": "51290c7eb6107f4214000270",
+    "comment": "egg combo",
+    "_id": "512912327ec0ffc3260000c0",
+    "__v": 0,
+    "created": "2013-02-23T19:02:10.113Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000007",
+      "511eb5fe5940442a3b000008"
+    ]
+  },
+  {
+    "userId": "51290c707ec0ffc3260000ac",
+    "comment": "salty sour",
+    "_id": "5129123368972f2e58000dfb",
+    "__v": 0,
+    "created": "2013-02-23T19:02:11.515Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff30c8ce2433000009",
+      "511eb5ff30c8ce2433000008"
+    ]
+  },
+  {
+    "userId": "51290ce1fdc1988b660001c6",
+    "comment": "sprkling",
+    "_id": "5129124eb6107f421400027f",
+    "__v": 0,
+    "created": "2013-02-23T19:02:38.529Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe3eef831644000006",
+      "511eb5ff30c8ce2433000008"
+    ]
+  },
+  {
+    "userId": "51290c88af17b40a2000009b",
+    "comment": "asia",
+    "_id": "512912537ec0ffc3260000c1",
+    "__v": 0,
+    "created": "2013-02-23T19:02:43.148Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb602d39ea9446a00000b",
+      "511eb601ffdbd7f73f00000c"
+    ]
+  },
+  {
+    "userId": "51290cab4e58c55d2d000de2",
+    "comment": "aj!",
+    "_id": "51291255af17b40a200000ad",
+    "__v": 0,
+    "created": "2013-02-23T19:02:45.072Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff30c8ce243300000a",
+      "511eb5ffc928d81348000004"
+    ]
+  },
+  {
+    "userId": "51290d1b3a89dd7b21000d87",
+    "comment": "bluepearl",
+    "_id": "512912627ec0ffc3260000c2",
+    "__v": 0,
+    "created": "2013-02-23T19:02:58.172Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600d39ea9446a00000a",
+      "511eb5ffba34b2fa7e000005"
+    ]
+  },
+  {
+    "userId": "51290c88af17b40a2000009b",
+    "comment": "frech",
+    "_id": "512912667ec0ffc3260000c3",
+    "__v": 0,
+    "created": "2013-02-23T19:03:02.646Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb602d39ea9446a00000b",
+      "511eb5fcba34b2fa7e000001"
+    ]
+  },
+  {
+    "userId": "51269bae68972f2e58000d34",
+    "comment": "couldnt taste the mussel",
+    "_id": "51291268b75960ea1400009d",
+    "__v": 0,
+    "created": "2013-02-23T19:03:04.499Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd30c8ce2433000006",
+      "511eb5ffffdbd7f73f000007"
+    ]
+  },
+  {
+    "userId": "51290c7768972f2e58000de4",
+    "comment": "White combo",
+    "_id": "5129126ab6107f4214000280",
+    "__v": 0,
+    "created": "2013-02-23T19:03:06.692Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff8593183f6a000008",
+      "511eb5ff262d43f511000006"
+    ]
+  },
+  {
+    "userId": "51290dbfb6107f4214000277",
+    "comment": "good",
+    "_id": "5129126bb75960ea1400009e",
+    "__v": 0,
+    "created": "2013-02-23T19:03:07.953Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6013eef831644000009",
+      "511eb600262d43f511000007"
+    ]
+  },
+  {
+    "userId": "5128af5db75960ea1400007b",
+    "comment": "smooth",
+    "_id": "5129126e51ead1117e0000b1",
+    "__v": 0,
+    "created": "2013-02-23T19:03:10.028Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffba34b2fa7e000005",
+      "511eb5ff074c4dfe1e00000c"
+    ]
+  },
+  {
+    "userId": "51290c8ffdc1988b660001c3",
+    "comment": "southern Jutland ocean delight",
+    "_id": "5129127bb75960ea1400009f",
+    "__v": 0,
+    "created": "2013-02-23T19:03:23.394Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff30c8ce2433000008",
+      "511eb5ffffdbd7f73f000007"
+    ]
+  },
+  {
+    "userId": "51290ceab6107f4214000273",
+    "comment": "Fin",
+    "_id": "5129127e51ead1117e0000b2",
+    "__v": 0,
+    "created": "2013-02-23T19:03:26.791Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5feba34b2fa7e000004",
+      "511eb5fed39ea9446a000006"
+    ]
+  },
+  {
+    "userId": "51290d1db6107f4214000276",
+    "comment": "nice and dry",
+    "_id": "512912834e58c55d2d000df4",
+    "__v": 0,
+    "created": "2013-02-23T19:03:31.208Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffc928d81348000004",
+      "511eb5ff30c8ce2433000009"
+    ]
+  },
+  {
+    "userId": "51290c763a89dd7b21000d7f",
+    "comment": "crispy sprout",
+    "_id": "512912914e58c55d2d000df5",
+    "__v": 0,
+    "created": "2013-02-23T19:03:45.545Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd074c4dfe1e000009",
+      "511eb5fc3eef831644000003"
+    ]
+  },
+  {
+    "userId": "51290ce1fdc1988b660001c6",
+    "comment": "fantastisk ",
+    "_id": "51291296af17b40a200000ae",
+    "__v": 0,
+    "created": "2013-02-23T19:03:50.370Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd074c4dfe1e000009",
+      "511eb5fe074c4dfe1e00000a"
+    ]
+  },
+  {
+    "userId": "51290c7b4e58c55d2d000ddc",
+    "comment": "fine",
+    "_id": "512912a82223c3bd22000deb",
+    "__v": 0,
+    "created": "2013-02-23T19:04:08.929Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe8593183f6a000005",
+      "511eb5feffdbd7f73f000006"
+    ]
+  },
+  {
+    "userId": "51290cab4e58c55d2d000de2",
+    "comment": "boring",
+    "_id": "512912ac51ead1117e0000b3",
+    "__v": 0,
+    "created": "2013-02-23T19:04:12.133Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6015940442a3b00000c",
+      "511eb6013eef83164400000b"
+    ]
+  },
+  {
+    "userId": "51290cc2af17b40a2000009c",
+    "comment": "smager super godt",
+    "_id": "512912bb2223c3bd22000dec",
+    "__v": 0,
+    "created": "2013-02-23T19:04:27.084Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffc928d81348000004",
+      "511eb5ff30c8ce2433000009"
+    ]
+  },
+  {
+    "userId": "51290d02b6107f4214000275",
+    "comment": "delicate ",
+    "_id": "512912c4af17b40a200000af",
+    "__v": 0,
+    "created": "2013-02-23T19:04:36.254Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffd39ea9446a000008",
+      "511eb5fe262d43f511000005"
+    ]
+  },
+  {
+    "userId": "51290d1db6107f4214000276",
+    "comment": "all a girl needs",
+    "_id": "512912c7fdc1988b660001db",
+    "__v": 0,
+    "created": "2013-02-23T19:04:39.868Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe3eef831644000006",
+      "511eb5fe074c4dfe1e00000b"
+    ]
+  },
+  {
+    "userId": "511eba2b3eef83164400000c",
+    "comment": "like a soup",
+    "_id": "512912d94e58c55d2d000df6",
+    "__v": 0,
+    "created": "2013-02-23T19:04:57.911Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff8593183f6a000006",
+      "511eb5ff262d43f511000006"
+    ]
+  },
+  {
+    "userId": "51290c8ffdc1988b660001c3",
+    "comment": "ocean meets earth meets air",
+    "_id": "512912e851ead1117e0000b4",
+    "__v": 0,
+    "created": "2013-02-23T19:05:12.678Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe5940442a3b000009",
+      "511eb5fe5940442a3b000008"
+    ]
+  },
+  {
+    "userId": "51290ca33a89dd7b21000d84",
+    "comment": "smoked and fresh :)",
+    "_id": "512912eb68972f2e58000dfc",
+    "__v": 0,
+    "created": "2013-02-23T19:05:15.160Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff262d43f511000006",
+      "511eb5ff8593183f6a000008"
+    ]
+  },
+  {
+    "userId": "51290c707ec0ffc3260000ac",
+    "comment": "too weird!",
+    "_id": "512912ee2223c3bd22000ded",
+    "__v": 0,
+    "created": "2013-02-23T19:05:18.048Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe074c4dfe1e00000a",
+      "511eb5ff074c4dfe1e00000c"
+    ]
+  },
+  {
+    "userId": "51290ce1fdc1988b660001c6",
+    "comment": "malankoni",
+    "_id": "512912f2b75960ea140000a0",
+    "__v": 0,
+    "created": "2013-02-23T19:05:22.340Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd074c4dfe1e000008",
+      "511eb5fc074c4dfe1e000007"
+    ]
+  },
+  {
+    "userId": "51290ceab6107f4214000273",
+    "comment": "too much ginger ",
+    "_id": "512912f6b6107f4214000281",
+    "__v": 0,
+    "created": "2013-02-23T19:05:26.273Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe8593183f6a000005",
+      "511eb5ffba34b2fa7e000005"
+    ]
+  },
+  {
+    "userId": "51269bae68972f2e58000d34",
+    "comment": "flamberet pølle-dreng med ost",
+    "_id": "512912f64e58c55d2d000df7",
+    "__v": 0,
+    "created": "2013-02-23T19:05:26.283Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fec928d81348000003",
+      "511eb5ffffdbd7f73f000007"
+    ]
+  },
+  {
+    "userId": "51290c707ec0ffc3260000ac",
+    "comment": "salty nice",
+    "_id": "5129130751ead1117e0000b5",
+    "__v": 0,
+    "created": "2013-02-23T19:05:43.004Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb60230c8ce243300000f",
+      "511eb601074c4dfe1e00000f"
+    ]
+  },
+  {
+    "userId": "51290cab4e58c55d2d000de2",
+    "comment": "nordic",
+    "_id": "512913087ec0ffc3260000c4",
+    "__v": 0,
+    "created": "2013-02-23T19:05:44.081Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000007",
+      "511eb5fec928d81348000003"
+    ]
+  },
+  {
+    "userId": "51290c72af17b40a20000099",
+    "comment": "LonDon",
+    "_id": "512913117ec0ffc3260000c5",
+    "__v": 0,
+    "created": "2013-02-23T19:05:53.030Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcc928d81348000001",
+      "511eb601ffdbd7f73f00000c"
+    ]
+  },
+  {
+    "userId": "51290c763a89dd7b21000d7f",
+    "comment": "saltet ",
+    "_id": "51291311b6107f4214000282",
+    "__v": 0,
+    "created": "2013-02-23T19:05:53.752Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601074c4dfe1e00000f",
+      "511eb60230c8ce243300000f"
+    ]
+  },
+  {
+    "userId": "51290cb9b75960ea14000094",
+    "comment": "HOT",
+    "_id": "51291313b6107f4214000283",
+    "__v": 0,
+    "created": "2013-02-23T19:05:55.113Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fec928d81348000003",
+      "511eb5feffdbd7f73f000006"
+    ]
+  },
+  {
+    "userId": "51290dbfb6107f4214000277",
+    "comment": "too much!",
+    "_id": "5129131c51ead1117e0000b6",
+    "__v": 0,
+    "created": "2013-02-23T19:06:04.514Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcc928d81348000002",
+      "511eb60130c8ce243300000d"
+    ]
+  },
+  {
+    "userId": "51290d1db6107f4214000276",
+    "comment": "fat",
+    "_id": "5129131d7ec0ffc3260000c6",
+    "__v": 0,
+    "created": "2013-02-23T19:06:05.445Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff30c8ce243300000b",
+      "511eb5ff30c8ce2433000008"
+    ]
+  },
+  {
+    "userId": "51290c9a3a89dd7b21000d83",
+    "comment": "great",
+    "_id": "5129131efdc1988b660001dc",
+    "__v": 0,
+    "created": "2013-02-23T19:06:06.723Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffba34b2fa7e000005",
+      "511eb601ffdbd7f73f00000b"
+    ]
+  },
+  {
+    "userId": "51290ca33a89dd7b21000d84",
+    "comment": "hav-artiskok!",
+    "_id": "5129135268972f2e58000dfd",
+    "__v": 0,
+    "created": "2013-02-23T19:06:58.373Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff074c4dfe1e00000c",
+      "511eb602262d43f511000008"
+    ]
+  },
+  {
+    "userId": "51290ca14e58c55d2d000de1",
+    "comment": "sur sød grill",
+    "_id": "51291354af17b40a200000b0",
+    "__v": 0,
+    "created": "2013-02-23T19:07:00.082Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fec928d81348000003",
+      "511eb5fd5940442a3b000007"
+    ]
+  },
+  {
+    "userId": "51290ce1fdc1988b660001c6",
+    "comment": "wauw",
+    "_id": "5129135cb6107f4214000284",
+    "__v": 0,
+    "created": "2013-02-23T19:07:08.499Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcc928d81348000002",
+      "511eb60230c8ce243300000f"
+    ]
+  },
+  {
+    "userId": "51290c7faf17b40a2000009a",
+    "comment": "underwater liquorice",
+    "_id": "5129135e7ec0ffc3260000c7",
+    "__v": 0,
+    "created": "2013-02-23T19:07:10.927Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6015940442a3b00000b",
+      "511eb5fd30c8ce2433000005"
+    ]
+  },
+  {
+    "userId": "51290c9f2223c3bd22000dd9",
+    "comment": "oriental",
+    "_id": "5129135ffdc1988b660001dd",
+    "__v": 0,
+    "created": "2013-02-23T19:07:11.314Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6025940442a3b00000d",
+      "511eb5fcd39ea9446a000005"
+    ]
+  },
+  {
+    "userId": "51290ceab6107f4214000273",
+    "comment": "ok",
+    "_id": "5129138d7ec0ffc3260000c8",
+    "__v": 0,
+    "created": "2013-02-23T19:07:57.969Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600ffdbd7f73f000008",
+      "511eb600074c4dfe1e00000e"
+    ]
+  },
+  {
+    "userId": "51290c884e58c55d2d000de0",
+    "comment": "fresh",
+    "_id": "5129139168972f2e58000dfe",
+    "__v": 0,
+    "created": "2013-02-23T19:08:01.689Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601ffdbd7f73f00000b",
+      "511eb6013eef83164400000b"
+    ]
+  },
+  {
+    "userId": "511eba2b3eef83164400000c",
+    "comment": "rainy summer",
+    "_id": "512913964e58c55d2d000df8",
+    "__v": 0,
+    "created": "2013-02-23T19:08:06.178Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000007",
+      "511eb600ffdbd7f73f00000a"
+    ]
+  },
+  {
+    "userId": "51290c9f2223c3bd22000dd9",
+    "comment": "pale",
+    "_id": "5129139ab6107f4214000285",
+    "__v": 0,
+    "created": "2013-02-23T19:08:10.060Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe262d43f511000005",
+      "511eb5ffd39ea9446a000008"
+    ]
+  },
+  {
+    "userId": "51290c8d7ec0ffc3260000ad",
+    "comment": "stærk",
+    "_id": "512913a1b75960ea140000a1",
+    "__v": 0,
+    "created": "2013-02-23T19:08:17.749Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600ffdbd7f73f00000a",
+      "511eb600c928d81348000006"
+    ]
+  },
+  {
+    "userId": "51290d02b6107f4214000275",
+    "comment": "harmless",
+    "_id": "512913b1b6107f4214000286",
+    "__v": 0,
+    "created": "2013-02-23T19:08:33.573Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb602262d43f511000008",
+      "511eb5fd30c8ce2433000006"
+    ]
+  },
+  {
+    "userId": "51290c707ec0ffc3260000ac",
+    "comment": "not too good",
+    "_id": "512913b868972f2e58000e00",
+    "__v": 0,
+    "created": "2013-02-23T19:08:40.526Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000006",
+      "511eb5fcc928d81348000001"
+    ]
+  },
+  {
+    "userId": "51290c9f2223c3bd22000dd9",
+    "comment": "bad match",
+    "_id": "512913c87ec0ffc3260000c9",
+    "__v": 0,
+    "created": "2013-02-23T19:08:56.284Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffba34b2fa7e000005",
+      "511eb5ff262d43f511000006"
+    ]
+  },
+  {
+    "userId": "51290cb9b75960ea14000094",
+    "comment": "SWEET",
+    "_id": "512913c92223c3bd22000dee",
+    "__v": 0,
+    "created": "2013-02-23T19:08:57.443Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe3eef831644000006",
+      "511eb5fe30c8ce2433000007"
+    ]
+  },
+  {
+    "userId": "51290ca14e58c55d2d000de1",
+    "comment": "crunchy",
+    "_id": "512913c94e58c55d2d000dfa",
+    "__v": 0,
+    "created": "2013-02-23T19:08:57.529Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe262d43f511000005",
+      "511eb5ffba34b2fa7e000005"
+    ]
+  },
+  {
+    "userId": "51290cab4e58c55d2d000de2",
+    "comment": "pre-mussel",
+    "_id": "512913dab75960ea140000a3",
+    "__v": 0,
+    "created": "2013-02-23T19:09:14.784Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb60130c8ce243300000d",
+      "511eb6005940442a3b00000a"
+    ]
+  },
+  {
+    "userId": "51290c72af17b40a20000099",
+    "comment": "Camping",
+    "_id": "512913deb6107f4214000287",
+    "__v": 0,
+    "created": "2013-02-23T19:09:18.931Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff8593183f6a000008",
+      "511eb5ff262d43f511000006"
+    ]
+  },
+  {
+    "userId": "51290ce1fdc1988b660001c6",
+    "comment": "lækkert",
+    "_id": "512913e151ead1117e0000b7",
+    "__v": 0,
+    "created": "2013-02-23T19:09:21.317Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe262d43f511000005",
+      "511eb5fe3eef831644000007"
+    ]
+  },
+  {
+    "userId": "51291086af17b40a200000a3",
+    "comment": "nice",
+    "_id": "512913e4b6107f4214000288",
+    "__v": 0,
+    "created": "2013-02-23T19:09:24.718Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcc928d81348000001",
+      "511eb5fd5940442a3b000006"
+    ]
+  },
+  {
+    "userId": "51290c8d7ec0ffc3260000ad",
+    "comment": "lækker",
+    "_id": "512913ed2223c3bd22000def",
+    "__v": 0,
+    "created": "2013-02-23T19:09:33.710Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600074c4dfe1e00000d",
+      "511eb5ff074c4dfe1e00000c"
+    ]
+  },
+  {
+    "userId": "51290c8168972f2e58000de6",
+    "comment": "tempeg",
+    "_id": "512913ef68972f2e58000e01",
+    "__v": 0,
+    "created": "2013-02-23T19:09:35.132Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe262d43f511000005",
+      "511eb5feffdbd7f73f000006"
+    ]
+  },
+  {
+    "userId": "51290c8ffdc1988b660001c3",
+    "comment": "spring mobning",
+    "_id": "512913f17ec0ffc3260000ca",
+    "__v": 0,
+    "created": "2013-02-23T19:09:37.223Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffba34b2fa7e000005",
+      "511eb60030c8ce243300000c"
+    ]
+  },
+  {
+    "userId": "51290c8368972f2e58000de7",
+    "comment": "strange",
+    "_id": "512913fc3a89dd7b21000d93",
+    "__v": 0,
+    "created": "2013-02-23T19:09:48.809Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe5940442a3b000009",
+      "511eb5fe262d43f511000005"
+    ]
+  },
+  {
+    "userId": "51269bae68972f2e58000d34",
+    "comment": "spændende",
+    "_id": "51291400b6107f4214000289",
+    "__v": 0,
+    "created": "2013-02-23T19:09:52.037Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600d39ea9446a00000a",
+      "511eb5fd5940442a3b000004"
+    ]
+  },
+  {
+    "userId": "51290ceab6107f4214000273",
+    "comment": "not ok",
+    "_id": "512914027ec0ffc3260000cb",
+    "__v": 0,
+    "created": "2013-02-23T19:09:54.678Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd074c4dfe1e000008",
+      "511eb5fd3eef831644000005"
+    ]
+  },
+  {
+    "userId": "51290d1b3a89dd7b21000d87",
+    "comment": "ah no sososo",
+    "_id": "51291403b75960ea140000a4",
+    "__v": 0,
+    "created": "2013-02-23T19:09:55.046Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000006",
+      "511eb6013eef83164400000a"
+    ]
+  },
+  {
+    "userId": "51290c884e58c55d2d000de0",
+    "comment": "ok",
+    "_id": "51291406fdc1988b660001de",
+    "__v": 0,
+    "created": "2013-02-23T19:09:58.362Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600074c4dfe1e00000d",
+      "511eb600ffdbd7f73f00000a"
+    ]
+  },
+  {
+    "userId": "51290c8368972f2e58000de7",
+    "comment": "very good",
+    "_id": "5129140f4e58c55d2d000dfb",
+    "__v": 0,
+    "created": "2013-02-23T19:10:07.507Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff8593183f6a000008",
+      "511eb600ffdbd7f73f00000a"
+    ]
+  },
+  {
+    "userId": "51290dbfb6107f4214000277",
+    "comment": "tasty",
+    "_id": "51291416b6107f421400028a",
+    "__v": 0,
+    "created": "2013-02-23T19:10:14.368Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000005",
+      "511eb6025940442a3b00000d"
+    ]
+  },
+  {
+    "userId": "51290c884e58c55d2d000de0",
+    "comment": "fresh and harmonic",
+    "_id": "512914297ec0ffc3260000cc",
+    "__v": 0,
+    "created": "2013-02-23T19:10:33.077Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601ffdbd7f73f00000b",
+      "511eb600c928d81348000006"
+    ]
+  },
+  {
+    "userId": "51290e93b6107f4214000278",
+    "comment": "new",
+    "_id": "5129142a7ec0ffc3260000cd",
+    "__v": 0,
+    "created": "2013-02-23T19:10:34.119Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6015940442a3b00000b",
+      "511eb5ff30c8ce2433000008"
+    ]
+  },
+  {
+    "userId": "51269bae68972f2e58000d34",
+    "comment": "buckthorn is not my favorite",
+    "_id": "5129143e3a89dd7b21000d94",
+    "__v": 0,
+    "created": "2013-02-23T19:10:54.050Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000007",
+      "511eb5fec928d81348000003"
+    ]
+  },
+  {
+    "userId": "51290ca33a89dd7b21000d84",
+    "comment": "FREsh and strong!",
+    "_id": "5129143eb75960ea140000a5",
+    "__v": 0,
+    "created": "2013-02-23T19:10:54.739Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601074c4dfe1e000010",
+      "511eb6013eef83164400000a"
+    ]
+  },
+  {
+    "userId": "51290c88af17b40a2000009b",
+    "comment": "crispy",
+    "_id": "512914417ec0ffc3260000ce",
+    "__v": 0,
+    "created": "2013-02-23T19:10:57.704Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe5940442a3b000009",
+      "511eb5ff30c8ce2433000008"
+    ]
+  },
+  {
+    "userId": "51290cab4e58c55d2d000de2",
+    "comment": "no kiss tonight",
+    "_id": "512914447ec0ffc3260000cf",
+    "__v": 0,
+    "created": "2013-02-23T19:11:00.462Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff8593183f6a000007",
+      "511eb5ffffdbd7f73f000007"
+    ]
+  },
+  {
+    "userId": "511eba2b3eef83164400000c",
+    "comment": "combinação da flora",
+    "_id": "5129145351ead1117e0000b8",
+    "__v": 0,
+    "created": "2013-02-23T19:11:15.181Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600d39ea9446a00000a",
+      "511eb5fd5940442a3b000004"
+    ]
+  },
+  {
+    "userId": "51290d1db6107f4214000276",
+    "comment": "bacon ",
+    "_id": "51291456af17b40a200000b1",
+    "__v": 0,
+    "created": "2013-02-23T19:11:18.882Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600ffdbd7f73f000009",
+      "511eb5ffffdbd7f73f000007"
+    ]
+  },
+  {
+    "userId": "51290ceab6107f4214000273",
+    "comment": "fint",
+    "_id": "512914633a89dd7b21000d95",
+    "__v": 0,
+    "created": "2013-02-23T19:11:31.971Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000007",
+      "511eb5fec928d81348000003"
+    ]
+  },
+  {
+    "userId": "51290c973a89dd7b21000d82",
+    "comment": "fantasy",
+    "_id": "51291466af17b40a200000b2",
+    "__v": 0,
+    "created": "2013-02-23T19:11:34.927Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600c928d81348000006",
+      "511eb5ff8593183f6a000008"
+    ]
+  },
+  {
+    "userId": "51290c7faf17b40a2000009a",
+    "comment": "mussel raclete",
+    "_id": "512914667ec0ffc3260000d0",
+    "__v": 0,
+    "created": "2013-02-23T19:11:34.948Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fec928d81348000003",
+      "511eb5fed39ea9446a000007"
+    ]
+  },
+  {
+    "userId": "51290c72af17b40a20000099",
+    "comment": "Garden",
+    "_id": "512914697ec0ffc3260000d1",
+    "__v": 0,
+    "created": "2013-02-23T19:11:37.698Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6018593183f6a000009",
+      "511eb5fcd39ea9446a000005"
+    ]
+  },
+  {
+    "userId": "51290c862223c3bd22000dd8",
+    "comment": " ",
+    "_id": "5129146efdc1988b660001df",
+    "__v": 0,
+    "created": "2013-02-23T19:11:42.387Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcc928d81348000002",
+      "511eb60230c8ce243300000f"
+    ]
+  },
+  {
+    "userId": "51290cab4e58c55d2d000de2",
+    "comment": "a true dane",
+    "_id": "51291472af17b40a200000b3",
+    "__v": 0,
+    "created": "2013-02-23T19:11:46.558Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe262d43f511000005",
+      "511eb5fe5940442a3b000009"
+    ]
+  },
+  {
+    "userId": "51290ce1fdc1988b660001c6",
+    "comment": "spring ",
+    "_id": "51291474af17b40a200000b4",
+    "__v": 0,
+    "created": "2013-02-23T19:11:48.295Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fec928d81348000003",
+      "511eb5fd5940442a3b000007"
+    ]
+  },
+  {
+    "userId": "51290ca14e58c55d2d000de1",
+    "comment": "grill",
+    "_id": "5129147c4e58c55d2d000dfc",
+    "__v": 0,
+    "created": "2013-02-23T19:11:56.700Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd074c4dfe1e000009",
+      "511eb5fd5940442a3b000006"
+    ]
+  },
+  {
+    "userId": "51290c9a3a89dd7b21000d83",
+    "comment": "ok",
+    "_id": "5129147db75960ea140000a6",
+    "__v": 0,
+    "created": "2013-02-23T19:11:57.395Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600ffdbd7f73f000009",
+      "511eb5ff30c8ce2433000008"
+    ]
+  },
+  {
+    "userId": "51290c8168972f2e58000de6",
+    "comment": "net",
+    "_id": "512914873a89dd7b21000d96",
+    "__v": 0,
+    "created": "2013-02-23T19:12:07.972Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fc074c4dfe1e000007",
+      "511eb5fc3eef831644000003"
+    ]
+  },
+  {
+    "userId": "51290c707ec0ffc3260000ac",
+    "comment": "perfection",
+    "_id": "5129148dfdc1988b660001e0",
+    "__v": 0,
+    "created": "2013-02-23T19:12:13.681Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcba34b2fa7e000002",
+      "511eb5fc30c8ce2433000004"
+    ]
+  },
+  {
+    "userId": "51290ceeb6107f4214000274",
+    "comment": "mmm",
+    "_id": "512914913a89dd7b21000d97",
+    "__v": 0,
+    "created": "2013-02-23T19:12:17.182Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe5940442a3b000008",
+      "511eb5fd30c8ce2433000006"
+    ]
+  },
+  {
+    "userId": "51290cb9b75960ea14000094",
+    "comment": "SØD",
+    "_id": "5129149668972f2e58000e03",
+    "__v": 0,
+    "created": "2013-02-23T19:12:22.032Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe074c4dfe1e00000b",
+      "511eb5fe3eef831644000006"
+    ]
+  },
+  {
+    "userId": "51290c8d7ec0ffc3260000ad",
+    "comment": "cremet",
+    "_id": "5129149daf17b40a200000b5",
+    "__v": 0,
+    "created": "2013-02-23T19:12:29.389Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe262d43f511000005",
+      "511eb5feffdbd7f73f000006"
+    ]
+  },
+  {
+    "userId": "51290ceab6107f4214000273",
+    "comment": "ok",
+    "_id": "512914a84e58c55d2d000dfd",
+    "__v": 0,
+    "created": "2013-02-23T19:12:40.673Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000004",
+      "511eb602262d43f511000008"
+    ]
+  },
+  {
+    "userId": "51290c884e58c55d2d000de0",
+    "comment": "ok",
+    "_id": "512914adfdc1988b660001e1",
+    "__v": 0,
+    "created": "2013-02-23T19:12:45.604Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fec928d81348000003",
+      "511eb5fe30c8ce2433000007"
+    ]
+  },
+  {
+    "userId": "51290e93b6107f4214000278",
+    "comment": "ecsotic",
+    "_id": "512914b0fdc1988b660001e2",
+    "__v": 0,
+    "created": "2013-02-23T19:12:48.907Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fc5940442a3b000003",
+      "511eb600ffdbd7f73f000008"
+    ]
+  },
+  {
+    "userId": "51290d1b3a89dd7b21000d87",
+    "comment": "mumsbai",
+    "_id": "512914bcb6107f421400028b",
+    "__v": 0,
+    "created": "2013-02-23T19:13:00.787Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fdba34b2fa7e000003",
+      "511eb600ffdbd7f73f000008"
+    ]
+  },
+  {
+    "userId": "51290ca14e58c55d2d000de1",
+    "comment": "grill sea",
+    "_id": "512914c17ec0ffc3260000d2",
+    "__v": 0,
+    "created": "2013-02-23T19:13:05.699Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000006",
+      "511eb5fd074c4dfe1e000008"
+    ]
+  },
+  {
+    "userId": "51290d02b6107f4214000275",
+    "comment": "hot mmmm!",
+    "_id": "512914c33a89dd7b21000d98",
+    "__v": 0,
+    "created": "2013-02-23T19:13:07.699Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffd39ea9446a000009",
+      "511eb5ff262d43f511000006"
+    ]
+  },
+  {
+    "userId": "51290cfc68972f2e58000deb",
+    "comment": "decent",
+    "_id": "512914c44e58c55d2d000dfe",
+    "__v": 0,
+    "created": "2013-02-23T19:13:08.548Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffc928d81348000004",
+      "511eb5fd074c4dfe1e000008"
+    ]
+  },
+  {
+    "userId": "51290c88af17b40a2000009b",
+    "comment": "so sweet",
+    "_id": "512914c77ec0ffc3260000d3",
+    "__v": 0,
+    "created": "2013-02-23T19:13:11.042Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff30c8ce2433000009",
+      "511eb5fd074c4dfe1e000009"
+    ]
+  },
+  {
+    "userId": "51290c7c68972f2e58000de5",
+    "comment": "bob",
+    "_id": "512914ce7ec0ffc3260000d4",
+    "__v": 0,
+    "created": "2013-02-23T19:13:18.211Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffffdbd7f73f000007",
+      "511eb5fe262d43f511000005"
+    ]
+  },
+  {
+    "userId": "51290c8ffdc1988b660001c3",
+    "comment": "applejuice",
+    "_id": "512914cffdc1988b660001e3",
+    "__v": 0,
+    "created": "2013-02-23T19:13:19.528Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcc928d81348000001",
+      "511eb5ffba34b2fa7e000005"
+    ]
+  },
+  {
+    "userId": "51290e93b6107f4214000278",
+    "comment": "green",
+    "_id": "512914e0b75960ea140000a7",
+    "__v": 0,
+    "created": "2013-02-23T19:13:36.935Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601074c4dfe1e000010",
+      "511eb6013eef83164400000b"
+    ]
+  },
+  {
+    "userId": "51290c7c68972f2e58000de5",
+    "comment": "bob",
+    "_id": "512914f0af17b40a200000b6",
+    "__v": 0,
+    "created": "2013-02-23T19:13:52.355Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe5940442a3b000009",
+      "511eb5ffffdbd7f73f000007"
+    ]
+  },
+  {
+    "userId": "51290c707ec0ffc3260000ac",
+    "comment": "spicy",
+    "_id": "512914f2af17b40a200000b7",
+    "__v": 0,
+    "created": "2013-02-23T19:13:54.424Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcd39ea9446a000004",
+      "511eb5fd262d43f511000004"
+    ]
+  },
+  {
+    "userId": "51290c884e58c55d2d000de0",
+    "comment": "ok",
+    "_id": "512914fdb75960ea140000a8",
+    "__v": 0,
+    "created": "2013-02-23T19:14:05.492Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000005",
+      "511eb6018593183f6a000009"
+    ]
+  },
+  {
+    "userId": "511eba2b3eef83164400000c",
+    "comment": "crispylicious",
+    "_id": "5129150e7ec0ffc3260000d5",
+    "__v": 0,
+    "created": "2013-02-23T19:14:22.609Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff30c8ce2433000008",
+      "511eb600ffdbd7f73f000009"
+    ]
+  },
+  {
+    "userId": "51290c72af17b40a20000099",
+    "comment": "Xx",
+    "_id": "51291515b75960ea140000a9",
+    "__v": 0,
+    "created": "2013-02-23T19:14:29.185Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000007",
+      "511eb6018593183f6a000009"
+    ]
+  },
+  {
+    "userId": "51290e93b6107f4214000278",
+    "comment": "red",
+    "_id": "51291529fdc1988b660001e4",
+    "__v": 0,
+    "created": "2013-02-23T19:14:49.635Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd262d43f511000004",
+      "511eb5fcc928d81348000001"
+    ]
+  },
+  {
+    "userId": "51290cfc68972f2e58000deb",
+    "comment": "too applely",
+    "_id": "5129152f7ec0ffc3260000d6",
+    "__v": 0,
+    "created": "2013-02-23T19:14:55.329Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601074c4dfe1e000010",
+      "511eb6013eef83164400000b"
+    ]
+  },
+  {
+    "userId": "51290c8d7ec0ffc3260000ad",
+    "comment": "for meget bacon",
+    "_id": "512915323a89dd7b21000d99",
+    "__v": 0,
+    "created": "2013-02-23T19:14:58.604Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000006",
+      "511eb5fc3eef831644000003"
+    ]
+  },
+  {
+    "userId": "51269bae68972f2e58000d34",
+    "comment": "ok",
+    "_id": "5129154bb6107f421400028c",
+    "__v": 0,
+    "created": "2013-02-23T19:15:23.597Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600ffdbd7f73f000009",
+      "511eb5ff8593183f6a000007"
+    ]
+  },
+  {
+    "userId": "51290ca14e58c55d2d000de1",
+    "comment": "strong, gut",
+    "_id": "51291560fdc1988b660001e5",
+    "__v": 0,
+    "created": "2013-02-23T19:15:44.389Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd262d43f511000004",
+      "511eb5fcc928d81348000001"
+    ]
+  },
+  {
+    "userId": "51290d1b3a89dd7b21000d87",
+    "comment": "camarque",
+    "_id": "51291569b75960ea140000aa",
+    "__v": 0,
+    "created": "2013-02-23T19:15:53.421Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffc928d81348000004",
+      "511eb5ff30c8ce2433000009"
+    ]
+  },
+  {
+    "userId": "51290e93b6107f4214000278",
+    "comment": "sharp",
+    "_id": "512915704e58c55d2d000dff",
+    "__v": 0,
+    "created": "2013-02-23T19:16:00.464Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fed39ea9446a000006",
+      "511eb600262d43f511000007"
+    ]
+  },
+  {
+    "userId": "51290cab4e58c55d2d000de2",
+    "comment": "great for the cold!",
+    "_id": "512915962223c3bd22000df0",
+    "__v": 0,
+    "created": "2013-02-23T19:16:38.889Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601074c4dfe1e000010",
+      "511eb6013eef83164400000a"
+    ]
+  },
+  {
+    "userId": "51290c763a89dd7b21000d7f",
+    "comment": "pb",
+    "_id": "512915984e58c55d2d000e00",
+    "__v": 0,
+    "created": "2013-02-23T19:16:40.981Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000006",
+      "511eb5fed39ea9446a000006"
+    ]
+  },
+  {
+    "userId": "51290d1db6107f4214000276",
+    "comment": "fab",
+    "_id": "512915a768972f2e58000e04",
+    "__v": 0,
+    "created": "2013-02-23T19:16:55.458Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb60230c8ce243300000e",
+      "511eb5fc5940442a3b000003"
+    ]
+  },
+  {
+    "userId": "51290c8d7ec0ffc3260000ad",
+    "comment": "frisk",
+    "_id": "512915b3fdc1988b660001e6",
+    "__v": 0,
+    "created": "2013-02-23T19:17:07.612Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6015940442a3b00000c",
+      "511eb601074c4dfe1e000010"
+    ]
+  },
+  {
+    "userId": "51290c9a3a89dd7b21000d83",
+    "comment": "super",
+    "_id": "512915c07ec0ffc3260000d7",
+    "__v": 0,
+    "created": "2013-02-23T19:17:20.817Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff8593183f6a000008",
+      "511eb5fc3eef831644000003"
+    ]
+  },
+  {
+    "userId": "511eba2b3eef83164400000c",
+    "comment": "so fresh and so clean",
+    "_id": "512915c72223c3bd22000df1",
+    "__v": 0,
+    "created": "2013-02-23T19:17:27.425Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601074c4dfe1e00000f",
+      "511eb5fc074c4dfe1e000007"
+    ]
+  },
+  {
+    "userId": "51290c72af17b40a20000099",
+    "comment": "NOt THe best",
+    "_id": "512915c968972f2e58000e05",
+    "__v": 0,
+    "created": "2013-02-23T19:17:29.742Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601074c4dfe1e000010",
+      "511eb5fc074c4dfe1e000007"
+    ]
+  },
+  {
+    "userId": "51290c93b6107f4214000271",
+    "comment": "wow",
+    "_id": "512915d951ead1117e0000b9",
+    "__v": 0,
+    "created": "2013-02-23T19:17:45.759Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fec928d81348000003",
+      "511eb5fd5940442a3b000007"
+    ]
+  },
+  {
+    "userId": "51290d02b6107f4214000275",
+    "comment": "nice surprice",
+    "_id": "512915de51ead1117e0000ba",
+    "__v": 0,
+    "created": "2013-02-23T19:17:50.227Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe5940442a3b000009",
+      "511eb5fe30c8ce2433000007"
+    ]
+  },
+  {
+    "userId": "51290c7c4e58c55d2d000ddd",
+    "comment": "seagrass",
+    "_id": "512915e44e58c55d2d000e01",
+    "__v": 0,
+    "created": "2013-02-23T19:17:56.556Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000005",
+      "511eb5fd30c8ce2433000005"
+    ]
+  },
+  {
+    "userId": "51290ce1fdc1988b660001c6",
+    "comment": "nice",
+    "_id": "512915eaaf17b40a200000b8",
+    "__v": 0,
+    "created": "2013-02-23T19:18:02.940Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6013eef83164400000b",
+      "511eb601074c4dfe1e00000f"
+    ]
+  },
+  {
+    "userId": "51290cfc68972f2e58000deb",
+    "comment": "seeish",
+    "_id": "5129160551ead1117e0000bb",
+    "__v": 0,
+    "created": "2013-02-23T19:18:29.724Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd30c8ce2433000005",
+      "511eb601074c4dfe1e00000f"
+    ]
+  },
+  {
+    "userId": "51290c88af17b40a2000009b",
+    "comment": "nice",
+    "_id": "5129160851ead1117e0000bc",
+    "__v": 0,
+    "created": "2013-02-23T19:18:32.514Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff30c8ce243300000b",
+      "511eb5ff30c8ce2433000009"
+    ]
+  },
+  {
+    "userId": "51290c8d7ec0ffc3260000ad",
+    "comment": "mmm",
+    "_id": "5129161a68972f2e58000e06",
+    "__v": 0,
+    "created": "2013-02-23T19:18:50.302Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601ffdbd7f73f00000b",
+      "511eb600ffdbd7f73f00000a"
+    ]
+  },
+  {
+    "userId": "51290c884e58c55d2d000de0",
+    "comment": "fresh",
+    "_id": "5129161a4e58c55d2d000e02",
+    "__v": 0,
+    "created": "2013-02-23T19:18:50.746Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601074c4dfe1e00000f",
+      "511eb6015940442a3b00000c"
+    ]
+  },
+  {
+    "userId": "51290c9f2223c3bd22000dd9",
+    "comment": "surpricingly good",
+    "_id": "5129161b7ec0ffc3260000d8",
+    "__v": 0,
+    "created": "2013-02-23T19:18:51.009Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe5940442a3b000009",
+      "511eb5fd5940442a3b000007"
+    ]
+  },
+  {
+    "userId": "51290c88af17b40a2000009b",
+    "comment": "røget",
+    "_id": "5129162a4e58c55d2d000e03",
+    "__v": 0,
+    "created": "2013-02-23T19:19:06.591Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff8593183f6a000008",
+      "511eb5ff262d43f511000006"
+    ]
+  },
+  {
+    "userId": "51290c9a3a89dd7b21000d83",
+    "comment": "lovely",
+    "_id": "51291631af17b40a200000b9",
+    "__v": 0,
+    "created": "2013-02-23T19:19:13.028Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6005940442a3b00000a",
+      "511eb5ff8593183f6a000008"
+    ]
+  },
+  {
+    "userId": "51269bae68972f2e58000d34",
+    "comment": "oplagt",
+    "_id": "512916393a89dd7b21000d9a",
+    "__v": 0,
+    "created": "2013-02-23T19:19:21.673Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff8593183f6a000008",
+      "511eb5fe074c4dfe1e00000b"
+    ]
+  },
+  {
+    "userId": "51290cab4e58c55d2d000de2",
+    "comment": "still no kissing",
+    "_id": "5129163eaf17b40a200000ba",
+    "__v": 0,
+    "created": "2013-02-23T19:19:26.290Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600262d43f511000007",
+      "511eb600074c4dfe1e00000d"
+    ]
+  },
+  {
+    "userId": "51290c88af17b40a2000009b",
+    "comment": "smoked",
+    "_id": "5129163e68972f2e58000e07",
+    "__v": 0,
+    "created": "2013-02-23T19:19:26.728Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff8593183f6a000008",
+      "511eb5ff262d43f511000006"
+    ]
+  },
+  {
+    "userId": "51290c884e58c55d2d000de0",
+    "comment": "fedtet",
+    "_id": "5129164d68972f2e58000e08",
+    "__v": 0,
+    "created": "2013-02-23T19:19:41.202Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600c928d81348000006",
+      "511eb5ff074c4dfe1e00000c"
+    ]
+  },
+  {
+    "userId": "51290cb9b75960ea14000094",
+    "comment": "ØV",
+    "_id": "5129164daf17b40a200000bb",
+    "__v": 0,
+    "created": "2013-02-23T19:19:41.344Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd3eef831644000005",
+      "511eb5fc074c4dfe1e000007"
+    ]
+  },
+  {
+    "userId": "51290c7c4e58c55d2d000ddd",
+    "comment": "scalot",
+    "_id": "5129164db6107f421400028d",
+    "__v": 0,
+    "created": "2013-02-23T19:19:41.501Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd074c4dfe1e000009",
+      "511eb5fd5940442a3b000005"
+    ]
+  },
+  {
+    "userId": "51290ce1fdc1988b660001c6",
+    "comment": "lovely",
+    "_id": "5129165a68972f2e58000e09",
+    "__v": 0,
+    "created": "2013-02-23T19:19:54.276Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600ffdbd7f73f00000a",
+      "511eb601ffdbd7f73f00000b"
+    ]
+  },
+  {
+    "userId": "51290c72af17b40a20000099",
+    "comment": "Orange",
+    "_id": "5129165c51ead1117e0000bd",
+    "__v": 0,
+    "created": "2013-02-23T19:19:56.259Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000006",
+      "511eb5fd074c4dfe1e000009"
+    ]
+  },
+  {
+    "userId": "51290c707ec0ffc3260000ac",
+    "comment": "fad",
+    "_id": "5129165cfdc1988b660001e7",
+    "__v": 0,
+    "created": "2013-02-23T19:19:56.478Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd3eef831644000005",
+      "511eb6013eef83164400000b"
+    ]
+  },
+  {
+    "userId": "511eba2b3eef83164400000c",
+    "comment": "spicy coconut",
+    "_id": "512916612223c3bd22000df2",
+    "__v": 0,
+    "created": "2013-02-23T19:20:01.249Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcba34b2fa7e000001",
+      "511eb5fd262d43f511000004"
+    ]
+  },
+  {
+    "userId": "51290c707ec0ffc3260000ac",
+    "comment": "nice",
+    "_id": "5129166651ead1117e0000be",
+    "__v": 0,
+    "created": "2013-02-23T19:20:06.211Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fed39ea9446a000007",
+      "511eb5feffdbd7f73f000006"
+    ]
+  },
+  {
+    "userId": "51290c707ec0ffc3260000ac",
+    "comment": "sharp",
+    "_id": "51291675b75960ea140000ab",
+    "__v": 0,
+    "created": "2013-02-23T19:20:21.955Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffd39ea9446a000008",
+      "511eb5fe3eef831644000007"
+    ]
+  },
+  {
+    "userId": "51290c93b6107f4214000271",
+    "comment": "fantastic",
+    "_id": "5129167a3a89dd7b21000d9b",
+    "__v": 0,
+    "created": "2013-02-23T19:20:26.980Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff074c4dfe1e00000c",
+      "511eb5ff262d43f511000006"
+    ]
+  },
+  {
+    "userId": "51290d1b3a89dd7b21000d87",
+    "comment": "coast of assens",
+    "_id": "51291681b75960ea140000ac",
+    "__v": 0,
+    "created": "2013-02-23T19:20:33.901Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe074c4dfe1e00000a",
+      "511eb5ff8593183f6a000008"
+    ]
+  },
+  {
+    "userId": "51290c7faf17b40a2000009a",
+    "comment": "dessert anyone?",
+    "_id": "51291683b6107f421400028e",
+    "__v": 0,
+    "created": "2013-02-23T19:20:35.544Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffc928d81348000004",
+      "511eb5ff30c8ce2433000009"
+    ]
+  },
+  {
+    "userId": "51290d02b6107f4214000275",
+    "comment": "pleasant saulty",
+    "_id": "512916847ec0ffc3260000d9",
+    "__v": 0,
+    "created": "2013-02-23T19:20:36.484Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe074c4dfe1e00000b",
+      "511eb5ffd39ea9446a000008"
+    ]
+  },
+  {
+    "userId": "51290c763a89dd7b21000d7f",
+    "comment": "sweet sea",
+    "_id": "5129169c7ec0ffc3260000da",
+    "__v": 0,
+    "created": "2013-02-23T19:21:00.378Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd3eef831644000005",
+      "511eb5fd30c8ce2433000005"
+    ]
+  },
+  {
+    "userId": "51290c7c4e58c55d2d000ddd",
+    "comment": "aggh",
+    "_id": "512916bbb75960ea140000ad",
+    "__v": 0,
+    "created": "2013-02-23T19:21:31.937Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd074c4dfe1e000009",
+      "511eb5fed39ea9446a000007"
+    ]
+  },
+  {
+    "userId": "51290cab4e58c55d2d000de2",
+    "comment": "alternative sushi",
+    "_id": "512916bc4e58c55d2d000e04",
+    "__v": 0,
+    "created": "2013-02-23T19:21:32.929Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5feba34b2fa7e000004",
+      "511eb5fd5940442a3b000006"
+    ]
+  },
+  {
+    "userId": "51290c763a89dd7b21000d7f",
+    "comment": "kartoffelmad",
+    "_id": "512916c3af17b40a200000bc",
+    "__v": 0,
+    "created": "2013-02-23T19:21:39.144Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fed39ea9446a000007",
+      "511eb601ffdbd7f73f00000b"
+    ]
+  },
+  {
+    "userId": "51290ce1fdc1988b660001c6",
+    "comment": "mmm",
+    "_id": "512916c43a89dd7b21000d9c",
+    "__v": 0,
+    "created": "2013-02-23T19:21:40.278Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601ffdbd7f73f00000b",
+      "511eb5fc3eef831644000003"
+    ]
+  },
+  {
+    "userId": "51290c9a3a89dd7b21000d83",
+    "comment": "Not bad",
+    "_id": "512916c7b75960ea140000ae",
+    "__v": 0,
+    "created": "2013-02-23T19:21:43.903Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000007",
+      "511eb5fed39ea9446a000007"
+    ]
+  },
+  {
+    "userId": "51290c707ec0ffc3260000ac",
+    "comment": "crunchy and rich",
+    "_id": "512916e2b75960ea140000af",
+    "__v": 0,
+    "created": "2013-02-23T19:22:10.465Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff074c4dfe1e00000c",
+      "511eb5fe262d43f511000005"
+    ]
+  },
+  {
+    "userId": "511eba2b3eef83164400000c",
+    "comment": "who put fish in my veggie soup?",
+    "_id": "512916e43a89dd7b21000d9d",
+    "__v": 0,
+    "created": "2013-02-23T19:22:12.021Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fc3eef831644000003",
+      "511eb5fd074c4dfe1e000008"
+    ]
+  },
+  {
+    "userId": "51290ca14e58c55d2d000de1",
+    "comment": "dark sweet",
+    "_id": "512916eeb6107f421400028f",
+    "__v": 0,
+    "created": "2013-02-23T19:22:22.926Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb60030c8ce243300000c",
+      "511eb6015940442a3b00000b"
+    ]
+  },
+  {
+    "userId": "51290c8168972f2e58000de6",
+    "comment": "dk",
+    "_id": "512916f3b6107f4214000290",
+    "__v": 0,
+    "created": "2013-02-23T19:22:27.097Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600c928d81348000006",
+      "511eb5fc3eef831644000003"
+    ]
+  },
+  {
+    "userId": "51290c8ffdc1988b660001c3",
+    "comment": "buckthorn fights Egg and mussel!",
+    "_id": "512916fdaf17b40a200000bd",
+    "__v": 0,
+    "created": "2013-02-23T19:22:37.458Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000007",
+      "511eb5fe5940442a3b000008"
+    ]
+  },
+  {
+    "userId": "51290d1db6107f4214000276",
+    "comment": "bliss",
+    "_id": "512917024e58c55d2d000e05",
+    "__v": 0,
+    "created": "2013-02-23T19:22:42.656Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600074c4dfe1e00000d",
+      "511eb6013eef831644000009"
+    ]
+  },
+  {
+    "userId": "51290ce1fdc1988b660001c6",
+    "comment": "lækkert",
+    "_id": "51291712b75960ea140000b0",
+    "__v": 0,
+    "created": "2013-02-23T19:22:58.827Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600c928d81348000006",
+      "511eb5ff074c4dfe1e00000c"
+    ]
+  },
+  {
+    "userId": "512906867ec0ffc3260000ab",
+    "comment": "can't be better",
+    "_id": "5129171f7ec0ffc3260000db",
+    "__v": 0,
+    "created": "2013-02-23T19:23:11.603Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb60230c8ce243300000f",
+      "511eb602262d43f511000008"
+    ]
+  },
+  {
+    "userId": "51290c763a89dd7b21000d7f",
+    "comment": "soy Earth sweet",
+    "_id": "51291732b75960ea140000b1",
+    "__v": 0,
+    "created": "2013-02-23T19:23:30.766Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe262d43f511000005",
+      "511eb5ff262d43f511000006"
+    ]
+  },
+  {
+    "userId": "51290cb9b75960ea14000094",
+    "comment": "HARD",
+    "_id": "5129173a4e58c55d2d000e06",
+    "__v": 0,
+    "created": "2013-02-23T19:23:38.128Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcc928d81348000002",
+      "511eb5fc3eef831644000003"
+    ]
+  },
+  {
+    "userId": "51290c9a3a89dd7b21000d83",
+    "comment": "great",
+    "_id": "51291741af17b40a200000be",
+    "__v": 0,
+    "created": "2013-02-23T19:23:45.877Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601ffdbd7f73f00000b",
+      "511eb5fe262d43f511000005"
+    ]
+  },
+  {
+    "userId": "511eba2b3eef83164400000c",
+    "comment": "can I repeat that one?",
+    "_id": "512917632223c3bd22000df3",
+    "__v": 0,
+    "created": "2013-02-23T19:24:19.114Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcd39ea9446a000004",
+      "511eb5fcba34b2fa7e000002"
+    ]
+  },
+  {
+    "userId": "51290cfc68972f2e58000deb",
+    "comment": "naise",
+    "_id": "51291764af17b40a200000bf",
+    "__v": 0,
+    "created": "2013-02-23T19:24:20.475Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd30c8ce2433000005",
+      "511eb5fec928d81348000003"
+    ]
+  },
+  {
+    "userId": "51290c7c4e58c55d2d000ddd",
+    "comment": "uhmmm",
+    "_id": "51291771fdc1988b660001e8",
+    "__v": 0,
+    "created": "2013-02-23T19:24:33.694Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd30c8ce2433000005",
+      "511eb5fd074c4dfe1e000009"
+    ]
+  },
+  {
+    "userId": "51290cab4e58c55d2d000de2",
+    "comment": "...",
+    "_id": "5129177151ead1117e0000bf",
+    "__v": 0,
+    "created": "2013-02-23T19:24:33.775Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601ffdbd7f73f00000b",
+      "511eb600ffdbd7f73f00000a"
+    ]
+  },
+  {
+    "userId": "51290c833a89dd7b21000d81",
+    "comment": "silly",
+    "_id": "5129177d7ec0ffc3260000dc",
+    "__v": 0,
+    "created": "2013-02-23T19:24:45.012Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe262d43f511000005",
+      "511eb5fd5940442a3b000006"
+    ]
+  },
+  {
+    "userId": "51269bae68972f2e58000d34",
+    "comment": "huum...pickle gel!!!",
+    "_id": "5129177e3a89dd7b21000d9e",
+    "__v": 0,
+    "created": "2013-02-23T19:24:46.059Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600ffdbd7f73f00000a",
+      "511eb5ff8593183f6a000006"
+    ]
+  },
+  {
+    "userId": "51290c72af17b40a20000099",
+    "comment": "Crispy",
+    "_id": "512917997ec0ffc3260000dd",
+    "__v": 0,
+    "created": "2013-02-23T19:25:13.878Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe262d43f511000005",
+      "511eb5fe3eef831644000007"
+    ]
+  },
+  {
+    "userId": "51290ce1fdc1988b660001c6",
+    "comment": "mmmm",
+    "_id": "512917a3fdc1988b660001e9",
+    "__v": 0,
+    "created": "2013-02-23T19:25:23.414Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffba34b2fa7e000005",
+      "511eb600074c4dfe1e00000d"
+    ]
+  },
+  {
+    "userId": "51290cfc68972f2e58000deb",
+    "comment": "avg",
+    "_id": "512917b47ec0ffc3260000de",
+    "__v": 0,
+    "created": "2013-02-23T19:25:40.239Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe5940442a3b000009",
+      "511eb5fec928d81348000003"
+    ]
+  },
+  {
+    "userId": "51290c8168972f2e58000de6",
+    "comment": "nick",
+    "_id": "512917beb75960ea140000b2",
+    "__v": 0,
+    "created": "2013-02-23T19:25:50.191Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600074c4dfe1e00000d",
+      "511eb5ffba34b2fa7e000005"
+    ]
+  },
+  {
+    "userId": "5128af5db75960ea1400007b",
+    "comment": "skøn med kant",
+    "_id": "512917c92223c3bd22000df4",
+    "__v": 0,
+    "created": "2013-02-23T19:26:01.552Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb60230c8ce243300000f",
+      "511eb602262d43f511000008"
+    ]
+  },
+  {
+    "userId": "51290c8ffdc1988b660001c3",
+    "comment": "okay... - bit Common taste",
+    "_id": "512917d24e58c55d2d000e07",
+    "__v": 0,
+    "created": "2013-02-23T19:26:10.199Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe30c8ce2433000007",
+      "511eb5fec928d81348000003"
+    ]
+  },
+  {
+    "userId": "51290ca14e58c55d2d000de1",
+    "comment": "vildt god",
+    "_id": "512917d3b75960ea140000b3",
+    "__v": 0,
+    "created": "2013-02-23T19:26:11.980Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6018593183f6a000009",
+      "511eb5ff8593183f6a000008"
+    ]
+  },
+  {
+    "userId": "51290c8368972f2e58000de7",
+    "comment": "bobbly :-)",
+    "_id": "512917d6fdc1988b660001ea",
+    "__v": 0,
+    "created": "2013-02-23T19:26:14.019Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe3eef831644000006",
+      "511eb5ff074c4dfe1e00000c"
+    ]
+  },
+  {
+    "userId": "511eba2b3eef83164400000c",
+    "comment": "yuck!",
+    "_id": "512917dd3a89dd7b21000d9f",
+    "__v": 0,
+    "created": "2013-02-23T19:26:21.213Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe3eef831644000007",
+      "511eb5fd5940442a3b000005"
+    ]
+  },
+  {
+    "userId": "51290c763a89dd7b21000d7f",
+    "comment": "Mother Russia",
+    "_id": "512917e17ec0ffc3260000df",
+    "__v": 0,
+    "created": "2013-02-23T19:26:25.086Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffd39ea9446a000008",
+      "511eb600074c4dfe1e00000d"
+    ]
+  },
+  {
+    "userId": "51290cb9b75960ea14000094",
+    "comment": "NEJ TAK",
+    "_id": "512917e2b75960ea140000b4",
+    "__v": 0,
+    "created": "2013-02-23T19:26:26.500Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600074c4dfe1e00000e",
+      "511eb600074c4dfe1e00000d"
+    ]
+  },
+  {
+    "userId": "51290c862223c3bd22000dd8",
+    "comment": "Gylden kombi",
+    "_id": "512917e668972f2e58000e0a",
+    "__v": 0,
+    "created": "2013-02-23T19:26:30.408Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcba34b2fa7e000002",
+      "511eb60230c8ce243300000e"
+    ]
+  },
+  {
+    "userId": "51290c72af17b40a20000099",
+    "comment": "Lovely",
+    "_id": "512917ef68972f2e58000e0b",
+    "__v": 0,
+    "created": "2013-02-23T19:26:39.670Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcc928d81348000002",
+      "511eb5fc3eef831644000003"
+    ]
+  },
+  {
+    "userId": "51290c9a3a89dd7b21000d83",
+    "comment": "Not bad",
+    "_id": "512917f9af17b40a200000c0",
+    "__v": 0,
+    "created": "2013-02-23T19:26:49.310Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600262d43f511000007",
+      "511eb5ff8593183f6a000006"
+    ]
+  },
+  {
+    "userId": "5128af5db75960ea1400007b",
+    "comment": "special",
+    "_id": "512917f93a89dd7b21000da0",
+    "__v": 0,
+    "created": "2013-02-23T19:26:49.765Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe3eef831644000006",
+      "511eb5fe30c8ce2433000007"
+    ]
+  },
+  {
+    "userId": "51290d1b3a89dd7b21000d87",
+    "comment": "shell comfort",
+    "_id": "512918043a89dd7b21000da1",
+    "__v": 0,
+    "created": "2013-02-23T19:27:00.550Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6013eef83164400000b",
+      "511eb5fd5940442a3b000005"
+    ]
+  },
+  {
+    "userId": "51290ca33a89dd7b21000d84",
+    "comment": "frisk og lækker",
+    "_id": "5129180851ead1117e0000c0",
+    "__v": 0,
+    "created": "2013-02-23T19:27:04.765Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600ffdbd7f73f00000a",
+      "511eb601ffdbd7f73f00000b"
+    ]
+  },
+  {
+    "userId": "51290cab4e58c55d2d000de2",
+    "comment": "nothing special",
+    "_id": "51291816fdc1988b660001eb",
+    "__v": 0,
+    "created": "2013-02-23T19:27:18.267Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff262d43f511000006",
+      "511eb5ffba34b2fa7e000005"
+    ]
+  },
+  {
+    "userId": "51290d1b3a89dd7b21000d87",
+    "comment": "abba",
+    "_id": "5129181b2223c3bd22000df5",
+    "__v": 0,
+    "created": "2013-02-23T19:27:23.902Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fc074c4dfe1e000007",
+      "511eb5fd3eef831644000005"
+    ]
+  },
+  {
+    "userId": "51269bae68972f2e58000d34",
+    "comment": "apple and mussels:d",
+    "_id": "5129181cb6107f4214000291",
+    "__v": 0,
+    "created": "2013-02-23T19:27:24.762Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000006",
+      "511eb601074c4dfe1e000010"
+    ]
+  },
+  {
+    "userId": "51290c763a89dd7b21000d7f",
+    "comment": "bitter crisp",
+    "_id": "5129182d51ead1117e0000c1",
+    "__v": 0,
+    "created": "2013-02-23T19:27:41.450Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6025940442a3b00000d",
+      "511eb600ffdbd7f73f00000a"
+    ]
+  },
+  {
+    "userId": "51290ce1fdc1988b660001c6",
+    "comment": "ja",
+    "_id": "5129182e68972f2e58000e0c",
+    "__v": 0,
+    "created": "2013-02-23T19:27:42.978Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd30c8ce2433000005",
+      "511eb5fd5940442a3b000005"
+    ]
+  },
+  {
+    "userId": "51290c862223c3bd22000dd8",
+    "comment": "!",
+    "_id": "512918444e58c55d2d000e08",
+    "__v": 0,
+    "created": "2013-02-23T19:28:04.268Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe074c4dfe1e00000b",
+      "511eb600ffdbd7f73f00000a"
+    ]
+  },
+  {
+    "userId": "51290c707ec0ffc3260000ac",
+    "comment": "perfection",
+    "_id": "5129184efdc1988b660001ec",
+    "__v": 0,
+    "created": "2013-02-23T19:28:14.235Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601ffdbd7f73f00000b",
+      "511eb5fe262d43f511000005"
+    ]
+  },
+  {
+    "userId": "51290d1db6107f4214000276",
+    "comment": "a winning combo",
+    "_id": "512918692223c3bd22000df6",
+    "__v": 0,
+    "created": "2013-02-23T19:28:41.481Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5feffdbd7f73f000006",
+      "511eb5fed39ea9446a000006"
+    ]
+  },
+  {
+    "userId": "51290c763a89dd7b21000d7f",
+    "comment": "bitter crisp",
+    "_id": "5129186faf17b40a200000c1",
+    "__v": 0,
+    "created": "2013-02-23T19:28:47.913Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6025940442a3b00000d",
+      "511eb600ffdbd7f73f00000a"
+    ]
+  },
+  {
+    "userId": "51290c7c4e58c55d2d000ddd",
+    "comment": "okay",
+    "_id": "51291874af17b40a200000c2",
+    "__v": 0,
+    "created": "2013-02-23T19:28:52.588Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600074c4dfe1e00000d",
+      "511eb5ff8593183f6a000006"
+    ]
+  },
+  {
+    "userId": "51290c72af17b40a20000099",
+    "comment": "SwEet",
+    "_id": "5129188baf17b40a200000c3",
+    "__v": 0,
+    "created": "2013-02-23T19:29:15.816Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd074c4dfe1e000008",
+      "511eb5ffc928d81348000004"
+    ]
+  },
+  {
+    "userId": "51290c9a3a89dd7b21000d83",
+    "comment": "lovely",
+    "_id": "5129188db75960ea140000b5",
+    "__v": 0,
+    "created": "2013-02-23T19:29:17.469Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fed39ea9446a000006",
+      "511eb5fd5940442a3b000006"
+    ]
+  },
+  {
+    "userId": "51290cfc68972f2e58000deb",
+    "comment": "sweetqcrisp",
+    "_id": "51291896af17b40a200000c4",
+    "__v": 0,
+    "created": "2013-02-23T19:29:26.380Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcba34b2fa7e000002",
+      "511eb600ffdbd7f73f000008"
+    ]
+  },
+  {
+    "userId": "51290d1db6107f4214000276",
+    "comment": "why not",
+    "_id": "5129189ffdc1988b660001ed",
+    "__v": 0,
+    "created": "2013-02-23T19:29:35.034Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000007",
+      "511eb5fcd39ea9446a000005"
+    ]
+  },
+  {
+    "userId": "51290ce1fdc1988b660001c6",
+    "comment": "nej",
+    "_id": "512918b9af17b40a200000c5",
+    "__v": 0,
+    "created": "2013-02-23T19:30:01.602Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000006",
+      "511eb5fd5940442a3b000005"
+    ]
+  },
+  {
+    "userId": "51290c7768972f2e58000de4",
+    "comment": "smoke",
+    "_id": "512918c77ec0ffc3260000e0",
+    "__v": 0,
+    "created": "2013-02-23T19:30:15.475Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600ffdbd7f73f000009",
+      "511eb5ff8593183f6a000008"
+    ]
+  },
+  {
+    "userId": "51290c7c4e58c55d2d000ddd",
+    "comment": "excellent",
+    "_id": "512918cfaf17b40a200000c6",
+    "__v": 0,
+    "created": "2013-02-23T19:30:23.176Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb60230c8ce243300000f",
+      "511eb5fcc928d81348000002"
+    ]
+  },
+  {
+    "userId": "51290cb9b75960ea14000094",
+    "comment": "NEW OK",
+    "_id": "512918d83a89dd7b21000da2",
+    "__v": 0,
+    "created": "2013-02-23T19:30:32.316Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600d39ea9446a00000a",
+      "511eb6003eef831644000008"
+    ]
+  },
+  {
+    "userId": "51290c8ffdc1988b660001c3",
+    "comment": "Cowi meets earth - very Nice when the sea comes in!",
+    "_id": "512918ecb75960ea140000b6",
+    "__v": 0,
+    "created": "2013-02-23T19:30:52.432Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd30c8ce2433000006",
+      "511eb60230c8ce243300000f"
+    ]
+  },
+  {
+    "userId": "51290c7faf17b40a2000009a",
+    "comment": "sweet blue mussel",
+    "_id": "512918f4fdc1988b660001ee",
+    "__v": 0,
+    "created": "2013-02-23T19:31:00.369Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffc928d81348000004",
+      "511eb60230c8ce243300000f"
+    ]
+  },
+  {
+    "userId": "51290c8168972f2e58000de6",
+    "comment": "eggs",
+    "_id": "51291904fdc1988b660001ef",
+    "__v": 0,
+    "created": "2013-02-23T19:31:16.976Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000006",
+      "511eb5fd5940442a3b000005"
+    ]
+  },
+  {
+    "userId": "51290cfc68972f2e58000deb",
+    "comment": "tomatosauce",
+    "_id": "5129190b4e58c55d2d000e09",
+    "__v": 0,
+    "created": "2013-02-23T19:31:23.591Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcc928d81348000001",
+      "511eb601074c4dfe1e000011"
+    ]
+  },
+  {
+    "userId": "51290d1b3a89dd7b21000d87",
+    "comment": "bruxelles",
+    "_id": "5129190eaf17b40a200000c7",
+    "__v": 0,
+    "created": "2013-02-23T19:31:26.661Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6003eef831644000008",
+      "511eb5fe074c4dfe1e00000b"
+    ]
+  },
+  {
+    "userId": "51290cab4e58c55d2d000de2",
+    "comment": "healty mussel",
+    "_id": "51291922b75960ea140000b7",
+    "__v": 0,
+    "created": "2013-02-23T19:31:46.251Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fc074c4dfe1e000007",
+      "511eb5fc3eef831644000003"
+    ]
+  },
+  {
+    "userId": "51290c8d7ec0ffc3260000ad",
+    "comment": "lækker",
+    "_id": "51291924b75960ea140000b8",
+    "__v": 0,
+    "created": "2013-02-23T19:31:48.185Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcba34b2fa7e000001",
+      "511eb5fcba34b2fa7e000002"
+    ]
+  },
+  {
+    "userId": "51290c884e58c55d2d000de0",
+    "comment": "exciting",
+    "_id": "51291927b6107f4214000292",
+    "__v": 0,
+    "created": "2013-02-23T19:31:51.171Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fc5940442a3b000003",
+      "511eb5fcba34b2fa7e000002"
+    ]
+  },
+  {
+    "userId": "51290c8ffdc1988b660001c3",
+    "comment": "Nice, bit banal",
+    "_id": "5129193051ead1117e0000c2",
+    "__v": 0,
+    "created": "2013-02-23T19:32:00.174Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6015940442a3b00000b",
+      "511eb60230c8ce243300000f"
+    ]
+  },
+  {
+    "userId": "51290ca33a89dd7b21000d84",
+    "comment": "smelt osten himmelsk!",
+    "_id": "5129193c3a89dd7b21000da3",
+    "__v": 0,
+    "created": "2013-02-23T19:32:12.176Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fec928d81348000003",
+      "511eb5fe262d43f511000005"
+    ]
+  },
+  {
+    "userId": "51290cab4e58c55d2d000de2",
+    "comment": "sour'Great",
+    "_id": "51291950fdc1988b660001f0",
+    "__v": 0,
+    "created": "2013-02-23T19:32:32.436Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd074c4dfe1e000009",
+      "511eb5fe074c4dfe1e00000a"
+    ]
+  },
+  {
+    "userId": "51290c763a89dd7b21000d7f",
+    "comment": "Meat rater ",
+    "_id": "512919554e58c55d2d000e0a",
+    "__v": 0,
+    "created": "2013-02-23T19:32:37.211Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcd39ea9446a000005",
+      "511eb5fd5940442a3b000004"
+    ]
+  },
+  {
+    "userId": "51290c88af17b40a2000009b",
+    "comment": "funny",
+    "_id": "512919673a89dd7b21000da4",
+    "__v": 0,
+    "created": "2013-02-23T19:32:55.986Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff30c8ce243300000b",
+      "511eb5fe3eef831644000006"
+    ]
+  },
+  {
+    "userId": "51290c884e58c55d2d000de0",
+    "comment": "bad with tomato",
+    "_id": "5129196b2223c3bd22000df7",
+    "__v": 0,
+    "created": "2013-02-23T19:32:59.268Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcd39ea9446a000004",
+      "511eb5fcc928d81348000001"
+    ]
+  },
+  {
+    "userId": "51290c763a89dd7b21000d7f",
+    "comment": "sweet dirt",
+    "_id": "5129196cb6107f4214000293",
+    "__v": 0,
+    "created": "2013-02-23T19:33:00.706Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff262d43f511000006",
+      "511eb5ff074c4dfe1e00000c"
+    ]
+  },
+  {
+    "userId": "51290cb9b75960ea14000094",
+    "comment": "ØV",
+    "_id": "5129196d2223c3bd22000df8",
+    "__v": 0,
+    "created": "2013-02-23T19:33:01.983Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff074c4dfe1e00000c",
+      "511eb5ff262d43f511000006"
+    ]
+  },
+  {
+    "userId": "51290c9f2223c3bd22000dd9",
+    "comment": "saltomondish",
+    "_id": "512919707ec0ffc3260000e1",
+    "__v": 0,
+    "created": "2013-02-23T19:33:04.430Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd3eef831644000005",
+      "511eb5fd074c4dfe1e000008"
+    ]
+  },
+  {
+    "userId": "51290cfc68972f2e58000deb",
+    "comment": "mayoish",
+    "_id": "512919797ec0ffc3260000e2",
+    "__v": 0,
+    "created": "2013-02-23T19:33:13.438Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5feffdbd7f73f000006",
+      "511eb5fd5940442a3b000006"
+    ]
+  },
+  {
+    "userId": "51290c88af17b40a2000009b",
+    "comment": "funky ii",
+    "_id": "5129198451ead1117e0000c3",
+    "__v": 0,
+    "created": "2013-02-23T19:33:24.511Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffc928d81348000004",
+      "511eb5fe3eef831644000006"
+    ]
+  },
+  {
+    "userId": "51290e93b6107f4214000278",
+    "comment": "soft",
+    "_id": "5129198caf17b40a200000c8",
+    "__v": 0,
+    "created": "2013-02-23T19:33:32.750Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fed39ea9446a000007",
+      "511eb5fe3eef831644000007"
+    ]
+  },
+  {
+    "userId": "51290c9a3a89dd7b21000d83",
+    "comment": "fine combination",
+    "_id": "5129199d3a89dd7b21000da5",
+    "__v": 0,
+    "created": "2013-02-23T19:33:49.172Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb60230c8ce243300000f",
+      "511eb5fd074c4dfe1e000008"
+    ]
+  },
+  {
+    "userId": "51269bae68972f2e58000d34",
+    "comment": "Brazilian beach",
+    "_id": "512919a251ead1117e0000c4",
+    "__v": 0,
+    "created": "2013-02-23T19:33:54.090Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600074c4dfe1e00000e",
+      "511eb601c928d81348000007"
+    ]
+  },
+  {
+    "userId": "51290e9a7ec0ffc3260000af",
+    "comment": "sitting in the grass waiting ",
+    "_id": "512919ab7ec0ffc3260000e3",
+    "__v": 0,
+    "created": "2013-02-23T19:34:03.683Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6013eef83164400000b",
+      "511eb601ffdbd7f73f00000b"
+    ]
+  },
+  {
+    "userId": "51290d1b3a89dd7b21000d87",
+    "comment": "pure nordic",
+    "_id": "512919b24e58c55d2d000e0b",
+    "__v": 0,
+    "created": "2013-02-23T19:34:10.512Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600c928d81348000006",
+      "511eb5ff8593183f6a000008"
+    ]
+  },
+  {
+    "userId": "51290c9f2223c3bd22000dd9",
+    "comment": "mismatch",
+    "_id": "512919b47ec0ffc3260000e4",
+    "__v": 0,
+    "created": "2013-02-23T19:34:12.648Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000007",
+      "511eb5feffdbd7f73f000006"
+    ]
+  },
+  {
+    "userId": "51290ce1fdc1988b660001c6",
+    "comment": "lækkert",
+    "_id": "512919b768972f2e58000e0d",
+    "__v": 0,
+    "created": "2013-02-23T19:34:15.630Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd262d43f511000004",
+      "511eb5fcc928d81348000001"
+    ]
+  },
+  {
+    "userId": "51290c7eb6107f4214000270",
+    "comment": "Gelcelhell",
+    "_id": "512919b87ec0ffc3260000e5",
+    "__v": 0,
+    "created": "2013-02-23T19:34:16.737Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff8593183f6a000006",
+      "511eb5ff262d43f511000006"
+    ]
+  },
+  {
+    "userId": "51290ca14e58c55d2d000de1",
+    "comment": "strange",
+    "_id": "512919c268972f2e58000e0e",
+    "__v": 0,
+    "created": "2013-02-23T19:34:26.805Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600074c4dfe1e00000e",
+      "511eb600ffdbd7f73f000008"
+    ]
+  },
+  {
+    "userId": "51290c8168972f2e58000de6",
+    "comment": "damp",
+    "_id": "512919cb4e58c55d2d000e0c",
+    "__v": 0,
+    "created": "2013-02-23T19:34:35.515Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd262d43f511000004",
+      "511eb5fcc928d81348000001"
+    ]
+  },
+  {
+    "userId": "51290c72af17b40a20000099",
+    "comment": "Beige",
+    "_id": "512919cd51ead1117e0000c5",
+    "__v": 0,
+    "created": "2013-02-23T19:34:37.052Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff074c4dfe1e00000c",
+      "511eb5ffba34b2fa7e000005"
+    ]
+  },
+  {
+    "userId": "51290cfc68972f2e58000deb",
+    "comment": "fresh",
+    "_id": "512919cdb75960ea140000b9",
+    "__v": 0,
+    "created": "2013-02-23T19:34:37.844Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601074c4dfe1e000010",
+      "511eb60230c8ce243300000e"
+    ]
+  },
+  {
+    "userId": "51290e93b6107f4214000278",
+    "comment": "danish taste",
+    "_id": "512919d4fdc1988b660001f1",
+    "__v": 0,
+    "created": "2013-02-23T19:34:44.841Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600c928d81348000006",
+      "511eb5ff8593183f6a000008"
+    ]
+  },
+  {
+    "userId": "51290d1b3a89dd7b21000d87",
+    "comment": "classic blue",
+    "_id": "512919db2223c3bd22000df9",
+    "__v": 0,
+    "created": "2013-02-23T19:34:51.257Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcd39ea9446a000005",
+      "511eb5ffd39ea9446a000009"
+    ]
+  },
+  {
+    "userId": "51290cab4e58c55d2d000de2",
+    "comment": "oMG. salty and funny",
+    "_id": "512919dc2223c3bd22000dfa",
+    "__v": 0,
+    "created": "2013-02-23T19:34:52.423Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe074c4dfe1e00000b",
+      "511eb5fe3eef831644000006"
+    ]
+  },
+  {
+    "userId": "51290cab4e58c55d2d000de2",
+    "comment": "nutella",
+    "_id": "512919e568972f2e58000e0f",
+    "__v": 0,
+    "created": "2013-02-23T19:35:01.495Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff30c8ce243300000b",
+      "511eb5ffba34b2fa7e000005"
+    ]
+  },
+  {
+    "userId": "512906867ec0ffc3260000ab",
+    "comment": "brrrrrrrrr",
+    "_id": "512919e67ec0ffc3260000e6",
+    "__v": 0,
+    "created": "2013-02-23T19:35:02.203Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffba34b2fa7e000005",
+      "511eb5ff30c8ce243300000a"
+    ]
+  },
+  {
+    "userId": "51290c8d7ec0ffc3260000ad",
+    "comment": "frisk",
+    "_id": "512919e84e58c55d2d000e0d",
+    "__v": 0,
+    "created": "2013-02-23T19:35:04.909Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fed39ea9446a000006",
+      "511eb5fe8593183f6a000005"
+    ]
+  },
+  {
+    "userId": "51290d1db6107f4214000276",
+    "comment": "nice",
+    "_id": "512919f5fdc1988b660001f2",
+    "__v": 0,
+    "created": "2013-02-23T19:35:17.864Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600262d43f511000007",
+      "511eb5fcba34b2fa7e000001"
+    ]
+  },
+  {
+    "userId": "51290c8ffdc1988b660001c3",
+    "comment": "generation gap - mother wins!",
+    "_id": "512919fc4e58c55d2d000e0e",
+    "__v": 0,
+    "created": "2013-02-23T19:35:24.572Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000006",
+      "511eb5fd3eef831644000005"
+    ]
+  },
+  {
+    "userId": "51290e9a7ec0ffc3260000af",
+    "comment": "now er are ready for A kiss",
+    "_id": "51291a0668972f2e58000e10",
+    "__v": 0,
+    "created": "2013-02-23T19:35:34.867Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600ffdbd7f73f00000a",
+      "511eb600c928d81348000006"
+    ]
+  },
+  {
+    "userId": "51290d02b6107f4214000275",
+    "comment": "lemon chock",
+    "_id": "51291a20af17b40a200000c9",
+    "__v": 0,
+    "created": "2013-02-23T19:36:00.992Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffba34b2fa7e000005",
+      "511eb5fed39ea9446a000006"
+    ]
+  },
+  {
+    "userId": "51290c72af17b40a20000099",
+    "comment": "CHilly",
+    "_id": "51291a2968972f2e58000e11",
+    "__v": 0,
+    "created": "2013-02-23T19:36:09.678Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601074c4dfe1e00000f",
+      "511eb600d39ea9446a00000a"
+    ]
+  },
+  {
+    "userId": "51290ca14e58c55d2d000de1",
+    "comment": "hare core",
+    "_id": "51291a2cb6107f4214000294",
+    "__v": 0,
+    "created": "2013-02-23T19:36:12.274Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600074c4dfe1e00000e",
+      "511eb6013eef83164400000a"
+    ]
+  },
+  {
+    "userId": "51290d1db6107f4214000276",
+    "comment": "yummy",
+    "_id": "51291a2e2223c3bd22000dfb",
+    "__v": 0,
+    "created": "2013-02-23T19:36:14.007Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fc3eef831644000003",
+      "511eb5ff074c4dfe1e00000c"
+    ]
+  },
+  {
+    "userId": "51290e93b6107f4214000278",
+    "comment": "french/danish",
+    "_id": "51291a367ec0ffc3260000e7",
+    "__v": 0,
+    "created": "2013-02-23T19:36:22.850Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff8593183f6a000007",
+      "511eb5ffd39ea9446a000009"
+    ]
+  },
+  {
+    "userId": "51290c707ec0ffc3260000ac",
+    "comment": "nice",
+    "_id": "51291a3a3a89dd7b21000da6",
+    "__v": 0,
+    "created": "2013-02-23T19:36:26.710Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000004",
+      "511eb60130c8ce243300000d"
+    ]
+  },
+  {
+    "userId": "51290c9f2223c3bd22000dd9",
+    "comment": "a beach mismix",
+    "_id": "51291a3db75960ea140000ba",
+    "__v": 0,
+    "created": "2013-02-23T19:36:29.470Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fed39ea9446a000006",
+      "511eb600ffdbd7f73f000008"
+    ]
+  },
+  {
+    "userId": "51269bae68972f2e58000d34",
+    "comment": "nice",
+    "_id": "51291a5968972f2e58000e12",
+    "__v": 0,
+    "created": "2013-02-23T19:36:57.639Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600ffdbd7f73f000008",
+      "511eb600262d43f511000007"
+    ]
+  },
+  {
+    "userId": "51290ce1fdc1988b660001c6",
+    "comment": "nice",
+    "_id": "51291a607ec0ffc3260000e8",
+    "__v": 0,
+    "created": "2013-02-23T19:37:04.655Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd3eef831644000004",
+      "511eb5fdba34b2fa7e000003"
+    ]
+  },
+  {
+    "userId": "51290c8168972f2e58000de6",
+    "comment": "chipfish",
+    "_id": "51291a6d68972f2e58000e13",
+    "__v": 0,
+    "created": "2013-02-23T19:37:17.534Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcd39ea9446a000004",
+      "511eb5fd5940442a3b000006"
+    ]
+  },
+  {
+    "userId": "51290cfc68972f2e58000deb",
+    "comment": "lime q row",
+    "_id": "51291a7768972f2e58000e14",
+    "__v": 0,
+    "created": "2013-02-23T19:37:27.812Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601c928d81348000007",
+      "511eb5fd5940442a3b000006"
+    ]
+  },
+  {
+    "userId": "51290d1db6107f4214000276",
+    "comment": "fresh",
+    "_id": "51291a84b75960ea140000bb",
+    "__v": 0,
+    "created": "2013-02-23T19:37:40.369Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601074c4dfe1e000010",
+      "511eb600074c4dfe1e00000d"
+    ]
+  },
+  {
+    "userId": "51290d02b6107f4214000275",
+    "comment": "hot & great!!",
+    "_id": "51291a8651ead1117e0000c6",
+    "__v": 0,
+    "created": "2013-02-23T19:37:42.829Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe8593183f6a000005",
+      "511eb5feba34b2fa7e000004"
+    ]
+  },
+  {
+    "userId": "51290c8ffdc1988b660001c3",
+    "comment": "exquisite corbi!",
+    "_id": "51291a907ec0ffc3260000e9",
+    "__v": 0,
+    "created": "2013-02-23T19:37:52.128Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd30c8ce2433000005",
+      "511eb601ffdbd7f73f00000b"
+    ]
+  },
+  {
+    "userId": "51290cb9b75960ea14000094",
+    "comment": "NICE",
+    "_id": "51291aa2b75960ea140000bc",
+    "__v": 0,
+    "created": "2013-02-23T19:38:10.474Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb60230c8ce243300000f",
+      "511eb5fc3eef831644000003"
+    ]
+  },
+  {
+    "userId": "51290c72af17b40a20000099",
+    "comment": "StrAnge",
+    "_id": "51291aab68972f2e58000e15",
+    "__v": 0,
+    "created": "2013-02-23T19:38:19.423Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6003eef831644000008",
+      "511eb601074c4dfe1e00000f"
+    ]
+  },
+  {
+    "userId": "51290c763a89dd7b21000d7f",
+    "comment": "fruit umami",
+    "_id": "51291ab651ead1117e0000c7",
+    "__v": 0,
+    "created": "2013-02-23T19:38:30.957Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000007",
+      "511eb5fd5940442a3b000005"
+    ]
+  },
+  {
+    "userId": "51290c9a3a89dd7b21000d83",
+    "comment": "the mussel drowned",
+    "_id": "51291ab84e58c55d2d000e0f",
+    "__v": 0,
+    "created": "2013-02-23T19:38:32.301Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff30c8ce243300000b",
+      "511eb5fe3eef831644000006"
+    ]
+  },
+  {
+    "userId": "51290c707ec0ffc3260000ac",
+    "comment": "yea",
+    "_id": "51291ade68972f2e58000e16",
+    "__v": 0,
+    "created": "2013-02-23T19:39:10.203Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000005",
+      "511eb5fec928d81348000003"
+    ]
+  },
+  {
+    "userId": "51290ce1fdc1988b660001c6",
+    "comment": "mmmmmmm",
+    "_id": "51291aee68972f2e58000e17",
+    "__v": 0,
+    "created": "2013-02-23T19:39:26.856Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5feba34b2fa7e000004",
+      "511eb5fed39ea9446a000006"
+    ]
+  },
+  {
+    "userId": "51290c9f2223c3bd22000dd9",
+    "comment": "yummi",
+    "_id": "51291af1fdc1988b660001f3",
+    "__v": 0,
+    "created": "2013-02-23T19:39:29.072Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600262d43f511000007",
+      "511eb5feba34b2fa7e000004"
+    ]
+  },
+  {
+    "userId": "51290c8168972f2e58000de6",
+    "comment": "work it",
+    "_id": "51291af468972f2e58000e18",
+    "__v": 0,
+    "created": "2013-02-23T19:39:32.382Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe8593183f6a000005",
+      "511eb5feffdbd7f73f000006"
+    ]
+  },
+  {
+    "userId": "51269bae68972f2e58000d34",
+    "comment": "aromatic",
+    "_id": "51291af6af17b40a200000ca",
+    "__v": 0,
+    "created": "2013-02-23T19:39:34.059Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd262d43f511000004",
+      "511eb5fdba34b2fa7e000003"
+    ]
+  },
+  {
+    "userId": "51290cfc68972f2e58000deb",
+    "comment": "Thai style",
+    "_id": "51291aff7ec0ffc3260000ea",
+    "__v": 0,
+    "created": "2013-02-23T19:39:43.651Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601ffdbd7f73f00000c",
+      "511eb601c928d81348000007"
+    ]
+  },
+  {
+    "userId": "51290c6e68972f2e58000de3",
+    "comment": "freshhhhhhh",
+    "_id": "51291b0b4e58c55d2d000e10",
+    "__v": 0,
+    "created": "2013-02-23T19:39:55.230Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000007",
+      "511eb5fd30c8ce2433000005"
+    ]
+  },
+  {
+    "userId": "51290d1db6107f4214000276",
+    "comment": "springtime",
+    "_id": "51291b17fdc1988b660001f4",
+    "__v": 0,
+    "created": "2013-02-23T19:40:07.736Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6015940442a3b00000c",
+      "511eb601ffdbd7f73f00000b"
+    ]
+  },
+  {
+    "userId": "51290c8d7ec0ffc3260000ad",
+    "comment": "god",
+    "_id": "51291b2751ead1117e0000c8",
+    "__v": 0,
+    "created": "2013-02-23T19:40:23.429Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb602262d43f511000008",
+      "511eb600d39ea9446a00000a"
+    ]
+  },
+  {
+    "userId": "51290ca33a89dd7b21000d84",
+    "comment": "not good :(",
+    "_id": "51291b3951ead1117e0000c9",
+    "__v": 0,
+    "created": "2013-02-23T19:40:41.275Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffba34b2fa7e000005",
+      "511eb600074c4dfe1e00000d"
+    ]
+  },
+  {
+    "userId": "51290c763a89dd7b21000d7f",
+    "comment": "cheese N' leek ",
+    "_id": "51291b5a7ec0ffc3260000eb",
+    "__v": 0,
+    "created": "2013-02-23T19:41:14.928Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6005940442a3b00000a",
+      "511eb5fec928d81348000003"
+    ]
+  },
+  {
+    "userId": "51290c7c4e58c55d2d000ddd",
+    "comment": "mhem",
+    "_id": "51291b604e58c55d2d000e11",
+    "__v": 0,
+    "created": "2013-02-23T19:41:20.228Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd30c8ce2433000006",
+      "511eb5fd5940442a3b000005"
+    ]
+  },
+  {
+    "userId": "51290ce1fdc1988b660001c6",
+    "comment": "mmmmmm",
+    "_id": "51291b672223c3bd22000dfc",
+    "__v": 0,
+    "created": "2013-02-23T19:41:27.198Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffba34b2fa7e000005",
+      "511eb5fe8593183f6a000005"
+    ]
+  },
+  {
+    "userId": "51290c8168972f2e58000de6",
+    "comment": "hm",
+    "_id": "51291b6a68972f2e58000e19",
+    "__v": 0,
+    "created": "2013-02-23T19:41:30.187Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600ffdbd7f73f000008",
+      "511eb600262d43f511000007"
+    ]
+  },
+  {
+    "userId": "51290c8ffdc1988b660001c3",
+    "comment": "poor Have",
+    "_id": "51291b6eaf17b40a200000cb",
+    "__v": 0,
+    "created": "2013-02-23T19:41:34.032Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff30c8ce243300000b",
+      "511eb5fe074c4dfe1e00000b"
+    ]
+  },
+  {
+    "userId": "51290d1db6107f4214000276",
+    "comment": "beautiful",
+    "_id": "51291b747ec0ffc3260000ec",
+    "__v": 0,
+    "created": "2013-02-23T19:41:40.571Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fc074c4dfe1e000007",
+      "511eb5fc3eef831644000003"
+    ]
+  },
+  {
+    "userId": "51290ca14e58c55d2d000de1",
+    "comment": "ginger Dream ",
+    "_id": "51291b7b68972f2e58000e1a",
+    "__v": 0,
+    "created": "2013-02-23T19:41:47.410Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe8593183f6a000005",
+      "511eb5feffdbd7f73f000006"
+    ]
+  },
+  {
+    "userId": "51290c884e58c55d2d000de0",
+    "comment": "weird",
+    "_id": "51291b7b68972f2e58000e1b",
+    "__v": 0,
+    "created": "2013-02-23T19:41:47.993Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fec928d81348000003",
+      "511eb5fe074c4dfe1e00000b"
+    ]
+  },
+  {
+    "userId": "51290c8ffdc1988b660001c3",
+    "comment": "poor hazelnut has a problem",
+    "_id": "51291b9d68972f2e58000e1c",
+    "__v": 0,
+    "created": "2013-02-23T19:42:21.311Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff30c8ce243300000b",
+      "511eb5fe074c4dfe1e00000b"
+    ]
+  },
+  {
+    "userId": "51290c9a3a89dd7b21000d83",
+    "comment": "A bit blend",
+    "_id": "51291bb851ead1117e0000ca",
+    "__v": 0,
+    "created": "2013-02-23T19:42:48.875Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff262d43f511000006",
+      "511eb5fe074c4dfe1e00000b"
+    ]
+  },
+  {
+    "userId": "51290c72af17b40a20000099",
+    "comment": "Don't",
+    "_id": "51291bd47ec0ffc3260000ed",
+    "__v": 0,
+    "created": "2013-02-23T19:43:16.656Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd30c8ce2433000005",
+      "511eb5fc074c4dfe1e000007"
+    ]
+  },
+  {
+    "userId": "51290d02b6107f4214000275",
+    "comment": "mismatch",
+    "_id": "51291be24e58c55d2d000e12",
+    "__v": 0,
+    "created": "2013-02-23T19:43:30.796Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd3eef831644000004",
+      "511eb5fcc928d81348000001"
+    ]
+  },
+  {
+    "userId": "51290d1b3a89dd7b21000d87",
+    "comment": "chefs choice",
+    "_id": "51291bebfdc1988b660001f5",
+    "__v": 0,
+    "created": "2013-02-23T19:43:39.505Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff30c8ce243300000b",
+      "511eb5fcc928d81348000002"
+    ]
+  },
+  {
+    "userId": "51290cfc68972f2e58000deb",
+    "comment": "soso",
+    "_id": "51291befb75960ea140000bd",
+    "__v": 0,
+    "created": "2013-02-23T19:43:43.610Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600262d43f511000007",
+      "511eb5fcba34b2fa7e000002"
+    ]
+  },
+  {
+    "userId": "51290ce1fdc1988b660001c6",
+    "comment": "the best",
+    "_id": "51291bf83a89dd7b21000da7",
+    "__v": 0,
+    "created": "2013-02-23T19:43:52.307Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600262d43f511000007",
+      "511eb600ffdbd7f73f000008"
+    ]
+  },
+  {
+    "userId": "51290d02b6107f4214000275",
+    "comment": "refreshing hot",
+    "_id": "51291c0d2223c3bd22000dfd",
+    "__v": 0,
+    "created": "2013-02-23T19:44:13.721Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601074c4dfe1e000010",
+      "511eb5fd262d43f511000004"
+    ]
+  },
+  {
+    "userId": "51290c8ffdc1988b660001c3",
+    "comment": "yummie!",
+    "_id": "51291c4f7ec0ffc3260000ee",
+    "__v": 0,
+    "created": "2013-02-23T19:45:19.414Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600262d43f511000007",
+      "511eb5feffdbd7f73f000006"
+    ]
+  },
+  {
+    "userId": "51290c7768972f2e58000de4",
+    "comment": "seedet mama",
+    "_id": "51291c51af17b40a200000cc",
+    "__v": 0,
+    "created": "2013-02-23T19:45:21.666Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffba34b2fa7e000005",
+      "511eb5ff074c4dfe1e00000c"
+    ]
+  },
+  {
+    "userId": "51290c7c4e58c55d2d000ddd",
+    "comment": "okay",
+    "_id": "51291c5c3a89dd7b21000da8",
+    "__v": 0,
+    "created": "2013-02-23T19:45:32.063Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff30c8ce2433000008",
+      "511eb5ff8593183f6a000006"
+    ]
+  },
+  {
+    "userId": "51290cab4e58c55d2d000de2",
+    "comment": "nice",
+    "_id": "51291c637ec0ffc3260000ef",
+    "__v": 0,
+    "created": "2013-02-23T19:45:39.640Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600262d43f511000007",
+      "511eb5ff8593183f6a000006"
+    ]
+  },
+  {
+    "userId": "51290cb9b75960ea14000094",
+    "comment": "NICE",
+    "_id": "51291c723a89dd7b21000da9",
+    "__v": 0,
+    "created": "2013-02-23T19:45:54.900Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fec928d81348000003",
+      "511eb5fe30c8ce2433000007"
+    ]
+  },
+  {
+    "userId": "51290d02b6107f4214000275",
+    "comment": "big mistake!!",
+    "_id": "51291c8f68972f2e58000e1d",
+    "__v": 0,
+    "created": "2013-02-23T19:46:23.074Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601ffdbd7f73f00000c",
+      "511eb601074c4dfe1e000010"
+    ]
+  },
+  {
+    "userId": "51290cab4e58c55d2d000de2",
+    "comment": "yummi!",
+    "_id": "51291cd1fdc1988b660001f6",
+    "__v": 0,
+    "created": "2013-02-23T19:47:29.314Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fed39ea9446a000007",
+      "511eb5fec928d81348000003"
+    ]
+  },
+  {
+    "userId": "51290c6f3a89dd7b21000d7e",
+    "comment": "very Nice ",
+    "_id": "51291cda4e58c55d2d000e13",
+    "__v": 0,
+    "created": "2013-02-23T19:47:38.133Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd262d43f511000004",
+      "511eb5fcba34b2fa7e000002"
+    ]
+  },
+  {
+    "__v": 0,
+    "_id": "51291cde51ead1117e0000cb",
+    "comment": "pitanga com queijo",
+    "userId": "511eba2b3eef83164400000c",
+    "created": "2013-02-23T19:47:42.281Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fec928d81348000003",
+      "511eb5fd5940442a3b000007"
+    ]
+  },
+  {
+    "userId": "51290c6f3a89dd7b21000d7e",
+    "comment": "nicoline er sød",
+    "_id": "51291d1368972f2e58000e1e",
+    "__v": 0,
+    "created": "2013-02-23T19:48:35.765Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb60230c8ce243300000e",
+      "511eb601ffdbd7f73f00000c"
+    ]
+  },
+  {
+    "userId": "51290c707ec0ffc3260000ac",
+    "comment": "bitter",
+    "_id": "51291d17af17b40a200000cd",
+    "__v": 0,
+    "created": "2013-02-23T19:48:39.774Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fdba34b2fa7e000003",
+      "511eb5fd5940442a3b000006"
+    ]
+  },
+  {
+    "userId": "51290c9f2223c3bd22000dd9",
+    "comment": "powerfull fresh",
+    "_id": "51291d192223c3bd22000dfe",
+    "__v": 0,
+    "created": "2013-02-23T19:48:41.341Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff8593183f6a000006",
+      "511eb600074c4dfe1e00000e"
+    ]
+  },
+  {
+    "userId": "51290cab4e58c55d2d000de2",
+    "comment": "biz!",
+    "_id": "51291d2951ead1117e0000cc",
+    "__v": 0,
+    "created": "2013-02-23T19:48:57.292Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6015940442a3b00000b",
+      "511eb6013eef83164400000b"
+    ]
+  },
+  {
+    "userId": "51269bae68972f2e58000d34",
+    "comment": "desserty",
+    "_id": "51291d3751ead1117e0000cd",
+    "__v": 0,
+    "created": "2013-02-23T19:49:11.985Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fc074c4dfe1e000007",
+      "511eb6003eef831644000008"
+    ]
+  },
+  {
+    "userId": "51290c7c4e58c55d2d000ddd",
+    "comment": "good",
+    "_id": "51291d447ec0ffc3260000f0",
+    "__v": 0,
+    "created": "2013-02-23T19:49:24.731Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601074c4dfe1e000011",
+      "511eb601ffdbd7f73f00000c"
+    ]
+  },
+  {
+    "userId": "51290c7eb6107f4214000270",
+    "comment": "green heaven",
+    "_id": "51291d5551ead1117e0000ce",
+    "__v": 0,
+    "created": "2013-02-23T19:49:41.193Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb601ffdbd7f73f00000b",
+      "511eb600ffdbd7f73f00000a"
+    ]
+  },
+  {
+    "userId": "51290c7768972f2e58000de4",
+    "comment": "no. 1",
+    "_id": "51291d5db75960ea140000be",
+    "__v": 0,
+    "created": "2013-02-23T19:49:49.017Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fd5940442a3b000006",
+      "511eb5fd3eef831644000005"
+    ]
+  },
+  {
+    "userId": "51290c88af17b40a2000009b",
+    "comment": "just good",
+    "_id": "51291d692223c3bd22000dff",
+    "__v": 0,
+    "created": "2013-02-23T19:50:01.723Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff30c8ce243300000b",
+      "511eb5ff30c8ce2433000009"
+    ]
+  },
+  {
+    "userId": "51290c7c4e58c55d2d000ddd",
+    "comment": "carribie",
+    "_id": "51291d6c51ead1117e0000cf",
+    "__v": 0,
+    "created": "2013-02-23T19:50:04.573Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcba34b2fa7e000001",
+      "511eb5fcba34b2fa7e000002"
+    ]
+  },
+  {
+    "userId": "51290c7eb6107f4214000270",
+    "comment": "cottage romance",
+    "_id": "51291d79b6107f4214000295",
+    "__v": 0,
+    "created": "2013-02-23T19:50:17.790Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb60030c8ce243300000c",
+      "511eb601ffdbd7f73f00000b"
+    ]
+  },
+  {
+    "userId": "51290cb9b75960ea14000094",
+    "comment": "NO THANKS",
+    "_id": "51291d7eb6107f4214000296",
+    "__v": 0,
+    "created": "2013-02-23T19:50:22.806Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600d39ea9446a00000a",
+      "511eb6015940442a3b00000b"
+    ]
+  },
+  {
+    "userId": "511eba2b3eef83164400000c",
+    "comment": "cruchycrunch",
+    "_id": "51291dcb68972f2e58000e1f",
+    "__v": 0,
+    "created": "2013-02-23T19:51:39.511Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ff30c8ce2433000008",
+      "511eb5ffd39ea9446a000008"
+    ]
+  },
+  {
+    "userId": "51290d02b6107f4214000275",
+    "comment": "vilsund blue perfect",
+    "_id": "51291dd37ec0ffc3260000f1",
+    "__v": 0,
+    "created": "2013-02-23T19:51:47.276Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe8593183f6a000005",
+      "511eb5feba34b2fa7e000004"
+    ]
+  },
+  {
+    "userId": "51290c9a3a89dd7b21000d83",
+    "comment": "ok",
+    "_id": "51291e034e58c55d2d000e14",
+    "__v": 0,
+    "created": "2013-02-23T19:52:35.203Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb60030c8ce243300000c",
+      "511eb5fe3eef831644000007"
+    ]
+  },
+  {
+    "userId": "51290c9a3a89dd7b21000d83",
+    "comment": "ok",
+    "_id": "51291e03fdc1988b660001f7",
+    "__v": 0,
+    "created": "2013-02-23T19:52:35.325Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb60030c8ce243300000c",
+      "511eb5fe3eef831644000007"
+    ]
+  },
+  {
+    "userId": "51290c833a89dd7b21000d81",
+    "comment": "banjo!",
+    "_id": "51291e38af17b40a200000ce",
+    "__v": 0,
+    "created": "2013-02-23T19:53:28.135Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6015940442a3b00000b",
+      "511eb6003eef831644000008"
+    ]
+  },
+  {
+    "userId": "51290e93b6107f4214000278",
+    "comment": "green intense",
+    "_id": "51291e7c51ead1117e0000d0",
+    "__v": 0,
+    "created": "2013-02-23T19:54:36.786Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6013eef83164400000b",
+      "511eb601074c4dfe1e00000f"
+    ]
+  },
+  {
+    "userId": "51290d02b6107f4214000275",
+    "comment": "candyfloss!!",
+    "_id": "51291f03fdc1988b660001f8",
+    "__v": 0,
+    "created": "2013-02-23T19:56:51.750Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe3eef831644000006",
+      "511eb5fe074c4dfe1e00000b"
+    ]
+  },
+  {
+    "userId": "51290c9f2223c3bd22000dd9",
+    "comment": "sparkling fresh kiddish",
+    "_id": "51291f3a2223c3bd22000e00",
+    "__v": 0,
+    "created": "2013-02-23T19:57:46.443Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb60130c8ce243300000d",
+      "511eb5fe3eef831644000006"
+    ]
+  },
+  {
+    "userId": "511eba2b3eef83164400000c",
+    "comment": "yes, but no ",
+    "_id": "51291f494e58c55d2d000e15",
+    "__v": 0,
+    "created": "2013-02-23T19:58:01.685Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600c928d81348000005",
+      "511eb5fe074c4dfe1e00000a"
+    ]
+  },
+  {
+    "userId": "51290c9f2223c3bd22000dd9",
+    "comment": "to buchtornish",
+    "_id": "51291f7f2223c3bd22000e01",
+    "__v": 0,
+    "created": "2013-02-23T19:58:55.361Z",
+    "rating": 2,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fe074c4dfe1e00000a",
+      "511eb5ff30c8ce2433000008"
+    ]
+  },
+  {
+    "userId": "51290c83b75960ea14000093",
+    "comment": "The mussel was raw",
+    "_id": "51291f90af17b40a200000cf",
+    "__v": 0,
+    "created": "2013-02-23T19:59:12.215Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fc3eef831644000003",
+      "511eb5fe074c4dfe1e00000a"
+    ]
+  },
+  {
+    "userId": "51290c802223c3bd22000dd7",
+    "comment": "General review: too Manu of tje MUSSels were raW!",
+    "_id": "51291fb0b6107f4214000297",
+    "__v": 0,
+    "created": "2013-02-23T19:59:44.204Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fcc928d81348000002",
+      "511eb5fc3eef831644000003"
+    ]
+  },
+  {
+    "userId": "51290e93b6107f4214000278",
+    "comment": "contra ",
+    "_id": "51291fccb6107f4214000298",
+    "__v": 0,
+    "created": "2013-02-23T20:00:12.760Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5fc074c4dfe1e000007",
+      "511eb5fe262d43f511000005"
+    ]
+  },
+  {
+    "userId": "51290d02b6107f4214000275",
+    "comment": "boring actially",
+    "_id": "51291feb68972f2e58000e20",
+    "__v": 0,
+    "created": "2013-02-23T20:00:43.223Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffba34b2fa7e000005",
+      "511eb5ff262d43f511000006"
+    ]
+  },
+  {
+    "userId": "51290d86b75960ea14000095",
+    "comment": "5",
+    "_id": "51292011b6107f4214000299",
+    "__v": 0,
+    "created": "2013-02-23T20:01:21.417Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb60130c8ce243300000d",
+      "511eb6018593183f6a000009"
+    ]
+  },
+  {
+    "userId": "51290d02b6107f4214000275",
+    "comment": "don't go there!",
+    "_id": "51292039b6107f421400029a",
+    "__v": 0,
+    "created": "2013-02-23T20:02:01.593Z",
+    "rating": 1,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb5ffba34b2fa7e000005",
+      "511eb5ff30c8ce243300000a"
+    ]
+  },
+  {
+    "userId": "51290d86b75960ea14000095",
+    "comment": "good",
+    "_id": "512920ac7ec0ffc3260000f2",
+    "__v": 0,
+    "created": "2013-02-23T20:03:56.104Z",
+    "rating": 3,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600ffdbd7f73f00000a",
+      "511eb6015940442a3b00000b"
+    ]
+  },
+  {
+    "userId": "51290d02b6107f4214000275",
+    "comment": "lovely refreshing",
+    "_id": "512920b7b6107f421400029b",
+    "__v": 0,
+    "created": "2013-02-23T20:04:07.713Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb60030c8ce243300000c",
+      "511eb60130c8ce243300000d"
+    ]
+  },
+  {
+    "userId": "51290c9f2223c3bd22000dd9",
+    "comment": "smoking hot!",
+    "_id": "512920ebfdc1988b660001f9",
+    "__v": 0,
+    "created": "2013-02-23T20:04:59.705Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600c928d81348000005",
+      "511eb5ff8593183f6a000008"
+    ]
+  },
+  {
+    "userId": "51290e93b6107f4214000278",
+    "comment": "fresh",
+    "_id": "51292ca251ead1117e0000d1",
+    "__v": 0,
+    "created": "2013-02-23T20:54:58.305Z",
+    "rating": 4,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb6013eef83164400000b",
+      "511eb601074c4dfe1e000010"
+    ]
+  },
+  {
+    "userId": "51290c7a2223c3bd22000dd6",
+    "comment": "tak for god aften",
+    "_id": "51292e4651ead1117e0000d2",
+    "__v": 0,
+    "created": "2013-02-23T21:01:58.440Z",
+    "rating": 5,
+    "flavorIds": [
+      "511eb5fc5940442a3b000002",
+      "511eb600ffdbd7f73f000009",
+      "511eb600c928d81348000006"
+    ]
+  }
+]
