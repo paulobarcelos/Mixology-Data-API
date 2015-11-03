@@ -6,10 +6,10 @@
 	"dependencies" : {
 		"express": "3.1.0",
 		"path": "0.4.9",
-		"mongoose": "3.5.5"
+		"mongoose": "*"
 	},
 	"engines": {
-		"node": "0.8.12"
+		"node": "*"
 	},
 	"keywords": [
 		"mixology"
