@@ -211,7 +211,7 @@ var Flavor = new mongoose.Schema({
 	created: {
 		type: Date,
 		default: Date.now
-	},
+	}
 });
 registerAction('flavors', mongoose.model('Flavor', Flavor));
 
