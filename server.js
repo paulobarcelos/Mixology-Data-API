@@ -1,10 +1,10 @@
 // inspired by http://www.pixelhandler.com/blog/2012/02/09/develop-a-restful-api-using-node-js-with-express-and-mongoose/
 
-var 
+var
 express = require("express"),
 path = require("path"),
 mongoose = require('mongoose');
-	
+
 // Config
 var app = express();
 var allowCrossDomain = function(req, res, next) {
@@ -90,7 +90,7 @@ function registerAction (label, Model) {
 	app.put('/api/' + label + '/:id', function (request, response) {
 		updateSingle(request, response, Model);
 	});
-	
+
 }
 function getBulk (request, response, Model) {
 	var search;
@@ -115,7 +115,7 @@ function getBulk (request, response, Model) {
 	}
 
 	sort = sort || {created:1};
-	
+
 	Model
 		.find(search)
 		.sort(sort)
@@ -139,7 +139,7 @@ function createSingle (request, response, Model) {
 }
 function updateSingle (request, response, Model) {
 	Model.findByIdAndUpdate(
-		request.params.id, 
+		request.params.id,
 		request.body,
 		function (error, results) {
 			apiResponse(request, response, error, results)
@@ -176,7 +176,7 @@ function apiResponse (request, response, error, results) {
 
 var apiVersion = '1.0.0';
 app.get('/api', function (req, res) {
-	var hello = { 
+	var hello = {
 		hi: 'Welcome to Mixology Data API ' + apiVersion,
 		name: 'Mixology Data API',
 		version: apiVersion,
@@ -188,15 +188,15 @@ var User = new mongoose.Schema({
 	browser : {
 		type: String
 	},
-	created: { 
+	created: {
 		type: Date,
 		default: Date.now
 	}
 });
 registerAction('users', mongoose.model('User', User));
- 
+
 var Flavor = new mongoose.Schema({
-	name: { 
+	name: {
 		type: String,
 		required: true,
 		unique: true
@@ -204,39 +204,42 @@ var Flavor = new mongoose.Schema({
 	color: {
 		type: String
 	},
+	size: {
+		type: Number
+	},
 	groups: [String],
-	created: { 
-		type: Date, 
-		default: Date.now 
+	created: {
+		type: Date,
+		default: Date.now
 	},
 });
 registerAction('flavors', mongoose.model('Flavor', Flavor));
- 
+
 var Combination = new mongoose.Schema({
 	flavorIds: [String],
-	rating: { 
-		type: Number, 
+	rating: {
+		type: Number,
 		enum: [0, 1, 2, 3, 4, 5],
 		required: false,
 		default: 0
 	},
-	comment: { 
+	comment: {
 		type: String
 	},
-	created: { 
-		type: Date, 
+	created: {
+		type: Date,
 		default: Date.now
 	},
-	userId: { 
+	userId: {
 		type: String
 	}
 });
 registerAction('combinations', mongoose.model('Combination', Combination));
 
- 
-var apiVersion = '1.0.0';
+
+var apiVersion = '1.1.0';
 app.get('/api', function (req, res) {
-	var hello = { 
+	var hello = {
 		hi: 'Welcome to Mixology Data API ' + apiVersion,
 		name: 'Mixology Data API',
 		version: apiVersion,
