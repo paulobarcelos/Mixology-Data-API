@@ -1,5 +1,5 @@
 {
-	"name": "API 31T",
+	"name": "api-31t",
 	"version": "1.2.0",
 	"author": "Paulo Barcelos",
 	"description": "API for interacting with 31T data during the experiments.",
