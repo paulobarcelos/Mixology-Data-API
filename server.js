@@ -201,13 +201,17 @@ var Flavor = new mongoose.Schema({
 		required: true,
 		unique: true
 	},
+	label: {
+		type: String,
+		required: true,
+		unique: true
+	},
 	color: {
 		type: String
 	},
 	size: {
 		type: Number
 	},
-	groups: [String],
 	created: {
 		type: Date,
 		default: Date.now
@@ -240,8 +244,8 @@ registerAction('combinations', mongoose.model('Combination', Combination));
 var apiVersion = '1.1.0';
 app.get('/api', function (req, res) {
 	var hello = {
-		hi: 'Welcome to Mixology Data API ' + apiVersion,
-		name: 'Mixology Data API',
+		hi: 'Welcome to 31T Data API ' + apiVersion,
+		name: '31T Data API',
 		version: apiVersion,
 	};
 	res.send(hello);
