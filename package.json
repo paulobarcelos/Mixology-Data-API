@@ -1,6 +1,6 @@
 {
 	"name": "api-31t",
-	"version": "1.2.0",
+	"version": "1.2.1",
 	"author": "Paulo Barcelos",
 	"description": "API for interacting with 31T data during the experiments.",
 	"dependencies" : {

@@ -174,16 +174,6 @@ function apiResponse (request, response, error, results) {
 	}
 }
 
-var apiVersion = '1.0.0';
-app.get('/api', function (req, res) {
-	var hello = {
-		hi: 'Welcome to Mixology Data API ' + apiVersion,
-		name: 'Mixology Data API',
-		version: apiVersion,
-	};
-	res.send(hello);
-});
-
 var User = new mongoose.Schema({
 	browser : {
 		type: String
@@ -241,7 +231,7 @@ var Combination = new mongoose.Schema({
 registerAction('combinations', mongoose.model('Combination', Combination));
 
 
-var apiVersion = '1.1.0';
+var apiVersion = '1.2.1';
 app.get('/api', function (req, res) {
 	var hello = {
 		hi: 'Welcome to 31T Data API ' + apiVersion,
