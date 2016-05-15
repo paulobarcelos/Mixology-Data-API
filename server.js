@@ -202,6 +202,12 @@ var Flavor = new mongoose.Schema({
 	size: {
 		type: Number
 	},
+	width: {
+		type: Number
+	},
+	height: {
+		type: Number
+	},
 	created: {
 		type: Date,
 		default: Date.now
@@ -231,7 +237,7 @@ var Combination = new mongoose.Schema({
 registerAction('combinations', mongoose.model('Combination', Combination));
 
 
-var apiVersion = '1.2.1';
+var apiVersion = '1.3.0';
 app.get('/api', function (req, res) {
 	var hello = {
 		hi: 'Welcome to 31T Data API ' + apiVersion,
