@@ -43,7 +43,9 @@ var generate_mongo_url = function(obj){
 }
 var mongoURL;
 
-if(process.env.MONGOLAB_URI){
+if(process.env.MONGODB_URI){
+	mongoURL = process.env.MONGODB_URI;
+} else if(process.env.MONGOLAB_URI){
 	mongoURL = process.env.MONGOLAB_URI;
 }
 else if(process.env.VCAP_SERVICES){
@@ -58,7 +60,7 @@ else{
 		"username":"",
 		"password":"",
 		"name":"",
-		"db":"mixology"
+		"db":"31t"
 	}
 	mongoURL = generate_mongo_url(mongo);
 }
@@ -191,6 +193,11 @@ var Flavor = new mongoose.Schema({
 		required: true,
 		unique: true
 	},
+	name_th: {
+		type: String,
+		required: false,
+		unique: true
+	},
 	label: {
 		type: String,
 		required: true,
@@ -237,7 +244,7 @@ var Combination = new mongoose.Schema({
 registerAction('combinations', mongoose.model('Combination', Combination));
 
 
-var apiVersion = '1.3.0';
+var apiVersion = '1.4.0';
 app.get('/api', function (req, res) {
 	var hello = {
 		hi: 'Welcome to 31T Data API ' + apiVersion,
