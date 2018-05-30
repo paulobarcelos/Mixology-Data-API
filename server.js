@@ -196,7 +196,10 @@ var Flavor = new mongoose.Schema({
 	name_th: {
 		type: String,
 		required: false,
-		unique: true
+	},
+	name_sv: {
+		type: String,
+		required: false,
 	},
 	label: {
 		type: String,
@@ -244,7 +247,7 @@ var Combination = new mongoose.Schema({
 registerAction('combinations', mongoose.model('Combination', Combination));
 
 
-var apiVersion = '1.4.0';
+var apiVersion = '1.4.1';
 app.get('/api', function (req, res) {
 	var hello = {
 		hi: 'Welcome to 31T Data API ' + apiVersion,
